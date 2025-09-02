@@ -1,0 +1,115 @@
+{
+	"label": "Ortho",
+	"children": [
+		{
+			"label": "Mobility",
+			"action": "Choose 1",
+			"required": true,
+			"children": [
+				{ "label": "Free-Standing", "action": "Choice" },
+				{ "label": "Mobile", "action": "Choice" }
+			]
+		},
+		{
+			"label": "Size",
+			"action": "Choose 1",
+			"required": true,
+			"children": [
+				{ "label": "Standard", "action": "Choice" },
+				{ "label": "Narrow", "action": "Choice" }
+			]
+		},
+		{
+			"label": "Handedness",
+			"action": "Choose 1",
+			"required": true,
+			"children": [
+				{ "label": "Left Handed", "action": "Choice" },
+				{ "label": "Right Handed", "action": "Choice" }
+			]
+		},
+		{
+			"label": "Laminate Color",
+			"action": "Choose 1",
+			"children": [
+				{ "label": "Custom", "action": "Choice" },
+				{ "label": "Asian Night", "action": "Choice" },
+				{ "label": "Skyline Walnut", "action": "Choice" },
+				{ "label": "Cosmic Strandz", "action": "Choice" },
+				{ "label": "Satin Stainless", "action": "Choice" },
+				{ "label": "Nightfall", "action": "Choice" },
+				{ "label": "Blackbird", "action": "Choice" },
+				{ "label": "Black Matte", "action": "Choice" },
+				{ "label": "Sterling Ash", "action": "Choice" },
+				{ "label": "Colombian Walnut", "action": "Choice" },
+				{ "label": "Walnut Heights", "action": "Choice" },
+				{ "label": "Uptown Walnut", "action": "Choice" },
+				{ "label": "Fawn Cypress", "action": "Choice" },
+				{ "label": "Daintree", "action": "Choice" },
+				{ "label": "Kingswood Walnut", "action": "Choice" },
+				{ "label": "Italian Silver Ash", "action": "Choice" },
+				{ "label": "Studio Teak", "action": "Choice" },
+				{ "label": "Veranda Teak", "action": "Choice" },
+				{ "label": "5th Ave Elm", "action": "Choice" },
+				{ "label": "Handspun Dove", "action": "Choice" },
+				{ "label": "Handspun Chestnut", "action": "Choice" },
+				{ "label": "Handspun Pearl", "action": "Choice" },
+				{ "label": "Vapor Strandz", "action": "Choice" },
+				{ "label": "Beigewood", "action": "Choice" },
+				{ "label": "Asian Sand", "action": "Choice" },
+				{ "label": "Belair", "action": "Choice" },
+				{ "label": "Phantom Pearl", "action": "Choice" },
+				{ "label": "Crisp Linen", "action": "Choice" },
+				{ "label": "Crystal", "action": "Choice" },
+				{ "label": "Magnolia", "action": "Choice" },
+				{ "label": "Linen", "action": "Choice" },
+				{ "label": "Designer White Matte", "action": "Choice" },
+				{ "label": "Designer White Gloss", "action": "Choice" }
+			]
+		},
+		{
+			"label": "Solid Surface Color",
+			"action": "Choose 1",
+			"children": [
+				{ "label": "Custom", "action": "Choice" },
+				{ "label": "Midnight Melange", "action": "Choice" },
+				{ "label": "Bluestone", "action": "Choice" },
+				{ "label": "Angel Falls", "action": "Choice" },
+				{ "label": "Gulf Coast", "action": "Choice" },
+				{ "label": "Calming Waves", "action": "Choice" },
+				{ "label": "Whisper White", "action": "Choice" },
+				{ "label": "Morning Ice", "action": "Choice" },
+				{ "label": "Golden Sail", "action": "Choice" },
+				{ "label": "Coconut Oil", "action": "Choice" },
+				{ "label": "Milk Glass Spectra", "action": "Choice" },
+				{ "label": "Mystique", "action": "Choice" },
+				{ "label": "Dusk Ice", "action": "Choice" },
+				{ "label": "Basalt Concrete", "action": "Choice" },
+				{ "label": "Silver Smoke", "action": "Choice" },
+				{ "label": "Peace Grey", "action": "Choice" },
+				{ "label": "Pearl Mirage", "action": "Choice" },
+				{ "label": "Soothing Grey", "action": "Choice" },
+				{ "label": "Arctic Dune", "action": "Choice" },
+				{ "label": "Designer White", "action": "Choice" },
+				{ "label": "Frosty White Mirage", "action": "Choice" }
+			]
+		},
+		{
+			"label": "Drawer Setup",
+			"action": "Choose 1",
+			"required": true,
+			"children": [
+				{ "label": "4 Drawers", "action": "Choice" },
+				{ "label": "5 Drawers", "action": "Choice" },
+				{ "label": "1 Shelf, 4 Drawers", "action": "Choice" },
+				{ "label": "1 Shelf, 4 Drawers", "action": "Choice" }
+			]
+		},
+		{ "label": "Computer Package", "action": "Boolean" },
+		{ "label": "Keyboard Tray", "action": "Boolean" },
+		{ "label": "Mouse Tray", "action": "Boolean" },
+		{ "label": "Glove Dispenser", "action": "Boolean" },
+		{ "label": "Waste Chute", "action": "Boolean" },
+		{ "label": "Sanitizer Wipes", "action": "Boolean" }
+	]
+}
