@@ -1,17 +1,5 @@
 <script>
-	let { data = {}, pruned = false } = $props();
-
-	function getNodeById(node, id) {
-		if (node.id === id) {
-			return node;
-		}
-
-		for (const child of node.children ?? []) {
-			const found = getNodeById(child, id);
-			if (found) return found;
-		}
-		return null;
-	}
+	let { data = {} } = $props();
 </script>
 
 <!-- Frame -->
@@ -21,19 +9,18 @@
 
 <!-- Reference -->
 {#snippet renderNode(node, depth = 0)}
-	{#if !pruned || node === getNodeById(data, node.parent)?.selection}
-		<div class="line">
-			<span>{'\t'.repeat(depth)}</span>
+	<div class="line">
+		<span>{'\t'.repeat(depth)}</span>
 
-			<span
-				class:selectable={node.action === 'Choice'}
-				class:required={node.required}
-				class:choice={node.action === 'Choice'}
-			>
-				{node.label}
-			</span>
-		</div>
-	{/if}
+		<span
+			class:selectable={node.action === 'Choice'}
+			class:required={node.required}
+			class:choice={node.action === 'Choice'}
+		>
+			{node.label}
+		</span>
+	</div>
+
 	{#if node.children && node.children.length}
 		{#each node.children as child}
 			{@render renderNode(child, depth + 1)}

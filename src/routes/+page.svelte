@@ -1,9 +1,9 @@
 <script>
 	import DecisionPath from '$lib/components/DecisionPath.svelte';
-	import TextTree from '$lib/components/TextTree.svelte';
+	import TextTreePruned from '$lib/components/TextTreePruned.svelte';
+	import TextTreeFull from '$lib/components/TextTreeFull.svelte';
 
 	import orthoGhost from '$lib/data/orthoGhost.json';
-	import { orthoTarget } from '$lib/data/orthoTarget';
 
 	let data = $state();
 	$inspect(data);
@@ -22,6 +22,7 @@
 
 			// Generate selection variable
 			if (node.action === 'Choose 1') node.selection = null;
+			if (node.action === 'Boolean') node.selection = false;
 
 			// Traversal
 			if (node.children && node.children.length > 0) {
@@ -39,14 +40,14 @@
 	<h1>Ortho Configuration</h1>
 	<div class="pane-container">
 		<div class="pane">
-			<TextTree {data} />
+			<TextTreeFull {data} />
 		</div>
 		<div class="pane">
 			<!-- <textarea rows="10" style="resize: none;">{orthoTarget}</textarea> -->
 			<DecisionPath {data} />
 		</div>
 		<div class="pane">
-			<TextTree {data} pruned />
+			<TextTreePruned {data} />
 		</div>
 	</div>
 </div>

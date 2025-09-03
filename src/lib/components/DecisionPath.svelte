@@ -30,25 +30,26 @@
 </div>
 
 <!-- Reference -->
-{#snippet renderNode(node, depth = 0)}
+{#snippet renderNode(node, parent = null, depth = 0)}
 	<!-- What is shown per line -->
-	{#if node.action === 'Choose 1'}
+
+	<!-- Parent label -->
+	{#if node.type === 'decision'}
 		<div>{node.label}</div>
-	{:else if node.action === 'Choice'}
+	{/if}
+
+	<!-- Types of questions -->
+	{#if parent?.action === 'Choose 1'}
 		<button onclick={() => handleClick(node)}>{node.label}</button>
-	{:else}
-		<!-- else content here -->
+	{:else if node?.action === 'Boolean'}
+		<input type="checkbox" bind:checked={node.selection} />
 	{/if}
 
 	<!-- Render children -->
 	{#if node.children && node.children.length}
 		{#each node.children as child}
-			{@render renderNode(child, depth + 1)}
+			{@render renderNode(child, node, depth + 1)}
 		{/each}
-	{/if}
-
-	{#if node.action === 'Choose 1'}
-		<!-- content here -->
 	{/if}
 {/snippet}
 
