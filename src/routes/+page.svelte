@@ -1,9 +1,14 @@
 <script>
 	import DecisionPath from '$lib/components/DecisionPath.svelte';
-	import TextTreePruned from '$lib/components/TextTreePruned.svelte';
 	import TextTreeFull from '$lib/components/TextTreeFull.svelte';
+	import TextTreePruned from '$lib/components/TextTreePruned.svelte';
+	import TextTreeBom from '$lib/components/TextTreeBom.svelte';
 
 	import orthoGhost from '$lib/data/orthoGhost.json';
+	import orthoBOM from '$lib/data/orthoBOM.json';
+
+	let bomData = $state();
+	bomData = orthoBOM;
 
 	let data = $state();
 	$inspect(data);
@@ -16,6 +21,12 @@
 		function traverse(node, parent = null, path = '1') {
 			// Generate ID
 			node.id = node.label + ' ' + path;
+
+			if (node.type === 'root') {
+				node.expanded = true;
+			} else {
+				node.expanded = false;
+			}
 
 			// Generate parent
 			node.parent = parent?.id;
@@ -43,8 +54,10 @@
 			<TextTreeFull {data} />
 		</div>
 		<div class="pane">
-			<!-- <textarea rows="10" style="resize: none;">{orthoTarget}</textarea> -->
 			<DecisionPath {data} />
+		</div>
+		<div class="pane">
+			<TextTreePruned {data} />
 		</div>
 		<div class="pane">
 			<TextTreePruned {data} />
@@ -54,11 +67,8 @@
 
 <style>
 	.frame {
-		height: 50%;
+		height: 100%;
 		width: 100%;
-
-		display: flex;
-		flex-direction: column;
 	}
 
 	h1 {
@@ -67,17 +77,23 @@
 	}
 
 	.pane-container {
-		height: 100%;
+		flex: 1 1 auto;
+		max-height: 90%;
 
-		display: flex;
-		flex-direction: row;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		grid-template-rows: repeat(2, minmax(0, 1fr));
 	}
 
 	.pane {
-		flex: 1;
-		height: 100%;
 		border: solid pink 1px;
 		padding: 1rem;
-		list-style: none;
+		overflow: auto;
+		min-width: 0;
+		min-height: 0;
+
+		border: 1px solid #ddd;
+		padding: 0.75rem;
+		box-sizing: border-box;
 	}
 </style>

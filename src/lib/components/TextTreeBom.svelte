@@ -1,10 +1,5 @@
 <script>
 	let { data = {} } = $props();
-
-	function toggleExpand(node) {
-		node.expanded = !node.expanded;
-		console.log('toggled');
-	}
 </script>
 
 <!-- Frame -->
@@ -15,18 +10,8 @@
 <!-- Reference -->
 {#snippet renderNode(node, depth = 0)}
 	<div class="line">
-		<!-- Spacer -->
 		<span>{'\t'.repeat(depth)}</span>
 
-		<!-- Caret -->
-		{#if node.children}
-			<div class="arrow-container">
-				<div class="arrow" class:closed={!node.expanded} onclick={() => toggleExpand(node)}>
-					&#9660;
-				</div>
-			</div>
-		{/if}
-		<!-- Label -->
 		<span
 			class:selectable={node.action === 'Choice'}
 			class:required={node.required}
@@ -36,7 +21,7 @@
 		</span>
 	</div>
 
-	{#if node.children && node.children.length && node.expanded}
+	{#if node.children && node.children.length}
 		{#each node.children as child}
 			{@render renderNode(child, depth + 1)}
 		{/each}
@@ -49,11 +34,9 @@
 	}
 
 	.line {
-		display: flex;
 		white-space: pre;
 		font-family: monospace;
 		padding: 1px 0;
-		gap: 5px;
 	}
 
 	.selectable {
@@ -68,21 +51,5 @@
 
 	.choice {
 		color: green;
-	}
-
-	.arrow {
-		height: 100%;
-		aspect-ratio: 1;
-		display: inline-block;
-		cursor: pointer;
-		aspect-ratio: 1;
-		text-align: center;
-		padding: 0px 2px;
-		user-select: none;
-		transition: rotate 0.125s ease-out;
-	}
-
-	.closed {
-		rotate: -90deg;
 	}
 </style>
