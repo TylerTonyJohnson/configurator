@@ -6,6 +6,7 @@
 
 	import orthoGhost from '$lib/data/orthoGhost.json';
 	import orthoBOM from '$lib/data/orthoBOM.json';
+	import OrderedList from '$lib/components/OrderedList.svelte';
 
 	let bomData = $state();
 	bomData = orthoBOM;
@@ -48,7 +49,7 @@
 </script>
 
 <div class="frame">
-	<h1>Ortho Configuration</h1>
+	<!-- <h1>Ortho Configuration</h1> -->
 	<div class="pane-container">
 		<div class="pane">
 			<TextTreeFull {data} />
@@ -63,6 +64,8 @@
 			<TextTreePruned {data} />
 		</div>
 	</div>
+
+	<!-- <OrderedList /> -->
 </div>
 
 <style>

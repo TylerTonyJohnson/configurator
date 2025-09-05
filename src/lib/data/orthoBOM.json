@@ -1,4 +1,17 @@
 {
 	"label": "Ortho",
-	"type": "root"
+	"type": "root",
+	"children": [
+		{
+			"label": "Ortho",
+			"part": "CZ1450",
+			"type": "decision",
+			"action": "Choose 1",
+			"required": true,
+			"children": [
+				{ "label": "Free-Standing", "type": "option" },
+				{ "label": "Mobile", "type": "option" }
+			]
+		}
+	]
 }
