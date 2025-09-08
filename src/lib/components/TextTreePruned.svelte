@@ -101,12 +101,6 @@
 		padding: 1px 0;
 	}
 
-	.selectable {
-		background-color: pink;
-		padding: 1px 4px;
-		cursor: pointer;
-	}
-
 	.required {
 		position: relative;
 	}
@@ -124,7 +118,8 @@
 	}
 
 	.selection {
-		color: blue;
-		outline: solid blue 1px;
+		color: var(--pico-primary);
+		outline: solid var(--pico-primary) 1px;
+		padding: 0 3px;
 	}
 </style>

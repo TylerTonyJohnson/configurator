@@ -1,0 +1,6854 @@
+[
+	{
+		"partNum": "1555E",
+		"description": "Tapmaster Hands Free Faucet Control",
+		"weight": 2.5,
+		"price": 710
+	},
+	{
+		"partNum": "26197",
+		"description": "Cable Assy, 2-GFCI Outlet, Black",
+		"weight": 0,
+		"price": 520
+	},
+	{
+		"partNum": "26198",
+		"description": "Cable Assy, 2-GFCI Outlet, White",
+		"weight": 0,
+		"price": 520
+	},
+	{
+		"partNum": "26454L",
+		"description": "Pedo Bench Unit, Delivery System Kit, Left",
+		"weight": 0,
+		"price": 3610
+	},
+	{
+		"partNum": "26454R",
+		"description": "Pedo Bench Unit, Delivery System Kit, Right",
+		"weight": 0,
+		"price": 3610
+	},
+	{
+		"partNum": "4812E",
+		"description": "Add Mouse Tray (Attached to Keyboard Tray)",
+		"weight": 0,
+		"price": 170
+	},
+	{ "partNum": "4825E", "description": "Add Keyboard Tray", "weight": 0, "price": 360 },
+	{ "partNum": "54631", "description": "Naugasoft Upholstery", "weight": 0, "price": 0 },
+	{ "partNum": "54632", "description": "Ultraleather Upholstery", "weight": 0, "price": 750 },
+	{
+		"partNum": "54644",
+		"description": "Non-Standard Upholstery Upcharge per Chair**",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "6559E",
+		"description": "Add Air/Water Quick Disconnect Panel",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "67052-300",
+		"description": "LED Jumper, 25ft Socket-Pin, Sterilization Center",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "67064G",
+		"description": "Additional HVE Option w/Holder, Ortho Cabinet, Light Gray",
+		"weight": 0,
+		"price": 160
+	},
+	{
+		"partNum": "67065G",
+		"description": "Additional One Button Syringe w/Holder, Ortho Cabinet, Light Gray",
+		"weight": 0,
+		"price": 130
+	},
+	{
+		"partNum": "67087",
+		"description": "Assy, Bin Container, 6 X 8, Clear",
+		"weight": 0,
+		"price": 26
+	},
+	{ "partNum": "67089", "description": "Assy, Mobile Shelf, Left", "weight": 0, "price": 380 },
+	{
+		"partNum": "67090",
+		"description": "Assy, Side Access Pullout, CR5600",
+		"weight": 0,
+		"price": 46
+	},
+	{ "partNum": "67116", "description": "Bin, 2 x 2", "weight": 0, "price": 7 },
+	{ "partNum": "67117", "description": "Bin, 2 x 4", "weight": 0, "price": 9 },
+	{ "partNum": "67118", "description": "Bin, 2 x 6", "weight": 0, "price": 11 },
+	{ "partNum": "67119", "description": "Bin, 4 x 4", "weight": 0, "price": 11 },
+	{ "partNum": "67120", "description": "Bin, 4 x 6", "weight": 0, "price": 13 },
+	{ "partNum": "67126L", "description": "Assy, Glove Box, S5 CR, Left", "weight": 0, "price": 80 },
+	{ "partNum": "67126R", "description": "Assy, Glove Box, S5 CR, Right", "weight": 0, "price": 80 },
+	{
+		"partNum": "67136",
+		"description": "Assy, 42 Wide, 24 Pass Through Upper, Wood Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67136GD",
+		"description": "Assy, 42 Wide, 24 Pass Through Upper, Glass Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 680
+	},
+	{
+		"partNum": "67146L",
+		"description": "Assy, Left Upper, 24 Side Panel, w/o Gloves, w/3 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67146R",
+		"description": "Assy, Right Upper, 24 Side Panel, w/o Gloves, w/3 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67148L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, 5 Utility Drawers, CR5500",
+		"weight": 0,
+		"price": 1140
+	},
+	{
+		"partNum": "67148R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, 5 Utility Drawers, CR5500",
+		"weight": 0,
+		"price": 1140
+	},
+	{
+		"partNum": "67149L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, 4 Utility Drawers, CR5500",
+		"weight": 0,
+		"price": 990
+	},
+	{
+		"partNum": "67149R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, 4 Utility Drawers, CR5500",
+		"weight": 0,
+		"price": 990
+	},
+	{
+		"partNum": "67157",
+		"description": "Assy, Center Lower Module For Floor Mount Delivery Unit w/Bifold Door",
+		"weight": 0,
+		"price": 0
+	},
+	{ "partNum": "67164", "description": "Solid Accessory Panel", "weight": 0, "price": 0 },
+	{
+		"partNum": "67165",
+		"description": "Nitrous Cutout, Accessory Panel, Porter MXR  ",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67167",
+		"description": "Nitrous Cutout, Accessory Panel, Accutron Ultra PC 36800",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67169",
+		"description": "Nitrous Cutout, Accessory Panel, Accutron Ultra Digital PC 56800",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67178",
+		"description": "Assy, Side Access Pullout, CR5500",
+		"weight": 0,
+		"price": 46
+	},
+	{ "partNum": "67179", "description": "Assy, Mobile Shelf, Right", "weight": 0, "price": 380 },
+	{ "partNum": "67191", "description": "Assy, Static Shelf, CR5500", "weight": 0, "price": 260 },
+	{ "partNum": "67194", "description": "Assy, 2 Tip Out Bins", "weight": 0, "price": 160 },
+	{
+		"partNum": "67199L",
+		"description": "Assy, Left Upper, 30 Side Panel, w/o Gloves, w/3 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67199R",
+		"description": "Assy, Right Upper, 30 Side Panel, w/o Gloves, w/3 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67200",
+		"description": "Assy, 42 Wide, 24 Non-Pass Through Upper, Wood Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67200GD",
+		"description": "Assy, 42 Wide, 24 Non-Pass Through Upper, Glass Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 340
+	},
+	{
+		"partNum": "67201",
+		"description": "Assy, 42 Wide, 30 Pass Through Upper, Wood Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 420
+	},
+	{
+		"partNum": "67201GD",
+		"description": "Assy, 42 Wide, 30 Pass Through Upper, Glass Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 1100
+	},
+	{
+		"partNum": "67202",
+		"description": "Assy, 42 Wide, 30 Non-Pass Through Upper, Wood Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 420
+	},
+	{
+		"partNum": "67202GD",
+		"description": "Assy, 42 Wide, 30 Non-Pass Through Upper, Glass Doors, w/Interior Lights, CR5500",
+		"weight": 0,
+		"price": 760
+	},
+	{
+		"partNum": "67233",
+		"description": "Accessory Panel w/4 Tip Out Bins  ",
+		"weight": 0,
+		"price": 190
+	},
+	{ "partNum": "67254", "description": "Assy, Static Shelf, CR5600", "weight": 0, "price": 260 },
+	{
+		"partNum": "67256",
+		"description": "Colored Drawer Organizers and Bin Container, 2 Blue 2x6, 1 Orange 4x6, 1 Clear Container 6x8",
+		"weight": 0,
+		"price": 80
+	},
+	{
+		"partNum": "67257",
+		"description": "Colored Drawer Organizers and Bin, 1 Orange 4X6, 1 Purple 4X4, 2 Yellow 2X2, 1 Clear Container 6X8",
+		"weight": 0,
+		"price": 80
+	},
+	{
+		"partNum": "67258",
+		"description": "Colored Drawer Organizers and Bin Container, 2 Purple 4x4, 2 Green 2x4, 1 Clear Container 6x8",
+		"weight": 0,
+		"price": 80
+	},
+	{
+		"partNum": "67264L",
+		"description": "Assy, Left Upper, 24 Side Panel, w/Gloves, w/2 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67264R",
+		"description": "Assy, Right Upper, 24 Side Panel, w/Gloves, w/2 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67266L",
+		"description": "Assy, Left Upper, 30 Side Panel, w/Gloves, w/2 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67266R",
+		"description": "Assy, Right Upper, 30 Side Panel, w/Gloves, w/2 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67278",
+		"description": "Assy, 36 Wide, 24 Pass Through Upper, Wood Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67278GD",
+		"description": "Assy, 36 Wide, 24 Pass Through Upper, Glass Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 680
+	},
+	{
+		"partNum": "67279",
+		"description": "Assy, 36 Wide, 24 Non-Pass Through Upper, Wood Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67279GD",
+		"description": "Assy, 36 Wide, 24 Non-Pass Through Upper, Glass Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 340
+	},
+	{
+		"partNum": "67280",
+		"description": "Assy, 36 Wide, 30 Pass Through Upper, Wood Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 420
+	},
+	{
+		"partNum": "67280GD",
+		"description": "Assy, 36 Wide, 30 Pass Through Upper, Glass Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 1100
+	},
+	{
+		"partNum": "67281",
+		"description": "Assy, 36 Wide, 30 Non-Pass Through Upper, Wood Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 420
+	},
+	{
+		"partNum": "67281GD",
+		"description": "Assy, 36 Wide, 30 Non-Pass Through Upper, Glass Doors, w/Interior Lights, CR5600",
+		"weight": 0,
+		"price": 760
+	},
+	{
+		"partNum": "67323L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, CR5600",
+		"weight": 0,
+		"price": 530
+	},
+	{
+		"partNum": "67323R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, CR5600",
+		"weight": 0,
+		"price": 530
+	},
+	{
+		"partNum": "67344L",
+		"description": "Assy, Left Front Access, 4 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67344R",
+		"description": "Assy, Right Front Access, 4 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67348L",
+		"description": "Assy, Left Front Access, 4 Drawer, Full Extension, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67348R",
+		"description": "Assy, Right Front Access, 4 Drawer, Full Extension, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67353L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, 5 Utility Drawers, CR5600",
+		"weight": 0,
+		"price": 1140
+	},
+	{
+		"partNum": "67353R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, 5 Utility Drawers, CR5600",
+		"weight": 0,
+		"price": 1140
+	},
+	{
+		"partNum": "67354L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, 4 Utility Drawers, CR5600",
+		"weight": 0,
+		"price": 990
+	},
+	{
+		"partNum": "67354R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, 4 Utility Drawers, CR5600",
+		"weight": 0,
+		"price": 990
+	},
+	{
+		"partNum": "67359",
+		"description": "Assy, 3 Glass Shelves, CR5500/CR5600",
+		"weight": 0,
+		"price": 140
+	},
+	{
+		"partNum": "67369",
+		"description": "Monitor Mount, Standard Top Mounted",
+		"weight": 31,
+		"price": 1030
+	},
+	{
+		"partNum": "67370",
+		"description": "Monitor Mount, Extended Top Mounted",
+		"weight": 35,
+		"price": 1030
+	},
+	{
+		"partNum": "67416L",
+		"description": "Assy, Left Front Access, 3 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67416R",
+		"description": "Assy, Right Front Access, 3 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67417L",
+		"description": "Assy, Left Front Access, Flip Down, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67417R",
+		"description": "Assy, Right Front Access, Flip Down, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67418L",
+		"description": "Assy, Left Side Access, 3 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67418R",
+		"description": "Assy, Right Side Access, 3 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67419L",
+		"description": "Assy, Left Side Access, 4 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67419R",
+		"description": "Assy, Right Side Access, 4 Drawer, Full-Extension, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67420",
+		"description": "Assy, Center Lower Module, w/Bifold Door, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67422L",
+		"description": "Assy, Left Front Access, 3 Drawer Module, Full Extension, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67422R",
+		"description": "Assy, Right Front Access, 3 Drawer Module, Full Extension, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67423L",
+		"description": "Assy, Left Front Access, Flip Down Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67423R",
+		"description": "Assy, Right Front Access, Flip Down Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67424L",
+		"description": "Assy, Left Side Access, 3 Drawer Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67424R",
+		"description": "Assy, Right Side Access, 3 Drawer Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67425L",
+		"description": "Assy, Left Side Access, 4 Drawer Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67425R",
+		"description": "Assy, Right Side Access, 4 Drawer Module, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67433L",
+		"description": "Assy, Left Side Access, 1 Ergo Shelf, CR5500",
+		"weight": 0,
+		"price": 530
+	},
+	{
+		"partNum": "67433R",
+		"description": "Assy, Right Side Access, 1 Ergo Shelf, CR5500",
+		"weight": 0,
+		"price": 530
+	},
+	{
+		"partNum": "67439",
+		"description": "Assy, Center Lower Module, For Mobile Delivery, w/Short Bifold Door, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67449L",
+		"description": "Assy, Left Side Access, CR5500",
+		"weight": 0,
+		"price": 160
+	},
+	{
+		"partNum": "67449R",
+		"description": "Assy, Right Side Access, CR5500",
+		"weight": 0,
+		"price": 160
+	},
+	{
+		"partNum": "67476L",
+		"description": "Assy, Left Side Access, Empty, CR5600",
+		"weight": 0,
+		"price": 160
+	},
+	{
+		"partNum": "67476R",
+		"description": "Assy, Right Side Access, Empty, CR5600",
+		"weight": 0,
+		"price": 160
+	},
+	{ "partNum": "67495", "description": "Solid Accessory Panel, CR5600", "weight": 0, "price": 0 },
+	{
+		"partNum": "67496",
+		"description": "Nitrous Cutout, Accessory Panel, Accutron Ultra PC 36800, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67497",
+		"description": "Nitrous Cutout, Accessory Panel, Accutron Ultra Digital PC 56800, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67583",
+		"description": "Nitrous Cutout, Accessory Panel, Porter Digital MDM, CR5500",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67584",
+		"description": "Nitrous Cutout, Accessory Panel, Porter Digital MDM, CR5600",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67599-32",
+		"description": "Back Panel, By The Inch, 32 Tall Cabinets",
+		"weight": 0.6,
+		"price": 13
+	},
+	{
+		"partNum": "67599-36",
+		"description": "Back Panel, By The Inch, 36 Tall Cabinets",
+		"weight": 0.7,
+		"price": 13
+	},
+	{
+		"partNum": "67599-12",
+		"description": "Back Panel, By The Inch, 12 OClock Cabinets",
+		"weight": 0.6,
+		"price": 13
+	},
+	{
+		"partNum": "67607L",
+		"description": "Assy, Left Front Access, FlowStar Cutout w/2 Full-Extension Drawers",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67607R",
+		"description": "Assy, Right Front Access, FlowStar Cutout w/2 Full-Extension Drawers",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67609L",
+		"description": "Assy, Left Front Access, FlowStar Cutout w/2 Standard Drawers",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67609R",
+		"description": "Assy, Right Front Access, FlowStar Cutout w/2 Standard Drawers",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "67625L",
+		"description": "Assy, Left Front Access, FlowStar Cutout w/2 Full-Extension Drawers, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "67625R",
+		"description": "Assy, Right Front Access, FlowStar Cutout w/2 Full-Extension Drawers, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "67626L",
+		"description": "Assy, Left Front Access, FlowStar Cutout w/2 Standard Drawers, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "67626R",
+		"description": "Assy, Right Front Access, FlowStar Cutout w/2 Standard Drawers, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68031",
+		"description": "Computer Pkg Upgrade, Narrow Cart (includes CPU Storage w/Fan, Monitor Mount)",
+		"weight": 0,
+		"price": 650
+	},
+	{ "partNum": "68032", "description": "Delete Control Head", "weight": 0, "price": -630 },
+	{
+		"partNum": "6804E",
+		"description": "Undermount Sharps & Waste Drop",
+		"weight": 0,
+		"price": 490
+	},
+	{
+		"partNum": "68051",
+		"description": "Dress Panel, Front Access, 12 OClock, S4",
+		"weight": 8,
+		"price": 250
+	},
+	{ "partNum": "68091", "description": "Shelf, 12 x 17, Side Cabinet", "weight": 3, "price": 80 },
+	{ "partNum": "68092", "description": "Shelf, 16 x 17, Side Cabinet", "weight": 5, "price": 90 },
+	{ "partNum": "68093", "description": "Shelf, 20 x 17, Side Cabinet", "weight": 6, "price": 100 },
+	{ "partNum": "68094", "description": "Shelf, 24 x 17, Side Cabinet", "weight": 7, "price": 110 },
+	{ "partNum": "68095", "description": "Shelf, 28 x 17, Side Cabinet", "weight": 8, "price": 120 },
+	{ "partNum": "68096", "description": "Shelf, 32 x 17, Side Cabinet", "weight": 9, "price": 130 },
+	{
+		"partNum": "6822",
+		"description": "Holder Assy, Sanitizer Wipes, White",
+		"weight": 1.25,
+		"price": 31
+	},
+	{
+		"partNum": "68250L",
+		"description": "Front Access Door Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68250R",
+		"description": "Front Access Door Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68251L",
+		"description": "Front Access Drawer Module Left Side",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68251R",
+		"description": "Front Access Drawer Module Right Side",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68252L",
+		"description": "Front Access Flip Down Module Left Side",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68252R",
+		"description": "Front Access Flip Down Module Right Side",
+		"weight": 0,
+		"price": 410
+	},
+	{ "partNum": "68254", "description": "Center Module for Delivery", "weight": 0, "price": 0 },
+	{ "partNum": "68255", "description": "Center Module for Door Only", "weight": 0, "price": 0 },
+	{
+		"partNum": "68256L",
+		"description": "Side Access Door Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68256R",
+		"description": "Side Access Door Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68257L",
+		"description": "Side Access Drawer Module Left Side",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68257R",
+		"description": "Side Access Drawer Module Right Side",
+		"weight": 0,
+		"price": 410
+	},
+	{ "partNum": "68260", "description": "Center Chase, S5", "weight": 0, "price": 0 },
+	{ "partNum": "68261", "description": "Center Chase for Porter MXR, S5", "weight": 0, "price": 0 },
+	{
+		"partNum": "68262",
+		"description": "Center Chase for Accutron Digital Ultra 56800, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68263",
+		"description": "Center Chase for Accutron Ultra PC 36800, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68264L",
+		"description": "24 Tall Upper Left 12 OClock w/3 Glass Shelves, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68264R",
+		"description": "24 Tall Upper Right 12 OClock w/3 Glass Shelves, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68265G",
+		"description": "Add Set of 3 Glass Shelves, Center",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68266",
+		"description": "24 Tall Upper Center Module for CPU, 42 Wide 12 OClock, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{ "partNum": "68268", "description": "Back Panel Assy, 74", "weight": 160, "price": 1920 },
+	{
+		"partNum": "68278",
+		"description": "Steel Subbase, 45, Corner, Dark Gray",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68287",
+		"description": "Faucet, Single-Hole, 1 GPM, w/o Pop-Up",
+		"weight": 2.69,
+		"price": 280
+	},
+	{ "partNum": "68300", "description": "Door Module, 12 x 17 x 32", "weight": 70, "price": 780 },
+	{ "partNum": "68300-15", "description": "Door Module, 12 x 15 x 32", "weight": 66, "price": 770 },
+	{ "partNum": "68301", "description": "Door Module, 16 x 17 x 32", "weight": 86, "price": 830 },
+	{ "partNum": "68301-15", "description": "Door Module, 16 x 15 x 32", "weight": 81, "price": 820 },
+	{ "partNum": "68302", "description": "Door Module, 20 x 17 x 32", "weight": 105, "price": 890 },
+	{ "partNum": "68302-15", "description": "Door Module, 20 x 15 x 32", "weight": 97, "price": 870 },
+	{ "partNum": "68303", "description": "Door Module, 24 x 17 x 32", "weight": 118, "price": 940 },
+	{
+		"partNum": "68303-15",
+		"description": "Door Module, 24 x 15 x 32",
+		"weight": 112,
+		"price": 940
+	},
+	{ "partNum": "68304", "description": "Door Module, 28 x 17 x 32", "weight": 134, "price": 1180 },
+	{
+		"partNum": "68304-15",
+		"description": "Door Module, 28 x 15 x 32",
+		"weight": 134,
+		"price": 1180
+	},
+	{ "partNum": "68305", "description": "Door Module, 32 x 17 x 32", "weight": 150, "price": 1410 },
+	{
+		"partNum": "68305-15",
+		"description": "Door Module, 32 x 15 x 32",
+		"weight": 134,
+		"price": 1400
+	},
+	{
+		"partNum": "68306",
+		"description": "Sink Module, No Waste, 20 x 17 x 32",
+		"weight": 84,
+		"price": 890
+	},
+	{
+		"partNum": "68306-15",
+		"description": "Sink Module, No Waste, 20 x 15 x 32",
+		"weight": 81,
+		"price": 870
+	},
+	{
+		"partNum": "68306L",
+		"description": "Sink Module, Front Waste, 20 x 17 x 32, Hinge Left",
+		"weight": 84,
+		"price": 1090
+	},
+	{
+		"partNum": "68306L-15",
+		"description": "Sink Module, Front Waste, 20 x 15 x 32, Hinge Left",
+		"weight": 81,
+		"price": 1090
+	},
+	{
+		"partNum": "68306R",
+		"description": "Sink Module, Front Waste, 20 x 17 x 32, Hinge Right",
+		"weight": 85,
+		"price": 1090
+	},
+	{
+		"partNum": "68306R-15",
+		"description": "Sink Module, Front Waste, 20 x 15 x 32, Hinge Right",
+		"weight": 81,
+		"price": 1090
+	},
+	{ "partNum": "68307", "description": "Sink Module, 24 x 17 x 32", "weight": 97, "price": 940 },
+	{ "partNum": "68307-15", "description": "Sink Module, 24 x 15 x 32", "weight": 93, "price": 940 },
+	{ "partNum": "68308", "description": "Sink Module, 28 x 17 x 32", "weight": 109, "price": 1180 },
+	{
+		"partNum": "68308-15",
+		"description": "Sink Module, 28 x 15 x 32",
+		"weight": 105,
+		"price": 1180
+	},
+	{
+		"partNum": "68309",
+		"description": "Drawer, Style A, 12 x 17 x 32",
+		"weight": 93,
+		"price": 1280
+	},
+	{
+		"partNum": "68309-15",
+		"description": "4 Drawer Module, 12 x 15 x 32",
+		"weight": 89,
+		"price": 1280
+	},
+	{
+		"partNum": "68310",
+		"description": "Drawer, Style A, 16 x 17 x 32",
+		"weight": 109,
+		"price": 1520
+	},
+	{
+		"partNum": "68310-15",
+		"description": "4 Drawer Module, 16 x 15 x 32",
+		"weight": 105,
+		"price": 1520
+	},
+	{
+		"partNum": "68311",
+		"description": "Drawer, Style A, 20 x 17 x 32",
+		"weight": 126,
+		"price": 1750
+	},
+	{
+		"partNum": "68311-15",
+		"description": "4 Drawer Module, 20 x 15 x 32",
+		"weight": 108,
+		"price": 1750
+	},
+	{
+		"partNum": "68312",
+		"description": "Drawer, Style A, 24 x 17 x 32",
+		"weight": 143,
+		"price": 1980
+	},
+	{
+		"partNum": "68312-15",
+		"description": "4 Drawer Module, 24 x 15 x 32",
+		"weight": 133,
+		"price": 1970
+	},
+	{
+		"partNum": "68313",
+		"description": "Drawer, Style B, 12 x 17 x 32",
+		"weight": 91,
+		"price": 1260
+	},
+	{
+		"partNum": "68313-15",
+		"description": "3 Drawer Module, 12 x 15 x 32",
+		"weight": 87,
+		"price": 1250
+	},
+	{
+		"partNum": "68314",
+		"description": "Drawer, Style B, 16 x 17 x 32",
+		"weight": 107,
+		"price": 1500
+	},
+	{
+		"partNum": "68314-15",
+		"description": "3 Drawer Module, 16 x 15 x 32",
+		"weight": 102,
+		"price": 1490
+	},
+	{
+		"partNum": "68315",
+		"description": "Drawer, Style B, 20 x 17 x 32",
+		"weight": 122,
+		"price": 1710
+	},
+	{
+		"partNum": "68315-15",
+		"description": "3 Drawer Module, 20 x 15 x 32",
+		"weight": 118,
+		"price": 1710
+	},
+	{
+		"partNum": "68316",
+		"description": "Drawer, Style B, 24 x 17 x 32",
+		"weight": 138,
+		"price": 1950
+	},
+	{
+		"partNum": "68316-15",
+		"description": "3 Drawer Module, 24 x 15 x 32",
+		"weight": 133,
+		"price": 1950
+	},
+	{
+		"partNum": "68317",
+		"description": "Side Access Drawer, Style A, 17 x 32",
+		"weight": 121,
+		"price": 1760
+	},
+	{
+		"partNum": "68317-15",
+		"description": "Side Access Module, 4 Drawer, 15 x 32",
+		"weight": 114,
+		"price": 1760
+	},
+	{
+		"partNum": "68318",
+		"description": "Side Access Drawer, Style B, 17 x 32",
+		"weight": 118,
+		"price": 1730
+	},
+	{
+		"partNum": "68318-15",
+		"description": "Side Access Module, 3 Drawer, 15 x 32",
+		"weight": 111,
+		"price": 1710
+	},
+	{ "partNum": "68319", "description": "Pencil Drawer, 28 x 17 x 32", "weight": 88, "price": 1300 },
+	{
+		"partNum": "68319-15",
+		"description": "Pencil Drawer, 28 x 15 x 32",
+		"weight": 84,
+		"price": 1290
+	},
+	{
+		"partNum": "68320",
+		"description": "Pencil Drawer, +.69, 28 x 17 x 32",
+		"weight": 81,
+		"price": 1060
+	},
+	{
+		"partNum": "68320-15",
+		"description": "Pencil Drawer +.69, 28 x 15 x 32",
+		"weight": 78,
+		"price": 1050
+	},
+	{
+		"partNum": "68321",
+		"description": "Pencil Drawer, +1.38, 28 x 17 x 32",
+		"weight": 75,
+		"price": 820
+	},
+	{
+		"partNum": "68321-15",
+		"description": "Pencil Drawer +1.38, 28 x 15 x 32",
+		"weight": 73,
+		"price": 810
+	},
+	{ "partNum": "68322", "description": "Pencil Drawer, 32 x 17 x 32", "weight": 99, "price": 1540 },
+	{
+		"partNum": "68322-15",
+		"description": "Pencil Drawer, 32 x 15 x 32",
+		"weight": 95,
+		"price": 1530
+	},
+	{
+		"partNum": "68322B",
+		"description": "Pencil Drawer Module w/Bottom Panel, 32 Wide x 17 Deep x 32 Tall",
+		"weight": 124,
+		"price": 1680
+	},
+	{
+		"partNum": "68323",
+		"description": "Pencil Drawer, +.69, 32 x 17 x 32",
+		"weight": 93,
+		"price": 1290
+	},
+	{
+		"partNum": "68323-15",
+		"description": "Pencil Drawer +.69, 32 x 15 x 32",
+		"weight": 89,
+		"price": 1280
+	},
+	{
+		"partNum": "68324",
+		"description": "Pencil Drawer, +1.38, 32 x 17 x 32",
+		"weight": 86,
+		"price": 1050
+	},
+	{
+		"partNum": "68324-15",
+		"description": "Pencil Drawer +1.38, 32 x 15 x 32",
+		"weight": 84,
+		"price": 1030
+	},
+	{ "partNum": "68325", "description": "Leg, Left, 17 x 32", "weight": 15, "price": 250 },
+	{ "partNum": "68325-15", "description": "Leg, Left, 15 x 32", "weight": 14, "price": 240 },
+	{ "partNum": "68326", "description": "Leg, Right, 17 x 32", "weight": 15, "price": 250 },
+	{ "partNum": "68326-15", "description": "Leg, Right, 15 x 32", "weight": 14, "price": 240 },
+	{ "partNum": "68327", "description": "Dress Panel, 17 x 32", "weight": 9, "price": 250 },
+	{
+		"partNum": "68327-15",
+		"description": "Dress Panel, 15, 32 Tall, Side Cabinet",
+		"weight": 10,
+		"price": 240
+	},
+	{
+		"partNum": "68328",
+		"description": "Left Leg for Pencil Drawer, 17 x 32",
+		"weight": 10,
+		"price": 250
+	},
+	{
+		"partNum": "68328-15",
+		"description": "Left Leg for Pencil Drawer, 15 x 32",
+		"weight": 9,
+		"price": 240
+	},
+	{
+		"partNum": "68329",
+		"description": "Right Leg for Pencil Drawer, 17 x 32",
+		"weight": 10,
+		"price": 250
+	},
+	{
+		"partNum": "68329-15",
+		"description": "Right Leg for Pencil Drawer, 15 x 32",
+		"weight": 9,
+		"price": 240
+	},
+	{ "partNum": "68330", "description": "Corner Module, 45, 17 x 32", "weight": 105, "price": 1700 },
+	{
+		"partNum": "68331-20",
+		"description": "20 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep",
+		"weight": 28,
+		"price": 840
+	},
+	{
+		"partNum": "68331-20T",
+		"description": "20 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep, T-Wall",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68331-24",
+		"description": "24 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep",
+		"weight": 37,
+		"price": 870
+	},
+	{
+		"partNum": "68331-24T",
+		"description": "24 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep, T-Wall",
+		"weight": 0,
+		"price": 60
+	},
+	{
+		"partNum": "68331-30",
+		"description": "30 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep",
+		"weight": 42,
+		"price": 900
+	},
+	{
+		"partNum": "68331-30T",
+		"description": "30 Height Glove, Cup & Towel Dispenser, 20 Wide, 8 Deep, T-Wall",
+		"weight": 0,
+		"price": 80
+	},
+	{ "partNum": "68347", "description": "Center Chase, S4, No Cutouts", "weight": 0, "price": 0 },
+	{
+		"partNum": "68348",
+		"description": "Center Chase, Porter MXR, Cutout",
+		"weight": 0,
+		"price": 140
+	},
+	{
+		"partNum": "68349",
+		"description": "Center Chase, Accutron 56800, S4, Cutout",
+		"weight": 0,
+		"price": 140
+	},
+	{
+		"partNum": "68350",
+		"description": "Center Chase, Accutron 36800, S4, Cutout",
+		"weight": 0,
+		"price": 140
+	},
+	{
+		"partNum": "68353",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces 12 OClock",
+		"weight": 0,
+		"price": 470
+	},
+	{
+		"partNum": "68354",
+		"description": "Non-Standard Solid Surface Countertop Fee 12 OClock",
+		"weight": 0,
+		"price": 330
+	},
+	{
+		"partNum": "68355",
+		"description": "Non-Standard Laminate for Vertical Surfaces Fee Side Cabinet",
+		"weight": 0,
+		"price": 310
+	},
+	{
+		"partNum": "68356",
+		"description": "Non-Standard Solid Surface Countertop Fee Side Cabinet",
+		"weight": 0,
+		"price": 440
+	},
+	{ "partNum": "68357", "description": "Sink", "weight": 2.44, "price": 140 },
+	{
+		"partNum": "68363",
+		"description": "Non-Standard Fee for Mobile Work Surface Only",
+		"weight": 0,
+		"price": 220
+	},
+	{ "partNum": "68364", "description": "Delete Series 4 Center Chase", "weight": 0, "price": -70 },
+	{
+		"partNum": "68375",
+		"description": "Decorative Back Panel, 42 Wide, 12 OClock, 74 Tall",
+		"weight": 59,
+		"price": 650
+	},
+	{
+		"partNum": "68375-80",
+		"description": "Decorative Back Panel, 42 Wide 12 OClock, 80 Tall",
+		"weight": 63,
+		"price": 650
+	},
+	{ "partNum": "68379", "description": "Center Lower Module for CPU", "weight": 0, "price": 0 },
+	{
+		"partNum": "68413L",
+		"description": "S5 Front Access Door Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68413R",
+		"description": "S5 Front Access Door Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68414L",
+		"description": "S5 Front Access Drawer Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68414R",
+		"description": "S5 Front Access Drawer Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68415L",
+		"description": "S5 Front Access Flip Down Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68415R",
+		"description": "S5 Front Access Flip Down Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68416L",
+		"description": "S5 Side Access Door Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68416R",
+		"description": "S5 Side Access Door Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68417L",
+		"description": "S5 Side Access Drawer Module Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68417R",
+		"description": "S5 Side Access Drawer Module Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{ "partNum": "68418", "description": "S5 Center Module for Delivery", "weight": 0, "price": 0 },
+	{ "partNum": "68419", "description": "S5 Center Module for Door", "weight": 0, "price": 0 },
+	{ "partNum": "68420", "description": "S5 Center Module for CPU", "weight": 0, "price": 0 },
+	{ "partNum": "68421", "description": "Delete Center Chase, S5", "weight": 0, "price": 0 },
+	{
+		"partNum": "68422",
+		"description": "Undermount Sharps and Waste Drop, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68423",
+		"description": "Tapmaster Hands Free Faucet Control",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68465",
+		"description": "2 Small Drawers, 1 Medium Drawer, 1 Deep Drawer (on standard cabinet)",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68466",
+		"description": "4 Small Drawers, 1 Deep Drawer (on standard cabinet)",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68467",
+		"description": "2 Small Drawers, 1 Medium Drawer, 1 Deep Drawer Module Option",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68468",
+		"description": "4 Small Drawers, 1 Deep Drawer Module Option",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68469",
+		"description": "Computer Pkg Upgrade (includes CPU Storage w/Fan, Monitor Mount)",
+		"weight": 0,
+		"price": 650
+	},
+	{ "partNum": "68470", "description": "Add Dual Glove Dispenser", "weight": 0, "price": 330 },
+	{
+		"partNum": "68471",
+		"description": "Add Waste Chute & Waste Cutout",
+		"weight": 0,
+		"price": 260
+	},
+	{
+		"partNum": "68489",
+		"description": "Open Module, Center Delivery, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68520",
+		"description": "Back Leg, Long, Center Island",
+		"weight": 33,
+		"price": 680
+	},
+	{
+		"partNum": "68521",
+		"description": "Back Leg, Short, Center Island",
+		"weight": 31,
+		"price": 630
+	},
+	{ "partNum": "68538", "description": "Sink Partition, Center Island", "weight": 7, "price": 260 },
+	{
+		"partNum": "68538-VARI",
+		"description": "Sink Partition, Center Island, Variable Length",
+		"weight": 0.4,
+		"price": 22
+	},
+	{ "partNum": "68540", "description": "Privacy Divider Storage", "weight": 13, "price": 520 },
+	{
+		"partNum": "68540-VARI",
+		"description": "Privacy Divider Storage, Variable Length",
+		"weight": 0.4,
+		"price": 22
+	},
+	{
+		"partNum": "68541",
+		"description": "Dress Panel, 28 Sink Module, Center Island",
+		"weight": 9,
+		"price": 250
+	},
+	{
+		"partNum": "68547",
+		"description": "Solid Surface Countertop, Round Sink, Center Island",
+		"weight": 57,
+		"price": 1480
+	},
+	{
+		"partNum": "68547-NS",
+		"description": "Solid Surface Countertop, No Sink, Center Island, S5",
+		"weight": 57,
+		"price": 1480
+	},
+	{
+		"partNum": "68547SH",
+		"description": "Solid Surface Countertop, Sharps, Round Sink, Center Island",
+		"weight": 57,
+		"price": 1480
+	},
+	{
+		"partNum": "68547SH-NS",
+		"description": "Solid Surface Countertop, No Sink, Sharps, Center Island, S5",
+		"weight": 57,
+		"price": 1480
+	},
+	{
+		"partNum": "68550",
+		"description": "Solid Surface Countertop, Center Island",
+		"weight": 57,
+		"price": 1290
+	},
+	{ "partNum": "68551", "description": "Add Lead Lining", "weight": 0, "price": 2790 },
+	{
+		"partNum": "68551-CI",
+		"description": "Add Lead Lining, Center Island",
+		"weight": 0,
+		"price": 2790
+	},
+	{
+		"partNum": "68551-CR",
+		"description": "Add Lead Lining, 12 OClock",
+		"weight": 0,
+		"price": 2210
+	},
+	{
+		"partNum": "68551-CX",
+		"description": "Add Lead Lining, X-Ray Pass Through",
+		"weight": 0,
+		"price": 2790
+	},
+	{
+		"partNum": "68555",
+		"description": "Countertop, S4 Rear, Center Island",
+		"weight": 57,
+		"price": 1290
+	},
+	{
+		"partNum": "68556",
+		"description": "Countertop, S4, Round Sink, Center Island",
+		"weight": 63,
+		"price": 1480
+	},
+	{
+		"partNum": "68556-NS",
+		"description": "Countertop, S4, No Sink, Center Island",
+		"weight": 63,
+		"price": 1480
+	},
+	{
+		"partNum": "68556-NS-NT",
+		"description": "Countertop, S4, No Sink, No Trash, Center Island",
+		"weight": 63,
+		"price": 1480
+	},
+	{
+		"partNum": "68556SH",
+		"description": "Countertop, S4, Sharps, Center Island",
+		"weight": 63,
+		"price": 1480
+	},
+	{
+		"partNum": "68556SH-NS",
+		"description": "Countertop, S4, No Sink, Sharps, Center Island",
+		"weight": 63,
+		"price": 1480
+	},
+	{
+		"partNum": "68560",
+		"description": "Sink Module, 28, Center Island",
+		"weight": 124,
+		"price": 680
+	},
+	{
+		"partNum": "68561-12",
+		"description": "4 Drawer Module, 12, Center Island",
+		"weight": 96,
+		"price": 1190
+	},
+	{
+		"partNum": "68561-16",
+		"description": "4 Drawer Module, 16, Center Island",
+		"weight": 109,
+		"price": 1290
+	},
+	{
+		"partNum": "68561-20",
+		"description": "4 Drawer Module, 20, Center Island",
+		"weight": 122,
+		"price": 1430
+	},
+	{
+		"partNum": "68561-24",
+		"description": "4 Drawer Module, 24, Center Island",
+		"weight": 135,
+		"price": 1540
+	},
+	{
+		"partNum": "68561-28",
+		"description": "4 Drawer Module, 28, Center Island",
+		"weight": 148,
+		"price": 1670
+	},
+	{
+		"partNum": "68563-12",
+		"description": "Drawer Module, 12, Dual Side Drawer, Center Island",
+		"weight": 97,
+		"price": 1250
+	},
+	{
+		"partNum": "68563-16",
+		"description": "Drawer Module, 16, Dual Side Drawer, Center Island",
+		"weight": 110,
+		"price": 1390
+	},
+	{
+		"partNum": "68563-20",
+		"description": "Drawer Module, 20, Dual Side Drawer, Center Island",
+		"weight": 124,
+		"price": 1500
+	},
+	{
+		"partNum": "68563-24",
+		"description": "Drawer Module, 24, Dual Side Drawer, Center Island",
+		"weight": 137,
+		"price": 1630
+	},
+	{
+		"partNum": "68563-28",
+		"description": "Drawer Module, 28, Dual Side Drawer, Center Island",
+		"weight": 150,
+		"price": 1740
+	},
+	{
+		"partNum": "68565-12",
+		"description": "Door Module, 12, Pass Thru, Center Island",
+		"weight": 74,
+		"price": 390
+	},
+	{
+		"partNum": "68565-16",
+		"description": "Door Module, 16, Pass Thru, Center Island",
+		"weight": 87,
+		"price": 500
+	},
+	{
+		"partNum": "68565-20",
+		"description": "Door Module, 20, Pass Thru, Center Island",
+		"weight": 101,
+		"price": 630
+	},
+	{
+		"partNum": "68565-24",
+		"description": "Door Module, 24, Pass Thru, Center Island",
+		"weight": 114,
+		"price": 800
+	},
+	{
+		"partNum": "68565-28",
+		"description": "Door Module, 28, Pass Thru, Center Island",
+		"weight": 127,
+		"price": 930
+	},
+	{ "partNum": "68566", "description": "X-ray Stand, 88", "weight": 145, "price": 3800 },
+	{
+		"partNum": "68567",
+		"description": "Center Island Dispenser Module",
+		"weight": 61,
+		"price": 900
+	},
+	{
+		"partNum": "68569-12D",
+		"description": "Upper, 12, Pass Thru, Next to Dispenser, Center Island",
+		"weight": 70,
+		"price": 980
+	},
+	{
+		"partNum": "68569-12S",
+		"description": "Upper, 12, Pass Thru, Storage Area, Center Island",
+		"weight": 70,
+		"price": 980
+	},
+	{
+		"partNum": "68569-16D",
+		"description": "Upper, 16, Pass Thru, Next to Dispenser, Center Island",
+		"weight": 84,
+		"price": 1120
+	},
+	{
+		"partNum": "68569-16S",
+		"description": "Upper, 16, Pass Thru, Storage Area, Center Island",
+		"weight": 84,
+		"price": 1120
+	},
+	{
+		"partNum": "68569-20D",
+		"description": "Upper, 20, Pass Thru, Next to Dispenser, Center Island",
+		"weight": 98,
+		"price": 1230
+	},
+	{
+		"partNum": "68569-20S",
+		"description": "Upper, 20, Pass Thru, Storage Area, Center Island",
+		"weight": 98,
+		"price": 1230
+	},
+	{
+		"partNum": "68569-24D",
+		"description": "Upper, 24, Pass Thru, Next to Dispenser, Center Island",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "68569-24S",
+		"description": "Upper, 24, Pass Thru, Storage Area, Center Island",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "68569-28D",
+		"description": "Upper, 28, Pass Thru, Next to Dispenser, Center Island",
+		"weight": 125,
+		"price": 1530
+	},
+	{
+		"partNum": "68569-28S",
+		"description": "Upper, 28, Pass Thru, Storage Area, Center Island",
+		"weight": 125,
+		"price": 1530
+	},
+	{
+		"partNum": "68572",
+		"description": "X-ray Storage Module, Center Island",
+		"weight": 216,
+		"price": 2870
+	},
+	{
+		"partNum": "68576",
+		"description": "Delivery Module for Right Handed Delivery, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68577",
+		"description": "Delivery Module for Left Handed Delivery, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68578",
+		"description": "Delivery Module for Right Handed Delivery, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68579",
+		"description": "Delivery Module for Left Handed Delivery, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68590",
+		"description": "Cover, Subbase, X-Ray Stand, Center Island, Dark Gray",
+		"weight": 2.12,
+		"price": 0
+	},
+	{
+		"partNum": "68591",
+		"description": "Cover, No Holes, Subbase, X-Ray Stand, Center Island, Dark Gray",
+		"weight": 2.19,
+		"price": 0
+	},
+	{
+		"partNum": "68635",
+		"description": "Delete Air/Water Quick Disconnect Door & Grommet",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68649-S4",
+		"description": "Divider, Wrapping Station, S4, Sterilization Center",
+		"weight": 21,
+		"price": 340
+	},
+	{
+		"partNum": "68649-S5",
+		"description": "Divider, Wrapping Station, S5, Sterilization Center",
+		"weight": 21,
+		"price": 340
+	},
+	{
+		"partNum": "68679",
+		"description": "Decorative Back Panel, 36 Wide 12 OClock, 74 Tall",
+		"weight": 50,
+		"price": 650
+	},
+	{
+		"partNum": "68679-80",
+		"description": "Decorative Back Panel, 36 Wide 12 OClock, 80 Tall",
+		"weight": 54,
+		"price": 650
+	},
+	{
+		"partNum": "68700L",
+		"description": "36 Front Access, Door Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68700R",
+		"description": "36 Front Access, Door Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68701L",
+		"description": "36 Front Access, Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68701R",
+		"description": "36 Front Access, Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68702L",
+		"description": "36 Front Access, 93mm Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68702R",
+		"description": "36 Front Access, 93mm Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68703L",
+		"description": "Front Access, 93mm Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68703R",
+		"description": "Front Access, 93mm Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68704L",
+		"description": "36 Front Access, Flip Down Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68704R",
+		"description": "36 Front Access, Flip Down Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68705L",
+		"description": "36 Side Access, Door Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68705R",
+		"description": "36 Side Access, Door Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68706L",
+		"description": "36 Side Access, Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68706R",
+		"description": "36 Side Access, Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68707L",
+		"description": "36 Side Access, 93mm Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68707R",
+		"description": "36 Side Access, 93mm Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68708L",
+		"description": "Side Access, 93mm Drawer Module, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68708R",
+		"description": "Side Access, 93mm Drawer Module, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68709",
+		"description": "36 Back Panel, Support Structure",
+		"weight": 143,
+		"price": 1920
+	},
+	{
+		"partNum": "68722",
+		"description": "Assy, Backsplash, Center Island, S5",
+		"weight": 7.77,
+		"price": 870
+	},
+	{
+		"partNum": "68743L",
+		"description": "36 Front Access Door Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68743R",
+		"description": "36 Front Access Door Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68744L",
+		"description": "36 Front Access Drawer Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68744R",
+		"description": "36 Front Access Drawer Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68745L",
+		"description": "36 Front Access, 93mm Drawer Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68745R",
+		"description": "36 Front Access, 93mm Drawer Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68746L",
+		"description": "36 Front Access Flip Down Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68746R",
+		"description": "36 Front Access Flip Down Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68747L",
+		"description": "36 Side Access Door Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68747R",
+		"description": "36 Side Access Door Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68748L",
+		"description": "36 Side Access Drawer Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68748R",
+		"description": "36 Side Access Drawer Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68749L",
+		"description": "36 Side Access, 93mm Drawer Module, Left Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68749R",
+		"description": "36 Side Access, 93mm Drawer Module, Right Side, Series 4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68750L",
+		"description": "Front Access, 93mm Drawer Module, Left Side, S4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68750R",
+		"description": "Front Access, 93mm Drawer Module, Right Side, S4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68751L",
+		"description": "Side Access, 93mm Drawer Module, Left Side, S4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68751R",
+		"description": "Side Access, 93mm Drawer Module, Right Side, S4",
+		"weight": 0,
+		"price": 410
+	},
+	{
+		"partNum": "68752",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces Center Island",
+		"weight": 0,
+		"price": 560
+	},
+	{
+		"partNum": "68753",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces w/X-Ray Doors Center Island",
+		"weight": 0,
+		"price": 560
+	},
+	{
+		"partNum": "68754",
+		"description": "Non-Standard Solid Surface Countertop Fee Center Island",
+		"weight": 0,
+		"price": 320
+	},
+	{
+		"partNum": "68755",
+		"description": "Non-Standard Solid Surface Countertop Fee Center Island w/Storage",
+		"weight": 0,
+		"price": 560
+	},
+	{
+		"partNum": "68756",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces (Lower Only) 12 OClock",
+		"weight": 0,
+		"price": 320
+	},
+	{
+		"partNum": "68757",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces (Upper Only) 12 OClock",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "68758",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces Ortho Cabinet",
+		"weight": 0,
+		"price": 320
+	},
+	{
+		"partNum": "68759",
+		"description": "Non-Standard Solid Surface Countertop Fee Ortho Cabinet",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "68760",
+		"description": "Non-Standard Laminate Fee for Vertical Surfaces Dispenser",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "68761",
+		"description": "Glove Dispenser, Single w/Grommet",
+		"weight": 0.59,
+		"price": 270
+	},
+	{
+		"partNum": "68762",
+		"description": "Glove Dispenser, Dual w/Grommets",
+		"weight": 1.13,
+		"price": 300
+	},
+	{
+		"partNum": "68763",
+		"description": "Glove Dispenser, Triple w/Grommets",
+		"weight": 1.72,
+		"price": 340
+	},
+	{
+		"partNum": "68797-SPL",
+		"description": "Non-Standard Laminate Color",
+		"weight": 0,
+		"price": 310
+	},
+	{
+		"partNum": "68797-VARI",
+		"description": "Laminate Wood, Variable Dimensions",
+		"weight": 85.1,
+		"price": 1200
+	},
+	{
+		"partNum": "68798-SPL",
+		"description": "Non-Standard Solid Surface Color",
+		"weight": 0,
+		"price": 430
+	},
+	{
+		"partNum": "68837",
+		"description": "Pass Through Upper w/CPU Vent, 42, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68839L",
+		"description": "No Glove Dispenser w/3 Glass Shelves, 12 OClock, Left Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68839R",
+		"description": "No Glove Dispenser w/3 Glass Shelves, 12 OClock, Right Side",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68840",
+		"description": "Glove Dispenser, Left Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68841",
+		"description": "Glove Dispenser, Right Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68844L",
+		"description": "Add 3 Glass Shelves, Left Side, 12 O’Clock",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68844R",
+		"description": "Add 3 Glass Shelves, Right Side, 12 O’Clock",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68845",
+		"description": "Add 3 Glass Shelves, Center, 12 O’Clock",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68846",
+		"description": "Chase Front, No Cutout, 12 O’Clock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68847",
+		"description": "Chase Front, Porter MXR, 12 O’Clock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68848",
+		"description": "Chase Front, Accutron 36800, 12 O’Clock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68849",
+		"description": "Chase Front, Accutron 56800, 12 O’Clock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68863",
+		"description": "Pass Through Upper, 36, w/CPU Vent, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68864",
+		"description": "Non-Pass Through Upper, 36, w/CPU Vent, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68868",
+		"description": "Non-Pass Through Upper w/CPU Vent, 42, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68907",
+		"description": "Back Leg, X-ray Module, Long, Center Island",
+		"weight": 33,
+		"price": 680
+	},
+	{
+		"partNum": "68908",
+		"description": "Back Leg, X-ray Module, Short, Center Island",
+		"weight": 31,
+		"price": 630
+	},
+	{
+		"partNum": "68915",
+		"description": "Delivery Module, Center Island",
+		"weight": 82,
+		"price": 1230
+	},
+	{
+		"partNum": "68919",
+		"description": "X-ray Stand, X-ray Module, 88",
+		"weight": 145,
+		"price": 3800
+	},
+	{
+		"partNum": "68921",
+		"description": "X-ray Stand, 88, CI4004/CI5004",
+		"weight": 145,
+		"price": 3800
+	},
+	{
+		"partNum": "68937",
+		"description": "Mounting Kit, 12 OClock & Ortho",
+		"weight": 4.14,
+		"price": 44
+	},
+	{
+		"partNum": "68949",
+		"description": "Front Door Glove Dispenser, Left, Series 5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68950",
+		"description": "Front Door Glove Dispenser, Right, Series 5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68951",
+		"description": "24 Tall Front Door Glove Dispenser, Wall Mounted, Left, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68952",
+		"description": "24 Tall Front Door Glove Dispenser, Wall Mounted, Right, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68953L",
+		"description": "Add 3 Glass Shelves, Wall Mounted, Left",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68953R",
+		"description": "Add 3 Glass Shelves, Wall Mounted, Right",
+		"weight": 0,
+		"price": 150
+	},
+	{
+		"partNum": "68955",
+		"description": "Delete Tap Master Handsfree Faucet Control",
+		"weight": 0,
+		"price": -250
+	},
+	{ "partNum": "68956", "description": "Delete Sink", "weight": 0, "price": -70 },
+	{ "partNum": "68957", "description": "Delete Faucet", "weight": 0, "price": -50 },
+	{ "partNum": "68958", "description": "Delete Soap Dispenser", "weight": 0, "price": -20 },
+	{ "partNum": "68959", "description": "Delete Trash Chute and Cutout", "weight": 0, "price": -40 },
+	{
+		"partNum": "68960",
+		"description": "Decorative Back Panel, 42, Lower Only",
+		"weight": 22,
+		"price": 410
+	},
+	{
+		"partNum": "68962",
+		"description": "24 Tall Front Door Glove Dispenser, Wall Mounted, Left, S4",
+		"weight": 0,
+		"price": 330
+	},
+	{
+		"partNum": "68963",
+		"description": "24 Tall Front Door Glove Dispenser, Wall Mounted, Right, S4",
+		"weight": 0,
+		"price": 330
+	},
+	{
+		"partNum": "68964",
+		"description": "Decorative Back Panel, 36, Lower Only",
+		"weight": 19,
+		"price": 410
+	},
+	{
+		"partNum": "68975",
+		"description": "30 Pass Through Upper w/CPU Vent, 42, 12 OClock",
+		"weight": 0,
+		"price": 440
+	},
+	{
+		"partNum": "68976",
+		"description": "30 Non-Pass Through Upper w/CPU Vent, 42, 12 OClock",
+		"weight": 0,
+		"price": 440
+	},
+	{
+		"partNum": "68979",
+		"description": "30 Pass Through Upper, 36, w/CPU Vent, 12 OClock",
+		"weight": 0,
+		"price": 430
+	},
+	{
+		"partNum": "68980",
+		"description": "30 Non-Pass Through Upper, 36, w/CPU Vent, 12 OClock",
+		"weight": 0,
+		"price": 430
+	},
+	{
+		"partNum": "68983L",
+		"description": "No Glove Dispenser w/3 Glass Shelves, 30 Tall Upper, Left Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68983R",
+		"description": "No Glove Dispenser w/3 Glass Shelves, 30 Tall Upper, Right Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68984",
+		"description": "Glove Dispenser, 30 Tall Upper, Left Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68985",
+		"description": "Glove Dispenser, 30 Tall Upper, Right Side, 12 OClock",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68986",
+		"description": "Front Door Glove Dispenser, 30 Tall Upper, Left Side, Series 5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68987",
+		"description": "Front Door Glove Dispenser, 30 Tall Upper, Right Side, Series 5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68989",
+		"description": "Faucet, Single-Hole, 1.2 GPM, w/ Pop-Up",
+		"weight": 6.32,
+		"price": 650
+	},
+	{
+		"partNum": "68991",
+		"description": "Soap Dispenser, Nickel-Plated Finish",
+		"weight": 1,
+		"price": 150
+	},
+	{ "partNum": "69000", "description": "No Front Waste", "weight": 0, "price": 0 },
+	{
+		"partNum": "69216",
+		"description": "Assy, Small Dress Panel, Upper, Sterilization Center",
+		"weight": 2,
+		"price": 80
+	},
+	{
+		"partNum": "69216-12D",
+		"description": "Assy, Small Dress Panel, 12 Deep Upper, Sterilization Center",
+		"weight": 2,
+		"price": 80
+	},
+	{
+		"partNum": "69244",
+		"description": "Cubbie, 24 Wrapping Station, Sterilization Center",
+		"weight": 14,
+		"price": 330
+	},
+	{
+		"partNum": "69314",
+		"description": "Cubbie, 28 Wrapping Station, Sterilization Center",
+		"weight": 16,
+		"price": 340
+	},
+	{
+		"partNum": "69368",
+		"description": "Kitchen Faucet with Pull Down Sprayer, Brushed Nickel",
+		"weight": 7.82,
+		"price": 560
+	},
+	{ "partNum": "69431", "description": "Side Cabinet Sink Package", "weight": 5.6, "price": 670 },
+	{
+		"partNum": "69432",
+		"description": "Side Cabinet Sink Package w/8 Tall Faucet",
+		"weight": 9.22,
+		"price": 940
+	},
+	{
+		"partNum": "69433",
+		"description": "Top Waste Drop 6 w/Large Waste Basket",
+		"weight": 2.72,
+		"price": 220
+	},
+	{
+		"partNum": "69433-MWB",
+		"description": "Top Waste Drop 6 w/Medium Waste Basket",
+		"weight": 1.72,
+		"price": 220
+	},
+	{
+		"partNum": "69433-SWB",
+		"description": "Top Waste Drop 6 w/Small Waste Basket",
+		"weight": 1.02,
+		"price": 220
+	},
+	{
+		"partNum": "69434",
+		"description": "Top Waste Drop 4 w/Large Waste Basket",
+		"weight": 2.6,
+		"price": 220
+	},
+	{
+		"partNum": "69435",
+		"description": "Top Waste Drop 4 w/Small Waste Basket",
+		"weight": 0.91,
+		"price": 220
+	},
+	{
+		"partNum": "69436",
+		"description": "Front Waste Drop w/Medium Waste Basket",
+		"weight": 1.34,
+		"price": 220
+	},
+	{
+		"partNum": "69473",
+		"description": "End Panel, Closed, Sterilization Center, Dark Gray",
+		"weight": 3.36,
+		"price": 0
+	},
+	{
+		"partNum": "69474CL",
+		"description": "Solid Surface Sidesplash w/Chase Left, 507mm, Sterilization Center",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69474CR",
+		"description": "Solid Surface Sidesplash w/Chase Right, 507mm, Sterilization Center",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69474L",
+		"description": "Solid Surface Sidesplash Left, 606mm, Sterilization Center",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69474R",
+		"description": "Solid Surface Sidesplash Right, 606mm, Sterilization Center",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69475L",
+		"description": "Solid Surface Sidesplash Left, 452mm, Side Cabinets",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69475L-12",
+		"description": "Solid Surface Sidesplash Left, 486mm, 12 OClock Extended Cabinets",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69475L-15",
+		"description": "Solid Surface Sidesplash Left, 401mm, 15 Deep Side Cabinets",
+		"weight": 1,
+		"price": 70
+	},
+	{
+		"partNum": "69475R",
+		"description": "Solid Surface Sidesplash Right, 452mm, Side Cabinets",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69475R-12",
+		"description": "Solid Surface Sidesplash Right, 486mm, 12 OClock Extended Cabinets",
+		"weight": 1,
+		"price": 80
+	},
+	{
+		"partNum": "69475R-15",
+		"description": "Solid Surface Sidesplash Right, 401mm, 15 Deep Side Cabinets",
+		"weight": 1,
+		"price": 70
+	},
+	{
+		"partNum": "69477",
+		"description": "Solid Surface S4 Countertop, By The Inch, Side Cabinet",
+		"weight": 0.9,
+		"price": 29
+	},
+	{
+		"partNum": "69477-15",
+		"description": "Solid Surface S4 Countertop, By the Inch, 15 Deep, Side Cabinet",
+		"weight": 0.8,
+		"price": 29
+	},
+	{
+		"partNum": "69478",
+		"description": "Solid Surface S5 Countertop, By The Inch, Side Cabinet",
+		"weight": 1,
+		"price": 29
+	},
+	{
+		"partNum": "69491",
+		"description": "Hinged Storage Tower, 12 Wide, 74 Tall, 480mm Deep",
+		"weight": 130,
+		"price": 1630
+	},
+	{
+		"partNum": "69492",
+		"description": "Hinged Storage Tower, 16 Wide, 74 Tall, 480mm Deep",
+		"weight": 156,
+		"price": 1870
+	},
+	{
+		"partNum": "69493",
+		"description": "Hinged Storage Tower, 12 Wide, 74 Tall, 604mm Deep",
+		"weight": 150,
+		"price": 2220
+	},
+	{
+		"partNum": "69494",
+		"description": "Hinged Storage Tower, 16 Wide, 74 Tall, 604mm Deep",
+		"weight": 183,
+		"price": 2440
+	},
+	{
+		"partNum": "69507",
+		"description": "1 Keyboard Shelf, 3 Small Drawers, 1 Deep, Standard",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69508",
+		"description": "1 Keyboard Shelf, 1 Small Drawer, 1 Medium Drawer, 1 Deep Drawer, Standard",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69509",
+		"description": "1 Keyboard Shelf, 3 Small Drawers, 1 Deep, Narrow",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69510",
+		"description": "1 Keyboard Shelf, 1 Small Drawer, 1 Medium Drawer, 1 Deep Drawer, Narrow",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69513",
+		"description": "Solid Surface Backsplash, By The Inch",
+		"weight": 0.1,
+		"price": 14
+	},
+	{ "partNum": "69572", "description": "Door Module, 12 x 17 x 36", "weight": 77, "price": 890 },
+	{ "partNum": "69572-15", "description": "Door Module, 12 x 15 x 36", "weight": 72, "price": 870 },
+	{ "partNum": "69573", "description": "Door Module, 16 x 17 x 36", "weight": 91, "price": 940 },
+	{ "partNum": "69573-15", "description": "Door Module, 16 x 15 x 36", "weight": 85, "price": 930 },
+	{ "partNum": "69574", "description": "Door Module, 20 x 17 x 36", "weight": 106, "price": 990 },
+	{ "partNum": "69574-15", "description": "Door Module, 20 x 15 x 36", "weight": 98, "price": 990 },
+	{ "partNum": "69575", "description": "Door Module, 24 x 17 x 36", "weight": 120, "price": 1060 },
+	{
+		"partNum": "69575-15",
+		"description": "Door Module, 24 x 15 x 36",
+		"weight": 110,
+		"price": 1060
+	},
+	{ "partNum": "69576", "description": "Door Module, 28 x 17 x 36", "weight": 134, "price": 1280 },
+	{
+		"partNum": "69576-15",
+		"description": "Door Module, 28 x 15 x 36",
+		"weight": 123,
+		"price": 1280
+	},
+	{ "partNum": "69577", "description": "Door Module, 32 x 17 x 36", "weight": 144, "price": 1530 },
+	{
+		"partNum": "69577-15",
+		"description": "Door Module, 32 x 15 x 36",
+		"weight": 133,
+		"price": 1520
+	},
+	{ "partNum": "69578", "description": "Door Module, 36 x 17 x 36", "weight": 154, "price": 1760 },
+	{
+		"partNum": "69578-15",
+		"description": "Door Module, 36 x 15 x 36",
+		"weight": 143,
+		"price": 1750
+	},
+	{
+		"partNum": "69579",
+		"description": "Small Drawer, Single Door Module, 12 x 17 x 36",
+		"weight": 87,
+		"price": 990
+	},
+	{
+		"partNum": "69579-15",
+		"description": "Small Drawer, Single Door Module, 12 x 15 x 36",
+		"weight": 83,
+		"price": 980
+	},
+	{
+		"partNum": "69580",
+		"description": "Small Drawer, Single Door Module, 16 x 17 x 36",
+		"weight": 102,
+		"price": 1060
+	},
+	{
+		"partNum": "69580-15",
+		"description": "Small Drawer, Single Door Module, 16 x 15 x 36",
+		"weight": 96,
+		"price": 1060
+	},
+	{
+		"partNum": "69581",
+		"description": "Small Drawer, Single Door Module, 20 x 17 x 36",
+		"weight": 116,
+		"price": 1130
+	},
+	{
+		"partNum": "69581-15",
+		"description": "Small Drawer, Single Door Module, 20 x 15 x 36",
+		"weight": 109,
+		"price": 1120
+	},
+	{
+		"partNum": "69582",
+		"description": "Small Drawer, Double Door Module, 24 x 17 x 36",
+		"weight": 131,
+		"price": 1200
+	},
+	{
+		"partNum": "69582-15",
+		"description": "Small Drawer, Double Door Module, 24 x 15 x 36",
+		"weight": 122,
+		"price": 1190
+	},
+	{
+		"partNum": "69583",
+		"description": "Large Drawer, Single Door Module, 12 x 17 x 36",
+		"weight": 86,
+		"price": 1000
+	},
+	{
+		"partNum": "69583-15",
+		"description": "Large Drawer, Single Door Module, 12 x 15 x 36",
+		"weight": 82,
+		"price": 990
+	},
+	{
+		"partNum": "69584",
+		"description": "Large Drawer, Single Door Module, 16 x 17 x 36",
+		"weight": 100,
+		"price": 1070
+	},
+	{
+		"partNum": "69584-15",
+		"description": "Large Drawer, Single Door Module, 16 x 15 x 36",
+		"weight": 94,
+		"price": 1060
+	},
+	{
+		"partNum": "69585",
+		"description": "Large Drawer, Single Door Module, 20 x 17 x 36",
+		"weight": 115,
+		"price": 1140
+	},
+	{
+		"partNum": "69585-15",
+		"description": "Large Drawer, Single Door Module, 20 x 15 x 36",
+		"weight": 107,
+		"price": 1130
+	},
+	{
+		"partNum": "69586",
+		"description": "Large Drawer, Double Door Module, 24 x 17 x 36",
+		"weight": 129,
+		"price": 1210
+	},
+	{
+		"partNum": "69586-15",
+		"description": "Large Drawer, Double Door Module, 24 x 15 x 36",
+		"weight": 120,
+		"price": 1200
+	},
+	{
+		"partNum": "69587",
+		"description": "Dual Drawer, Single Door Module, 12 x 17 x 36",
+		"weight": 88,
+		"price": 1110
+	},
+	{
+		"partNum": "69587-15",
+		"description": "Dual Drawer, Single Door Module, 12 x 15 x 36",
+		"weight": 84,
+		"price": 1110
+	},
+	{
+		"partNum": "69588",
+		"description": "Dual Drawer, Single Door Module, 16 x 17 x 36",
+		"weight": 103,
+		"price": 1180
+	},
+	{
+		"partNum": "69588-15",
+		"description": "Dual Drawer, Single Door Module, 16 x 15 x 36",
+		"weight": 97,
+		"price": 1180
+	},
+	{
+		"partNum": "69589",
+		"description": "Dual Drawer, Single Door Module, 20 x 17 x 36",
+		"weight": 118,
+		"price": 1250
+	},
+	{
+		"partNum": "69589-15",
+		"description": "Dual Drawer, Single Door Module, 20 x 15 x 36",
+		"weight": 110,
+		"price": 1240
+	},
+	{
+		"partNum": "69590",
+		"description": "Dual Drawer, Double Door Module, 24 x 17 x 36",
+		"weight": 133,
+		"price": 1320
+	},
+	{
+		"partNum": "69590-15",
+		"description": "Dual Drawer, Double Door Module, 24 x 15 x 36",
+		"weight": 123,
+		"price": 1320
+	},
+	{
+		"partNum": "69591",
+		"description": "4 Drawer Module, 12 x 17 x 36",
+		"weight": 99,
+		"price": 1490
+	},
+	{
+		"partNum": "69591-15",
+		"description": "4 Drawer Module, 12 x 15 x 36",
+		"weight": 94,
+		"price": 1490
+	},
+	{
+		"partNum": "69592",
+		"description": "4 Drawer Module, 16 x 17 x 36",
+		"weight": 113,
+		"price": 1710
+	},
+	{
+		"partNum": "69592-15",
+		"description": "4 Drawer Module, 16 x 15 x 36",
+		"weight": 107,
+		"price": 1710
+	},
+	{
+		"partNum": "69593",
+		"description": "4 Drawer Module, 20 x 17 x 36",
+		"weight": 127,
+		"price": 1960
+	},
+	{
+		"partNum": "69593-15",
+		"description": "4 Drawer Module, 20 x 15 x 36",
+		"weight": 120,
+		"price": 1960
+	},
+	{
+		"partNum": "69594",
+		"description": "4 Drawer Module, 24 x 17 x 36",
+		"weight": 141,
+		"price": 2210
+	},
+	{
+		"partNum": "69594-15",
+		"description": "4 Drawer Module, 24 x 15 x 36",
+		"weight": 133,
+		"price": 2200
+	},
+	{
+		"partNum": "69595",
+		"description": "5 Drawer Module, 12 x 17 x 36",
+		"weight": 101,
+		"price": 1520
+	},
+	{
+		"partNum": "69595-15",
+		"description": "5 Drawer Module, 12 x 15 x 36",
+		"weight": 96,
+		"price": 1510
+	},
+	{
+		"partNum": "69596",
+		"description": "5 Drawer Module, 16 x 17 x 36",
+		"weight": 115,
+		"price": 1760
+	},
+	{
+		"partNum": "69596-15",
+		"description": "5 Drawer Module, 16 x 15 x 36",
+		"weight": 110,
+		"price": 1750
+	},
+	{
+		"partNum": "69597",
+		"description": "5 Drawer Module, 20 x 17 x 36",
+		"weight": 130,
+		"price": 1980
+	},
+	{
+		"partNum": "69597-15",
+		"description": "5 Drawer Module, 20 x 15 x 36",
+		"weight": 123,
+		"price": 1980
+	},
+	{
+		"partNum": "69598",
+		"description": "5 Drawer Module, 24 x 17 x 36",
+		"weight": 145,
+		"price": 2230
+	},
+	{
+		"partNum": "69598-15",
+		"description": "5 Drawer Module, 24 x 15 x 36",
+		"weight": 136,
+		"price": 2230
+	},
+	{
+		"partNum": "69635",
+		"description": "Open Module, Fixed Delivery On Slides, 16 Wide, 32 Tall, Side Cabinet",
+		"weight": 74,
+		"price": 1000
+	},
+	{
+		"partNum": "69636",
+		"description": "Open Module, Fixed Delivery On Slides, 16 Wide, 36 Tall, Side Cabinet",
+		"weight": 78,
+		"price": 1130
+	},
+	{
+		"partNum": "69650",
+		"description": "Drawer Module, Style A, 12, 12:00",
+		"weight": 92,
+		"price": 1290
+	},
+	{
+		"partNum": "69651",
+		"description": "Drawer Module, Style A, 16, 12:00",
+		"weight": 104,
+		"price": 1530
+	},
+	{
+		"partNum": "69652",
+		"description": "Drawer Module, Style A, 20, 12:00",
+		"weight": 116,
+		"price": 1770
+	},
+	{
+		"partNum": "69653",
+		"description": "Drawer Module, Style A, 24, 12:00",
+		"weight": 128,
+		"price": 2000
+	},
+	{
+		"partNum": "69654",
+		"description": "Drawer Module, Style B, 12, 12:00",
+		"weight": 90,
+		"price": 1270
+	},
+	{
+		"partNum": "69655",
+		"description": "Drawer Module, Style B, 16, 12:00",
+		"weight": 101,
+		"price": 1510
+	},
+	{
+		"partNum": "69656",
+		"description": "Drawer Module, Style B, 20, 12:00",
+		"weight": 113,
+		"price": 1740
+	},
+	{
+		"partNum": "69657",
+		"description": "Drawer Module, Style B, 24, 12:00",
+		"weight": 124,
+		"price": 1970
+	},
+	{
+		"partNum": "69658",
+		"description": "Sink Module, No Waste, 20 Wide, 12:00",
+		"weight": 83,
+		"price": 900
+	},
+	{
+		"partNum": "69658L",
+		"description": "Sink Module, Front Waste, 20 Wide, 12:00, Hinge Left",
+		"weight": 83,
+		"price": 1100
+	},
+	{
+		"partNum": "69658R",
+		"description": "Sink Module, Front Waste, 20 Wide, 12:00, Hinge Right",
+		"weight": 83,
+		"price": 1100
+	},
+	{ "partNum": "69659", "description": "Sink Module, 24, 12:00", "weight": 93, "price": 950 },
+	{ "partNum": "69660", "description": "Sink Module, 28, 12:00", "weight": 103, "price": 1190 },
+	{ "partNum": "69661", "description": "Door Module, 12, 12:00", "weight": 70, "price": 780 },
+	{ "partNum": "69662", "description": "Door Module, 16, 12:00", "weight": 82, "price": 840 },
+	{ "partNum": "69663", "description": "Door Module, 20, 12:00", "weight": 94, "price": 900 },
+	{ "partNum": "69664", "description": "Door Module, 24, 12:00", "weight": 106, "price": 950 },
+	{ "partNum": "69697", "description": "Flip Down Module, 12, 12:00", "weight": 98, "price": 1400 },
+	{
+		"partNum": "69698",
+		"description": "Flip Down Module, 16, 12:00",
+		"weight": 112,
+		"price": 1630
+	},
+	{
+		"partNum": "69699",
+		"description": "Flip Down Module, 20, 12:00",
+		"weight": 126,
+		"price": 1850
+	},
+	{
+		"partNum": "69700",
+		"description": "Flip Down Module, 24, 12:00",
+		"weight": 140,
+		"price": 2090
+	},
+	{
+		"partNum": "69733",
+		"description": "24 Tall Upper Center Module for CPU, 36 Wide 12 OClock, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69734",
+		"description": "30 Tall Upper Center Module for CPU, 36 Wide 12 OClock, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69735L",
+		"description": "30 Tall Upper Left 12 OClock w/3 Glass Shelves, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69735R",
+		"description": "30 Tall Upper Right 12 OClock w/3 Glass Shelves, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69736",
+		"description": "30 Tall Front Door Glove Dispenser, Wall Mounted, Left, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69737",
+		"description": "30 Tall Upper Center Module for CPU, 42 Wide 12 OClock, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69738",
+		"description": "30 Tall Front Door Glove Dispenser, Wall Mounted, Right, S5",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69750L",
+		"description": "24 Tall Upper Left 12 OClock w/3 Glass Shelves, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69750R",
+		"description": "24 Tall Upper Right 12 OClock w/3 Glass Shelves, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{ "partNum": "69751", "description": "24 Upper Selection, 12 OClock", "weight": 0, "price": 0 },
+	{ "partNum": "69752", "description": "30 Upper Selection, 12 OClock", "weight": 0, "price": 430 },
+	{
+		"partNum": "69753",
+		"description": "24 Tall Upper Center Module for CPU, 36 Wide 12 OClock, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69754",
+		"description": "24 Tall Upper Center Module for CPU, 42 Wide 12 OClock, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69755L",
+		"description": "30 Tall Upper Left 12 OClock w/3 Glass Shelves, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69755R",
+		"description": "30 Tall Upper Right 12 OClock w/3 Glass Shelves, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69756",
+		"description": "30 Tall Front Door Glove Dispenser, Wall Mounted, Left, S4",
+		"weight": 0,
+		"price": 320
+	},
+	{
+		"partNum": "69757",
+		"description": "30 Tall Front Door Glove Dispenser, Wall Mounted, Right, S4",
+		"weight": 0,
+		"price": 320
+	},
+	{
+		"partNum": "69758",
+		"description": "30 Tall Upper Center Module for CPU, 36 Wide 12 OClock, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69759",
+		"description": "30 Tall Upper Center Module for CPU, 42 Wide 12 OClock, S4",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69764",
+		"description": "8 Filler Panel, Lower & Hardware, 12 OClock Extended Cabinets",
+		"weight": 3,
+		"price": 250
+	},
+	{
+		"partNum": "69768",
+		"description": "Flip Down Module, 12 x 17 x 36",
+		"weight": 99,
+		"price": 1530
+	},
+	{
+		"partNum": "69768-15",
+		"description": "Flip Down Module, 12 x 15 x 36",
+		"weight": 95,
+		"price": 1530
+	},
+	{
+		"partNum": "69769",
+		"description": "Flip Down Module, 16 x 17 x 36",
+		"weight": 113,
+		"price": 1770
+	},
+	{
+		"partNum": "69769-15",
+		"description": "Flip Down Module, 16 x 15 x 36",
+		"weight": 108,
+		"price": 1760
+	},
+	{
+		"partNum": "69770",
+		"description": "Flip Down Module, 20 x 17 x 36",
+		"weight": 127,
+		"price": 1990
+	},
+	{
+		"partNum": "69770-15",
+		"description": "Flip Down Module, 20 x 15 x 36",
+		"weight": 122,
+		"price": 1990
+	},
+	{
+		"partNum": "69771",
+		"description": "Flip Down Module, 24 x 17 x 36",
+		"weight": 141,
+		"price": 2240
+	},
+	{
+		"partNum": "69771-15",
+		"description": "Flip Down Module, 24 x 15 x 36",
+		"weight": 135,
+		"price": 2240
+	},
+	{
+		"partNum": "69772",
+		"description": "Side Access Module, 4 Drawer, 17 x 36",
+		"weight": 132,
+		"price": 1960
+	},
+	{
+		"partNum": "69772-15",
+		"description": "Side Access Module, 4 Drawer, 15 x 36",
+		"weight": 121,
+		"price": 1960
+	},
+	{
+		"partNum": "69773",
+		"description": "Side Access Module, 5 Drawer, 17 x 36",
+		"weight": 132,
+		"price": 1990
+	},
+	{
+		"partNum": "69773-15",
+		"description": "Side Access Module, 5 Drawer, 15 x 36",
+		"weight": 121,
+		"price": 1980
+	},
+	{
+		"partNum": "69774",
+		"description": "Side Access Module, Flip Down, 17 x 36",
+		"weight": 132,
+		"price": 2000
+	},
+	{
+		"partNum": "69774-15",
+		"description": "Side Access Module, Flip Down, 15 x 36",
+		"weight": 121,
+		"price": 1990
+	},
+	{
+		"partNum": "69775",
+		"description": "Sink Module, No Waste, 20 x 17 x 36",
+		"weight": 89,
+		"price": 990
+	},
+	{
+		"partNum": "69775-15",
+		"description": "Sink Module, No Waste, 20 x 15 x 36",
+		"weight": 86,
+		"price": 990
+	},
+	{
+		"partNum": "69775L",
+		"description": "Sink Module, Front Waste, 20 x 17 x 36, Hinge Left",
+		"weight": 89,
+		"price": 1210
+	},
+	{
+		"partNum": "69775L-15",
+		"description": "Sink Module, Front Waste, 20 x 15 x 36, Hinge Left",
+		"weight": 86,
+		"price": 1200
+	},
+	{
+		"partNum": "69775R",
+		"description": "Sink Module, Front Waste, 20 x 17 x 36, Hinge Right",
+		"weight": 89,
+		"price": 1210
+	},
+	{
+		"partNum": "69775R-15",
+		"description": "Sink Module, Front Waste, 20 x 15 x 36, Hinge Right",
+		"weight": 86,
+		"price": 1200
+	},
+	{ "partNum": "69776", "description": "Sink Module, 24 x 17 x 36", "weight": 102, "price": 1060 },
+	{
+		"partNum": "69776-15",
+		"description": "Sink Module, 24 x 15 x 36",
+		"weight": 98,
+		"price": 1060
+	},
+	{ "partNum": "69777", "description": "Sink Module, 28 x 17 x 36", "weight": 113, "price": 1290 },
+	{
+		"partNum": "69777-15",
+		"description": "Sink Module, 28 x 15 x 36",
+		"weight": 109,
+		"price": 1280
+	},
+	{ "partNum": "69778", "description": "Pencil Drawer, 28 x 17 x 36", "weight": 77, "price": 1420 },
+	{
+		"partNum": "69778-15",
+		"description": "Pencil Drawer, 28 x 15 x 36",
+		"weight": 74,
+		"price": 1410
+	},
+	{
+		"partNum": "69779",
+		"description": "Pencil Drawer, +.69, 28 x 17 x 36",
+		"weight": 77,
+		"price": 1180
+	},
+	{
+		"partNum": "69779-15",
+		"description": "Pencil Drawer +.69, 28 x 15 x 36",
+		"weight": 74,
+		"price": 1170
+	},
+	{
+		"partNum": "69780",
+		"description": "Pencil Drawer, +1.38, 28 x 17 x 36",
+		"weight": 77,
+		"price": 930
+	},
+	{
+		"partNum": "69780-15",
+		"description": "Pencil Drawer +1.38, 28 x 15 x 36",
+		"weight": 74,
+		"price": 920
+	},
+	{ "partNum": "69781", "description": "Pencil Drawer, 32 x 17 x 36", "weight": 88, "price": 1640 },
+	{
+		"partNum": "69781-15",
+		"description": "Pencil Drawer, 32 x 15 x 36",
+		"weight": 88,
+		"price": 1630
+	},
+	{
+		"partNum": "69781B",
+		"description": "Pencil Drawer Module w/Bottom Panel, 32 Wide x 17 Deep x 36 Tall",
+		"weight": 104,
+		"price": 1800
+	},
+	{
+		"partNum": "69782",
+		"description": "Pencil Drawer, +.69, 32 x 17 x 36",
+		"weight": 88,
+		"price": 1400
+	},
+	{
+		"partNum": "69782-15",
+		"description": "Pencil Drawer +.69, 32 x 15 x 36",
+		"weight": 86,
+		"price": 1390
+	},
+	{
+		"partNum": "69783",
+		"description": "Pencil Drawer, +1.38, 32 x 17 x 36",
+		"weight": 88,
+		"price": 1160
+	},
+	{
+		"partNum": "69783-15",
+		"description": "Pencil Drawer +1.38, 32 x 15 x 36",
+		"weight": 86,
+		"price": 1150
+	},
+	{ "partNum": "69784", "description": "Leg, Left, 17 x 36", "weight": 17, "price": 390 },
+	{ "partNum": "69784-15", "description": "Leg, Left, 15 x 36", "weight": 16, "price": 380 },
+	{ "partNum": "69785", "description": "Leg, Right, 17 x 36", "weight": 17, "price": 390 },
+	{ "partNum": "69785-15", "description": "Leg, Right, 15 x 36", "weight": 16, "price": 380 },
+	{ "partNum": "69786", "description": "Dress Panel, 17 x 36", "weight": 12, "price": 250 },
+	{ "partNum": "69786-15", "description": "Dress Panel, 15 x 36", "weight": 11, "price": 240 },
+	{
+		"partNum": "69787",
+		"description": "Leg, Left, for Pencil, 17 x 36",
+		"weight": 17,
+		"price": 390
+	},
+	{
+		"partNum": "69787-15",
+		"description": "Leg, Left, for Pencil, 15 x 36",
+		"weight": 16,
+		"price": 380
+	},
+	{
+		"partNum": "69788",
+		"description": "Leg, Right, for Pencil, 17 x 36",
+		"weight": 17,
+		"price": 390
+	},
+	{
+		"partNum": "69788-15",
+		"description": "Leg, Right, for Pencil, 15 x 36",
+		"weight": 16,
+		"price": 380
+	},
+	{ "partNum": "69789", "description": "Corner Module, 45, 17 x 36", "weight": 87, "price": 1830 },
+	{
+		"partNum": "69790-01",
+		"description": "80 Tall Back Panel, Variable Width, No Cams",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-01CUT",
+		"description": "80 Tall Back Panel w/Cutout, Variable Width, No Cams",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-02",
+		"description": "80 Tall Back Panel, Variable Width, Cams 1 Side",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-02CUTL",
+		"description": "80 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Left",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-02CUTR",
+		"description": "80 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Right",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-03",
+		"description": "80 Tall Back Panel, Variable Width, Cams 2 Sides",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-03CUT",
+		"description": "80 Tall Back Panel w/Cutout, Variable Width, Cams 2 Sides",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-04",
+		"description": "80 Tall Back Panel, Variable Width w/Sink Cutout, No Cams",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-05",
+		"description": "80 Tall Back Panel, Variable Width w/Sink Cutout, Cams 2 Sides",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-06",
+		"description": "80 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Left",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-07",
+		"description": "80 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Right",
+		"weight": 1.5,
+		"price": 22
+	},
+	{
+		"partNum": "69790-HW",
+		"description": "Hardware, Variable Back Panel, 6 Connections",
+		"weight": 1,
+		"price": 44
+	},
+	{
+		"partNum": "69791-01",
+		"description": "74 Tall Back Panel, Variable Width, No Cams",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-01CUT",
+		"description": "74 Tall Back Panel w/Cutout, Variable Width, No Cams",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-02",
+		"description": "74 Tall Back Panel, Variable Width, Cams 1 Side",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-02CUTL",
+		"description": "74 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Left",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-02CUTR",
+		"description": "74 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Right",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-03",
+		"description": "74 Tall Back Panel, Variable Width, Cams 2 Sides",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-03CUT",
+		"description": "74 Tall Back Panel w/Cutout, Variable Width, Cams 2 Sides",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-04",
+		"description": "74 Tall Back Panel, Variable Width w/Sink Cutout, No Cams",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-05",
+		"description": "74 Tall Back Panel, Variable Width w/Sink Cutout, Cams 2 Sides",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-06",
+		"description": "74 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Left",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69791-07",
+		"description": "74 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Right",
+		"weight": 1.4,
+		"price": 22
+	},
+	{
+		"partNum": "69792-01",
+		"description": "33-1/2 Tall Back Panel, Variable Width, No Cams",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-01CUT",
+		"description": "33-1/2 Tall Back Panel w/Cutout, Variable Width, No Cams",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-02",
+		"description": "33-1/2 Tall Back Panel, Variable Width, Cams 1 Side",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-02CUTL",
+		"description": "33-1/2 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Left",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-02CUTR",
+		"description": "33-1/2 Tall Back Panel w/Cutout, Variable Width, Cams 1 Side, Right",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-03",
+		"description": "33-1/2 Tall Back Panel, Variable Width, Cams 2 Sides",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-03CUT",
+		"description": "33-1/2 Tall Back Panel w/Cutout, Variable Width, Cams 2 Sides",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-04",
+		"description": "33-1/2 Tall Back Panel, Variable Width w/Sink Cutout, No Cams",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-05",
+		"description": "33-1/2 Tall Back Panel, Variable Width w/Sink Cutout, Cams 2 Sides",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-06",
+		"description": "33-1/2 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Left",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-07",
+		"description": "33-1/2 Tall Back Panel, Variable Width w/Sink Cutout, Cams 1 Side, Right",
+		"weight": 0.7,
+		"price": 9
+	},
+	{
+		"partNum": "69792-HW",
+		"description": "Hardware, Variable Back Panel, 3 Connections",
+		"weight": 1,
+		"price": 33
+	},
+	{
+		"partNum": "69793D",
+		"description": "Steel Subbase, Dress End, 15, Dark Gray",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69794D",
+		"description": "Steel Subbase, Access End, 15, Dark Gray",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69795",
+		"description": "8 Filler Panel, Lower & Hardware, Side Cabinet",
+		"weight": 7,
+		"price": 250
+	},
+	{
+		"partNum": "69850",
+		"description": "Solid Surface S4 Countertop, By The Inch, 12 OClock",
+		"weight": 1,
+		"price": 30
+	},
+	{
+		"partNum": "69851",
+		"description": "Flip Down Module, 12 x 17 x 32",
+		"weight": 95,
+		"price": 1410
+	},
+	{
+		"partNum": "69852",
+		"description": "Flip Down Module, 16 x 17 x 32",
+		"weight": 108,
+		"price": 1650
+	},
+	{
+		"partNum": "69853",
+		"description": "Flip Down Module, 20 x 17 x 32",
+		"weight": 121,
+		"price": 1890
+	},
+	{
+		"partNum": "69854",
+		"description": "Flip Down Module, 24 x 17 x 32",
+		"weight": 134,
+		"price": 2120
+	},
+	{
+		"partNum": "69861-12",
+		"description": "3 Drawer Module, 12, Center Island",
+		"weight": 94,
+		"price": 1130
+	},
+	{
+		"partNum": "69861-16",
+		"description": "3 Drawer Module, 16, Center Island",
+		"weight": 106,
+		"price": 1240
+	},
+	{
+		"partNum": "69861-20",
+		"description": "3 Drawer Module, 20, Center Island",
+		"weight": 119,
+		"price": 1370
+	},
+	{
+		"partNum": "69861-24",
+		"description": "3 Drawer Module, 24, Center Island",
+		"weight": 131,
+		"price": 1490
+	},
+	{
+		"partNum": "69861-28",
+		"description": "3 Drawer Module, 28, Center Island",
+		"weight": 143,
+		"price": 1610
+	},
+	{
+		"partNum": "69862-12",
+		"description": "Flip Down Module, 12, Center Island",
+		"weight": 98,
+		"price": 1370
+	},
+	{
+		"partNum": "69862-16",
+		"description": "Flip Down Module, 16, Center Island",
+		"weight": 112,
+		"price": 1500
+	},
+	{
+		"partNum": "69862-20",
+		"description": "Flip Down Module, 20, Center Island",
+		"weight": 126,
+		"price": 1610
+	},
+	{
+		"partNum": "69862-24",
+		"description": "Flip Down Module, 24, Center Island",
+		"weight": 140,
+		"price": 1730
+	},
+	{
+		"partNum": "69862-28",
+		"description": "Flip Down Module, 28, Center Island",
+		"weight": 154,
+		"price": 1850
+	},
+	{
+		"partNum": "69863-12",
+		"description": "Small Drawer, Single Door Module, 12, Center Island",
+		"weight": 87,
+		"price": 990
+	},
+	{
+		"partNum": "69863-16",
+		"description": "Small Drawer, Single Door Module, 16, Center Island",
+		"weight": 101,
+		"price": 1130
+	},
+	{
+		"partNum": "69863-20",
+		"description": "Small Drawer, Single Door Module, 20, Center Island",
+		"weight": 116,
+		"price": 1240
+	},
+	{
+		"partNum": "69863-24",
+		"description": "Small Drawer, Double Door Module, 24, Center Island",
+		"weight": 130,
+		"price": 1430
+	},
+	{
+		"partNum": "69863-28",
+		"description": "Small Drawer, Double Door Module, 28, Center Island",
+		"weight": 145,
+		"price": 1540
+	},
+	{
+		"partNum": "69864-12",
+		"description": "Large Drawer, Single Door Module, 12, Center Island",
+		"weight": 82,
+		"price": 990
+	},
+	{
+		"partNum": "69864-16",
+		"description": "Large Drawer, Single Door Module, 16, Center Island",
+		"weight": 95,
+		"price": 1130
+	},
+	{
+		"partNum": "69864-20",
+		"description": "Large Drawer, Single Door Module, 20, Center Island",
+		"weight": 108,
+		"price": 1240
+	},
+	{
+		"partNum": "69864-24",
+		"description": "Large Drawer, Double Door Module, 24, Center Island",
+		"weight": 121,
+		"price": 1430
+	},
+	{
+		"partNum": "69864-28",
+		"description": "Large Drawer, Double Door Module, 28, Center Island",
+		"weight": 134,
+		"price": 1540
+	},
+	{
+		"partNum": "69865-12",
+		"description": "Dual Drawer, Single Door Module, 12, Center Island",
+		"weight": 87,
+		"price": 1130
+	},
+	{
+		"partNum": "69865-16",
+		"description": "Dual Drawer, Single Door Module, 16, Center Island",
+		"weight": 102,
+		"price": 1370
+	},
+	{
+		"partNum": "69865-20",
+		"description": "Dual Drawer, Single Door Module, 20, Center Island",
+		"weight": 116,
+		"price": 1490
+	},
+	{
+		"partNum": "69865-24",
+		"description": "Dual Drawer, Double Door Module, 24, Center Island",
+		"weight": 131,
+		"price": 1670
+	},
+	{
+		"partNum": "69865-28",
+		"description": "Dual Drawer, Double Door Module, 28, Center Island",
+		"weight": 145,
+		"price": 1790
+	},
+	{
+		"partNum": "69866-12",
+		"description": "Cubbie, 12 Wide, Full Width, Sterlization Center",
+		"weight": 9,
+		"price": 300
+	},
+	{
+		"partNum": "69866-16",
+		"description": "Cubbie, 16 Wide, Full Width, Sterlization Center",
+		"weight": 11,
+		"price": 320
+	},
+	{
+		"partNum": "69866-20",
+		"description": "Cubbie, 20 Wide, Full Width, Sterlization Center",
+		"weight": 14,
+		"price": 330
+	},
+	{
+		"partNum": "69866-24",
+		"description": "Cubbie, 24 Wide, Full Width, Sterlization Center",
+		"weight": 17,
+		"price": 340
+	},
+	{
+		"partNum": "69866-28",
+		"description": "Cubbie, 28 Wide, Full Width, Sterlization Center",
+		"weight": 19,
+		"price": 360
+	},
+	{
+		"partNum": "69866-32",
+		"description": "Cubbie, 32 Wide, Full Width, Sterlization Center",
+		"weight": 22,
+		"price": 370
+	},
+	{
+		"partNum": "69876L",
+		"description": "Assy, 3 Drawer Module, 140mm Equal, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69876R",
+		"description": "Assy, 3 Drawer Module, 140mm Equal, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69877L",
+		"description": "Assy, 3 Drawer Module, 2 Small 93mm, 1 Large 235mm, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69877R",
+		"description": "Assy, 3 Drawer Module, 2 Small 93mm, 1 Large 235mm, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69878L",
+		"description": "Assy, Door Module, Single, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69878R",
+		"description": "Assy, Door Module, Single Door, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69879",
+		"description": "Assy, Door Module, Pass Through, 2 Full Doors, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69880L",
+		"description": "Assy, Writing Shelf Module, Pass Through, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69880R",
+		"description": "Assy, Writing Shelf Module, Pass Through, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69881L",
+		"description": "Assy, Writing Shelf Module, Non-Pass Through, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69881R",
+		"description": "Assy, Writing Shelf Module, Non-Pass Through, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69882L",
+		"description": "Assy, Unit Module, Left Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69882R",
+		"description": "Assy, Unit Module, Right Facing, Pedo Bench",
+		"weight": 0,
+		"price": 0
+	},
+	{ "partNum": "69906", "description": "Vista Clear Cabinet", "weight": 81, "price": 1360 },
+	{
+		"partNum": "69951-S4",
+		"description": "Solid Surface S4 Countertop, By The Inch, Center Island",
+		"weight": 1.1,
+		"price": 31
+	},
+	{
+		"partNum": "69951-S5",
+		"description": "Solid Surface S5 Countertop, By The Inch, Center Island",
+		"weight": 1.1,
+		"price": 31
+	},
+	{
+		"partNum": "69960",
+		"description": "Shelf, Power Center, 42 Solid Surface",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69961",
+		"description": "Shelf, Power Center, 36, Solid Surface",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69962D",
+		"description": "Steel Subbase, Closed End, 15, Dark Gray",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69963D",
+		"description": "Steel Subbase, Closed End, 17, Dark Gray",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69975-36",
+		"description": "Assy, Shelf, 36 Wide, 12 OClock Free Standing Option",
+		"weight": 0,
+		"price": 330
+	},
+	{
+		"partNum": "69975-42",
+		"description": "Assy, Shelf, 42 Wide, 12 OClock Free Standing Option",
+		"weight": 0,
+		"price": 330
+	},
+	{
+		"partNum": "69989",
+		"description": "Center Chase, Porter MDM, Cutout, S4",
+		"weight": 0,
+		"price": 140
+	},
+	{ "partNum": "69990", "description": "Center Chase for Porter MDM, S5", "weight": 0, "price": 0 },
+	{ "partNum": "CA4", "description": "Series 4 Side Cabinet", "weight": 0, "price": 0 },
+	{
+		"partNum": "CA4000",
+		"description": "Series 4 63 Side Storage Cabinet, 32 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 295,
+		"price": 4760
+	},
+	{
+		"partNum": "CA4001",
+		"description": "Series 4 63 Side Storage Cabinet, 32 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 295,
+		"price": 4760
+	},
+	{
+		"partNum": "CA4004",
+		"description": "Series 4 63 Side Storage Cab, 32 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 297,
+		"price": 5380
+	},
+	{
+		"partNum": "CA4005",
+		"description": "Series 4 63 Side Storage Cab, 32 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 297,
+		"price": 5380
+	},
+	{
+		"partNum": "CA4008",
+		"description": "Series 4 51 Side Storage Cabinet, 32 Tall, 17 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 233,
+		"price": 4180
+	},
+	{
+		"partNum": "CA4009",
+		"description": "Series 4 51 Side Storage Cabinet, 32 Tall, 17 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 233,
+		"price": 4180
+	},
+	{
+		"partNum": "CA4010",
+		"description": "Series 4 31 Side Storage Cabinet, 32 Tall, 17 Deep, 28 Sink Right",
+		"weight": 120,
+		"price": 2440
+	},
+	{
+		"partNum": "CA4011",
+		"description": "Series 4 31 Side Storage Cabinet, 32 Tall, 17 Deep, 28 Sink Left",
+		"weight": 120,
+		"price": 2440
+	},
+	{
+		"partNum": "CA4012",
+		"description": "Series 4 23 Side Storage Cabinet, 32 Tall, 17 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 99,
+		"price": 2220
+	},
+	{
+		"partNum": "CA4100",
+		"description": "Series 4 63 Side Storage Cabinet, 36 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 309,
+		"price": 5020
+	},
+	{
+		"partNum": "CA4101",
+		"description": "Series 4 63 Side Storage Cabinet, 36 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 309,
+		"price": 5020
+	},
+	{
+		"partNum": "CA4104",
+		"description": "Series 4 63 Side Storage Cab, 36 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 332,
+		"price": 5630
+	},
+	{
+		"partNum": "CA4105",
+		"description": "Series 4 63 Side Storage Cab, 36 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 332,
+		"price": 5630
+	},
+	{
+		"partNum": "CA4108",
+		"description": "Series 4 51 Side Storage Cabinet, 36 Tall, 17 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 249,
+		"price": 4360
+	},
+	{
+		"partNum": "CA4109",
+		"description": "Series 4 51 Side Storage Cabinet, 36 Tall, 17 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 249,
+		"price": 4360
+	},
+	{
+		"partNum": "CA4110",
+		"description": "Series 4 31 Side Storage Cabinet, 36 Tall, 17 Deep, 28 Sink Right",
+		"weight": 128,
+		"price": 2540
+	},
+	{
+		"partNum": "CA4111",
+		"description": "Series 4 31 Side Storage Cabinet, 36 Tall, 17 Deep, 28 Sink Left",
+		"weight": 128,
+		"price": 2540
+	},
+	{
+		"partNum": "CA4112",
+		"description": "Series 4 23 Side Storage Cabinet, 36 Tall, 17 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 106,
+		"price": 2300
+	},
+	{
+		"partNum": "CA4200",
+		"description": "Series 4 63 Side Storage Cabinet, 32 Tall, 15 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 275,
+		"price": 4730
+	},
+	{
+		"partNum": "CA4201",
+		"description": "Series 4 63 Side Storage Cabinet, 32 Tall, 15 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 296,
+		"price": 4730
+	},
+	{
+		"partNum": "CA4204",
+		"description": "Series 4 63 Side Storage Cab, 32 Tall, 15 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 275,
+		"price": 5340
+	},
+	{
+		"partNum": "CA4205",
+		"description": "Series 4 63 Side Storage Cab, 32 Tall, 15 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 275,
+		"price": 5340
+	},
+	{
+		"partNum": "CA4208",
+		"description": "Series 4 51 Side Storage Cabinet, 32 Tall, 15 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 218,
+		"price": 4160
+	},
+	{
+		"partNum": "CA4209",
+		"description": "Series 4 51 Side Storage Cabinet, 32 Tall, 15 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 218,
+		"price": 4160
+	},
+	{
+		"partNum": "CA4210",
+		"description": "Series 4 31 Side Storage Cabinet, 32 Tall, 15 Deep, 28 Sink Right",
+		"weight": 111,
+		"price": 2430
+	},
+	{
+		"partNum": "CA4211",
+		"description": "Series 4 31 Side Storage Cabinet, 32 Tall, 15 Deep, 28 Sink Left",
+		"weight": 111,
+		"price": 2430
+	},
+	{
+		"partNum": "CA4212",
+		"description": "Series 4 23 Side Storage Cabinet, 32 Tall, 15 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 91,
+		"price": 2210
+	},
+	{
+		"partNum": "CA4300",
+		"description": "Series 4 63 Side Storage Cabinet, 36 Tall, 15 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 296,
+		"price": 5000
+	},
+	{
+		"partNum": "CA4301",
+		"description": "Series 4 63 Side Storage Cabinet, 36 Tall, 15 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 296,
+		"price": 5000
+	},
+	{
+		"partNum": "CA4304",
+		"description": "Series 4 63 Side Storage Cab, 36 Tall, 15 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 308,
+		"price": 5610
+	},
+	{
+		"partNum": "CA4305",
+		"description": "Series 4 63 Side Storage Cab, 36 Tall, 15 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 308,
+		"price": 5610
+	},
+	{
+		"partNum": "CA4308",
+		"description": "Series 4 51 Side Storage Cabinet, 36 Tall, 15 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 231,
+		"price": 4340
+	},
+	{
+		"partNum": "CA4309",
+		"description": "Series 4 51 Side Storage Cabinet, 36 Tall, 15 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 231,
+		"price": 4340
+	},
+	{
+		"partNum": "CA4310",
+		"description": "Series 4 31 Side Storage Cabinet, 36 Tall, 15 Deep, 28 Sink Right",
+		"weight": 119,
+		"price": 2530
+	},
+	{
+		"partNum": "CA4311",
+		"description": "Series 4 31 Side Storage Cabinet, 36 Tall, 15 Deep, 28 Sink Left",
+		"weight": 119,
+		"price": 2530
+	},
+	{
+		"partNum": "CA4312",
+		"description": "Series 4 23 Side Storage Cabinet, 36 Tall, 15 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 98,
+		"price": 2290
+	},
+	{ "partNum": "CA5", "description": "Series 5 Side Cabinet", "weight": 0, "price": 200 },
+	{
+		"partNum": "CA5000",
+		"description": "Series 5 64 Side Storage Cabinet, 32 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 303,
+		"price": 5440
+	},
+	{
+		"partNum": "CA5001",
+		"description": "Series 5 64 Side Storage Cabinet, 32 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 303,
+		"price": 5440
+	},
+	{
+		"partNum": "CA5002",
+		"description": "Series 5 80 Side, 32 Tall, 17 Deep, 16” Front Access Drawer, 16” Door, 28” Sink Right, 45 Corner",
+		"weight": 375,
+		"price": 5680
+	},
+	{
+		"partNum": "CA5003",
+		"description": "Series 5 80 Side, 32 Tall, 17 Deep, 16” Front Access Drawer, 16” Door, 28” Sink Left, 45 Corner",
+		"weight": 375,
+		"price": 5680
+	},
+	{
+		"partNum": "CA5004",
+		"description": "Series 5 64 Side Storage Cab, 32 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 305,
+		"price": 6050
+	},
+	{
+		"partNum": "CA5005",
+		"description": "Series 5 64 Side Storage Cab, 32 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 285,
+		"price": 6050
+	},
+	{
+		"partNum": "CA5006",
+		"description": "Series 5 64 Side, 32 Tall, 17 Deep, 16” Front Access Drawer, 28” Sink Right, 45 Corner",
+		"weight": 297,
+		"price": 4860
+	},
+	{
+		"partNum": "CA5007",
+		"description": "Series 5 64 Side, 32 Tall, 17 Deep, 16” Front Access Drawer, 28” Sink Left, 45 Corner",
+		"weight": 297,
+		"price": 4860
+	},
+	{
+		"partNum": "CA5008",
+		"description": "Series 5 52 Side Storage Cabinet, 32 Tall, 17 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 239,
+		"price": 4860
+	},
+	{
+		"partNum": "CA5009",
+		"description": "Series 5 52 Side Storage Cabinet, 32 Tall, 17 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 239,
+		"price": 4860
+	},
+	{
+		"partNum": "CA5010",
+		"description": "Series 5 32Side Storage Cabinet, 32 Tall, 17 Deep, 28 Sink Right",
+		"weight": 125,
+		"price": 3250
+	},
+	{
+		"partNum": "CA5011",
+		"description": "Series 5 32Side Storage Cabinet, 32 Tall, 17 Deep, 28 Sink Left",
+		"weight": 125,
+		"price": 3250
+	},
+	{
+		"partNum": "CA5012",
+		"description": "Series 5 24Side Storage Cabinet, 32 Tall, 17 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 104,
+		"price": 2910
+	},
+	{
+		"partNum": "CA5100",
+		"description": "Series 5 64 Side Storage Cabinet, 36 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Right",
+		"weight": 326,
+		"price": 5710
+	},
+	{
+		"partNum": "CA5101",
+		"description": "Series 5 64 Side Storage Cabinet, 36 Tall, 17 Deep, 16 Drawer, 16 Door, 28 Sink Left",
+		"weight": 326,
+		"price": 5710
+	},
+	{
+		"partNum": "CA5102",
+		"description": "Series 5 80 Side, 36 Tall, 17 Deep, 16” Front Access Drawer, 16” Door, 28” Sink Right, 45 Corner",
+		"weight": 407,
+		"price": 6030
+	},
+	{
+		"partNum": "CA5103",
+		"description": "Series 5 80 Side, 36 Tall, 17 Deep, 16” Front Access Drawer, 16” Door, 28” Sink Left, 45 Corner",
+		"weight": 407,
+		"price": 6030
+	},
+	{
+		"partNum": "CA5104",
+		"description": "Series 5 64 Side Storage Cab, 36 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Right",
+		"weight": 340,
+		"price": 6320
+	},
+	{
+		"partNum": "CA5105",
+		"description": "Series 5 64 Side Storage Cab, 36 Tall, 17 Deep, 16 Side Access Drawer, 16 Door, 28 Sink Left",
+		"weight": 340,
+		"price": 6320
+	},
+	{
+		"partNum": "CA5106",
+		"description": "Series 5 64 Side, 36 Tall, 17 Deep, 16” Front Access Drawer, 28” Sink Right, 45 Corner",
+		"weight": 321,
+		"price": 5090
+	},
+	{
+		"partNum": "CA5107",
+		"description": "Series 5 64 Side, 36 Tall, 17 Deep, 16” Front Access Drawer, 28” Sink Left, 45 Corner",
+		"weight": 321,
+		"price": 5090
+	},
+	{
+		"partNum": "CA5108",
+		"description": "Series 5 52 Side Storage Cabinet, 36 Tall, 17 Deep, 20 Drawer, 28 Sink Right",
+		"weight": 255,
+		"price": 5050
+	},
+	{
+		"partNum": "CA5109",
+		"description": "Series 5 52 Side Storage Cabinet, 36 Tall, 17 Deep, 20 Drawer, 28 Sink Left",
+		"weight": 255,
+		"price": 5050
+	},
+	{
+		"partNum": "CA5110",
+		"description": "Series 5 32Side Storage Cabinet, 36 Tall, 17 Deep, 28 Sink Right",
+		"weight": 134,
+		"price": 3340
+	},
+	{
+		"partNum": "CA5111",
+		"description": "Series 5 32Side Storage Cabinet, 36 Tall, 17 Deep, 28 Sink Left",
+		"weight": 134,
+		"price": 3340
+	},
+	{
+		"partNum": "CA5112",
+		"description": "Series 5 24Side Storage Cabinet, 36 Tall, 17 Deep, Sink, Front Waste, Hinge Right",
+		"weight": 111,
+		"price": 2990
+	},
+	{
+		"partNum": "CD4000",
+		"description": "Series 4 63 Side Delivery Cabinet, 32 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 257,
+		"price": 3480
+	},
+	{
+		"partNum": "CD4001",
+		"description": "Series 4 63 Side Delivery Cabinet, 32 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 257,
+		"price": 3480
+	},
+	{
+		"partNum": "CD4100",
+		"description": "Series 4 63 Side Delivery Cabinet, 36 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 202,
+		"price": 3660
+	},
+	{
+		"partNum": "CD4101",
+		"description": "Series 4 63 Side Delivery Cabinet, 36 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 214,
+		"price": 3660
+	},
+	{
+		"partNum": "CD4200",
+		"description": "Series 4 63 Side Delivery Cabinet, 32 Tall, 15 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 236,
+		"price": 3450
+	},
+	{
+		"partNum": "CD4201",
+		"description": "Series 4 63 Side Delivery Cabinet, 32 Tall, 15 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 236,
+		"price": 3450
+	},
+	{
+		"partNum": "CD4300",
+		"description": "Series 4 63 Side Delivery Cabinet, 36 Tall, 15 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 198,
+		"price": 3640
+	},
+	{
+		"partNum": "CD4301",
+		"description": "Series 4 63 Side Delivery Cabinet, 36 Tall, 15 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 198,
+		"price": 3640
+	},
+	{
+		"partNum": "CD5000",
+		"description": "Series 5 64 Side Delivery Cabinet, 32 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 265,
+		"price": 4290
+	},
+	{
+		"partNum": "CD5001",
+		"description": "Series 5 64 Side Delivery Cabinet, 32 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 265,
+		"price": 4290
+	},
+	{
+		"partNum": "CD5002",
+		"description": "Series 5 80 Side Delivery Cabinet, 32 Tall, 17 Deep, 32” Pencil Drawer, 28” Sink Right, 45 Corner",
+		"weight": 337,
+		"price": 5440
+	},
+	{
+		"partNum": "CD5003",
+		"description": "Series 5 80 Side Delivery Cabinet, 32 Tall, 17 Deep, 32” Pencil Drawer, 28” Sink Left, 45 Corner",
+		"weight": 337,
+		"price": 5440
+	},
+	{
+		"partNum": "CD5004",
+		"description": "Series 5 80 Side Delivery, 32 Tall, 32” Pencil Drawer w/Bottom Panel, 28” Sink Right, 45 Corner",
+		"weight": 312,
+		"price": 5650
+	},
+	{
+		"partNum": "CD5005",
+		"description": "Series 5 80 Side Delivery, 32 Tall, 32” Pencil Drawer w/Bottom Panel, 28” Sink Left, 45 Corner",
+		"weight": 312,
+		"price": 5650
+	},
+	{
+		"partNum": "CD5100",
+		"description": "Series 5 64 Side Delivery Cabinet, 36 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Right",
+		"weight": 288,
+		"price": 4480
+	},
+	{
+		"partNum": "CD5101",
+		"description": "Series 5 64 Side Delivery Cabinet, 36 Tall, 17 Deep, 32 Pencil Drawer, 28 Sink Left",
+		"weight": 288,
+		"price": 4480
+	},
+	{
+		"partNum": "CD5102",
+		"description": "Series 5 80 Side Delivery Cabinet, 36 Tall, 17 Deep, 32” Pencil Drawer, 28” Sink Right, 45 Corner",
+		"weight": 368,
+		"price": 5710
+	},
+	{
+		"partNum": "CD5103",
+		"description": "Series 5 80 Side Delivery Cabinet, 36 Tall, 17 Deep, 32” Pencil Drawer, 28” Sink Left, 45 Corner",
+		"weight": 368,
+		"price": 5710
+	},
+	{
+		"partNum": "CD5104",
+		"description": "Series 5 80 Side Delivery, 36 Tall, 32” Pencil Drawer w/Bottom Panel, 28” Sink Right, 45 Corner",
+		"weight": 347,
+		"price": 5930
+	},
+	{
+		"partNum": "CD5105",
+		"description": "Series 5 80 Side Delivery, 36 Tall, 32” Pencil Drawer w/Bottom Panel, 28” Sink Left, 45 Corner",
+		"weight": 347,
+		"price": 5930
+	},
+	{
+		"partNum": "CE4-36",
+		"description": "Series 4 36 Extended 12 OClock Cabinet",
+		"weight": 503,
+		"price": 5180
+	},
+	{
+		"partNum": "CE4-36L",
+		"description": "Series 4 36 Extended 12 OClock Cabinet, Lower Only",
+		"weight": 278,
+		"price": 3900
+	},
+	{
+		"partNum": "CE4-42",
+		"description": "Series 4 42 Extended 12 OClock Cabinet",
+		"weight": 538,
+		"price": 5600
+	},
+	{
+		"partNum": "CE4-42L",
+		"description": "Series 4 42 Extended 12 OClock Cabinet, Lower Only",
+		"weight": 302,
+		"price": 3900
+	},
+	{
+		"partNum": "CE5-36",
+		"description": "Series 5 36 Extended 12 OClock Cabinet",
+		"weight": 499,
+		"price": 8570
+	},
+	{
+		"partNum": "CE5-36L",
+		"description": "Series 5 36 Extended 12 OClock Cabinet, Lower Only",
+		"weight": 291,
+		"price": 4820
+	},
+	{
+		"partNum": "CE5-42",
+		"description": "Series 5 42 Extended 12 OClock Cabinet",
+		"weight": 534,
+		"price": 9140
+	},
+	{
+		"partNum": "CE5-42L",
+		"description": "Series 5 42 Extended 12 OClock Cabinet, Lower Only",
+		"weight": 304,
+		"price": 5120
+	},
+	{ "partNum": "CI4", "description": "Series 4 Center Island", "weight": 0, "price": 0 },
+	{
+		"partNum": "CI4000",
+		"description": "Series 4 Center Island X-ray Upper, Storage Lower",
+		"weight": 1037,
+		"price": 14930
+	},
+	{
+		"partNum": "CI4001",
+		"description": "Series 4 Center Island X-ray Upper, Delivery Lower",
+		"weight": 905,
+		"price": 14000
+	},
+	{
+		"partNum": "CI4002",
+		"description": "Series 4 Center Island Storage Upper, Storage Lower",
+		"weight": 1090,
+		"price": 15160
+	},
+	{
+		"partNum": "CI4003",
+		"description": "Series 4 Center Island Storage Upper, Delivery Lower",
+		"weight": 958,
+		"price": 14580
+	},
+	{
+		"partNum": "CI4004",
+		"description": "Series 4 Center Island Front Section Only",
+		"weight": 588,
+		"price": 9570
+	},
+	{ "partNum": "CI5", "description": "Series 5 Center Island", "weight": 0, "price": 200 },
+	{
+		"partNum": "CI5000",
+		"description": "Series 5 Center Island X-ray Upper, Storage Lower",
+		"weight": 1043,
+		"price": 18060
+	},
+	{
+		"partNum": "CI5001",
+		"description": "Series 5 Center Island X-ray Upper, Delivery Lower",
+		"weight": 911,
+		"price": 17480
+	},
+	{
+		"partNum": "CI5002",
+		"description": "Series 5 Center Island Storage Upper, Storage Lower",
+		"weight": 1100,
+		"price": 19220
+	},
+	{
+		"partNum": "CI5003",
+		"description": "Series 5 Center Island Storage Upper, Delivery Lower",
+		"weight": 966,
+		"price": 18650
+	},
+	{
+		"partNum": "CI5004",
+		"description": "Series 5 Center Island Front Section Only",
+		"weight": 594,
+		"price": 10500
+	},
+	{
+		"partNum": "CK400-22",
+		"description": "AL Cart w/o Flip Down, 3 - 3.5/ 1 - 8 Drawers, 22 Wide, Left-Right Slide",
+		"weight": 124,
+		"price": 2320
+	},
+	{
+		"partNum": "CK401-22",
+		"description": "AL Cart w/o Flip Down, 3 - 3.5/ 1 - 8 Drawers, 22 Wide, Front-Back Slide",
+		"weight": 125,
+		"price": 2320
+	},
+	{
+		"partNum": "CK402-18",
+		"description": "AL Cart w/ Flip Down, 3 - 3.5/ 1 - 8 Drawers, 18 Wide, Left-Right Slide",
+		"weight": 108,
+		"price": 2260
+	},
+	{
+		"partNum": "CK402-22",
+		"description": "AL Cart w/ Flip Down, 3 - 3.5/ 1 - 8 Drawers, 22 Wide, Left-Right Slide",
+		"weight": 125,
+		"price": 2380
+	},
+	{
+		"partNum": "CK402-26",
+		"description": "AL Cart w/ Flip Down, 3 - 3.5/ 1 - 8 Drawers, 26 Wide, Left-Right Slide",
+		"weight": 142,
+		"price": 2510
+	},
+	{
+		"partNum": "CK403-22",
+		"description": "AL Cart w/o Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide, Left-Right Slide",
+		"weight": 121,
+		"price": 2320
+	},
+	{
+		"partNum": "CK404-22",
+		"description": "AL Cart w/o Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide, Front-Back Slide",
+		"weight": 122,
+		"price": 2320
+	},
+	{
+		"partNum": "CK405-18",
+		"description": "AL Cart w/ Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 18 Wide, Left-Right Slide",
+		"weight": 106,
+		"price": 2260
+	},
+	{
+		"partNum": "CK405-22",
+		"description": "AL Cart w/ Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide, Left-Right Slide",
+		"weight": 122,
+		"price": 2380
+	},
+	{
+		"partNum": "CK405-26",
+		"description": "AL Cart w/ Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 26 Wide, Left-Right Slide",
+		"weight": 137,
+		"price": 2510
+	},
+	{
+		"partNum": "CK420-18",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 18 Wide, Pullout Shelf Left",
+		"weight": 112,
+		"price": 2260
+	},
+	{
+		"partNum": "CK420-22",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 22 Wide, Pullout Shelf Left",
+		"weight": 130,
+		"price": 2380
+	},
+	{
+		"partNum": "CK420-26",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 26 Wide, Pullout Shelf Left",
+		"weight": 147,
+		"price": 2510
+	},
+	{
+		"partNum": "CK421-18",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 18 Wide, Pullout Shelf Right",
+		"weight": 112,
+		"price": 2260
+	},
+	{
+		"partNum": "CK421-22",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 22 Wide, Pullout Shelf Right",
+		"weight": 130,
+		"price": 2380
+	},
+	{
+		"partNum": "CK421-26",
+		"description": "NC Cart w/ Pullout Flip Down, 3 - 3.5/ 1 - 8 Drawers, 26 Wide, Pullout Shelf Right",
+		"weight": 147,
+		"price": 2510
+	},
+	{
+		"partNum": "CK422-18",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 18 Wide, Pullout Shelf Left",
+		"weight": 112,
+		"price": 2260
+	},
+	{
+		"partNum": "CK422-22",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide, Pullout Shelf Left",
+		"weight": 130,
+		"price": 2380
+	},
+	{
+		"partNum": "CK422-26",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 26 Wide, Pullout Shelf Left",
+		"weight": 143,
+		"price": 2510
+	},
+	{
+		"partNum": "CK423-18",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 18 Wide, Pullout Shelf Right",
+		"weight": 112,
+		"price": 2260
+	},
+	{
+		"partNum": "CK423-22",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide, Pullout Shelf Right",
+		"weight": 130,
+		"price": 2380
+	},
+	{
+		"partNum": "CK423-26",
+		"description": "NC Cart w/ Pullout Flip Down, 1 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 26 Wide, Pullout Shelf Right",
+		"weight": 143,
+		"price": 2510
+	},
+	{
+		"partNum": "CK440-18",
+		"description": "Dr Cart, 3 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 18 Wide",
+		"weight": 103,
+		"price": 2210
+	},
+	{
+		"partNum": "CK440-22",
+		"description": "Dr Cart, 3 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 22 Wide",
+		"weight": 119,
+		"price": 2320
+	},
+	{
+		"partNum": "CK440-26",
+		"description": "Dr Cart, 3 - 3.5/ 1 - 7.5/ 1 - 8 Drawers, 26 Wide",
+		"weight": 135,
+		"price": 2450
+	},
+	{
+		"partNum": "CK441-18",
+		"description": "Dr Cart, 1 - 3.5/ 2 - 7.5/ 1 - 8 Drawers, 18 Wide",
+		"weight": 100,
+		"price": 2210
+	},
+	{
+		"partNum": "CK441-22",
+		"description": "Dr Cart, 1 - 3.5/ 2 - 7.5/ 1 - 8 Drawers, 22 Wide",
+		"weight": 115,
+		"price": 2320
+	},
+	{
+		"partNum": "CK441-26",
+		"description": "Dr Cart, 1 - 3.5/ 2 - 7.5/ 1 - 8 Drawers, 26 Wide",
+		"weight": 130,
+		"price": 2450
+	},
+	{
+		"partNum": "CK450",
+		"description": "Mobile Cart, 20” 4 Drawer Left, 16” Door Right, No Sharps",
+		"weight": 185,
+		"price": 3590
+	},
+	{
+		"partNum": "CK450-SH",
+		"description": "Mobile Cart, 20” 4 Drawer Left, 16” Door Right, Sharps Right",
+		"weight": 185,
+		"price": 4060
+	},
+	{
+		"partNum": "CK451",
+		"description": "Mobile Cart, 16” Door Left, 20” 4 Drawer Right, No Sharps",
+		"weight": 185,
+		"price": 3590
+	},
+	{
+		"partNum": "CK451-SH",
+		"description": "Mobile Cart, 16” Door Left, 20” 4 Drawer Right, Sharps Left",
+		"weight": 185,
+		"price": 4060
+	},
+	{ "partNum": "CP1000", "description": "Pediatric Bench", "weight": 220, "price": 4640 },
+	{
+		"partNum": "CR4000",
+		"description": "42 Series 4 12 OClock Cabinet, Wall Mounted",
+		"weight": 538,
+		"price": 5750
+	},
+	{
+		"partNum": "CR4001",
+		"description": "42 Series 4 12 OClock Cabinet, Lower Only",
+		"weight": 302,
+		"price": 3730
+	},
+	{
+		"partNum": "CR4020",
+		"description": "42 Series 4 12 OClock Cabinet, Upper Only",
+		"weight": 162,
+		"price": 2470
+	},
+	{
+		"partNum": "CR4300",
+		"description": "36 Series 4 12 OClock Cabinet, Wall Mounted",
+		"weight": 503,
+		"price": 5340
+	},
+	{
+		"partNum": "CR4301",
+		"description": "36 Series 4 12 OClock Cabinet, Lower Only",
+		"weight": 278,
+		"price": 3730
+	},
+	{
+		"partNum": "CR4320",
+		"description": "36 Series 4 12 OClock Cabinet, Upper Only",
+		"weight": 154,
+		"price": 2470
+	},
+	{
+		"partNum": "CR5000",
+		"description": "42 Series 5 12 OClock Cabinet, Wall Mounted",
+		"weight": 534,
+		"price": 8750
+	},
+	{
+		"partNum": "CR5001",
+		"description": "42 Series 5 12 OClock Cabinet, Lower Only",
+		"weight": 304,
+		"price": 4910
+	},
+	{
+		"partNum": "CR5002",
+		"description": "42 Series 5 12 O’Clock Cabinet, Wall Mounted w/Decorative Back Panel",
+		"weight": 579,
+		"price": 9390
+	},
+	{
+		"partNum": "CR5020",
+		"description": "42 Series 5 42 12 OClock Cabinet, Upper Only",
+		"weight": 165,
+		"price": 3870
+	},
+	{
+		"partNum": "CR5100",
+		"description": "42 Series 5 12 OClock Cabinet, Free Standing",
+		"weight": 586,
+		"price": 9910
+	},
+	{
+		"partNum": "CR5200",
+		"description": "36 Series 5 12 OClock Cabinet, Free Standing",
+		"weight": 550,
+		"price": 9330
+	},
+	{
+		"partNum": "CR5300",
+		"description": "36 Series 5 12 OClock Cabinet, Wall Mounted",
+		"weight": 499,
+		"price": 8220
+	},
+	{
+		"partNum": "CR5301",
+		"description": "36 Series 5 12 OClock Cabinet, Lower Only",
+		"weight": 291,
+		"price": 4620
+	},
+	{
+		"partNum": "CR5302",
+		"description": "36 Series 5 12 OClock Cabinet, w/Decorative Back Panel",
+		"weight": 546,
+		"price": 8860
+	},
+	{
+		"partNum": "CR5320",
+		"description": "36 Series 5 12 OClock Cabinet, Upper Only",
+		"weight": 164,
+		"price": 3870
+	},
+	{
+		"partNum": "CR5500",
+		"description": "42 Series 5 12 OClock Cabinet, Free Standing",
+		"weight": 675,
+		"price": 11330
+	},
+	{
+		"partNum": "CR5600",
+		"description": "36 Series 5 12 OClock Cabinet, Free Standing",
+		"weight": 598,
+		"price": 10770
+	},
+	{
+		"partNum": "CS12012",
+		"description": "20 Height Upper Door Module, 12 Wide",
+		"weight": 38,
+		"price": 520
+	},
+	{
+		"partNum": "CS12016",
+		"description": "20 Height Upper Door Module, 16 Wide",
+		"weight": 44,
+		"price": 520
+	},
+	{
+		"partNum": "CS12020",
+		"description": "20 Height Upper Door Module, 20 Wide",
+		"weight": 50,
+		"price": 620
+	},
+	{
+		"partNum": "CS12024",
+		"description": "20 Height Upper Door Module, 24 Wide",
+		"weight": 56,
+		"price": 760
+	},
+	{
+		"partNum": "CS12028",
+		"description": "20 Height Upper Door Module, 28 Wide",
+		"weight": 62,
+		"price": 910
+	},
+	{
+		"partNum": "CS12032",
+		"description": "20 Height Upper Door Module, 32 Wide",
+		"weight": 68,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12036",
+		"description": "20 Height Upper Door Module, 36 Wide",
+		"weight": 74,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12040",
+		"description": "20 Height Upper Door Module, 40 Wide",
+		"weight": 79,
+		"price": 1420
+	},
+	{
+		"partNum": "CS12410",
+		"description": "24 Height Upper Door Module, 10 Wide",
+		"weight": 44,
+		"price": 500
+	},
+	{
+		"partNum": "CS12410TL",
+		"description": "24 Height Upper Door Module, 10 Wide, w/Task Lighting",
+		"weight": 44,
+		"price": 500
+	},
+	{
+		"partNum": "CS12412",
+		"description": "24” Height Upper Single Door Module, 12 Wide",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412BL",
+		"description": "24 Height Upper, Blue Light Left, Single Door Module, 12 Wide",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412BR",
+		"description": "24 Height Upper, Blue Light Right, Single Door Module, 12 Wide",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412D12",
+		"description": "24 Height Upper Door Module, 12 Wide, 12 Deep",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412RL",
+		"description": "24 Height Upper, Red Light Left, Single Door Module, 12 Wide",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412RR",
+		"description": "24 Height Upper, Red Light Right, Single Door Module, 12 Wide",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12412TL",
+		"description": "24 Height Upper Single Door Module, 12 Wide w/Task Lighting",
+		"weight": 42,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416",
+		"description": "24” Height Upper Single Door Module, 16 Wide",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416BL",
+		"description": "24 Height Upper, Blue Light Left, Single Door Module, 16 Wide",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416BR",
+		"description": "24 Height Upper, Blue Light Right, Single Door Module, 16 Wide",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416D12",
+		"description": "24 Height Upper Door Module, 16 Wide, 12 Deep",
+		"weight": 50,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416RL",
+		"description": "24 Height Upper, Red Light Left, Single Door Module, 16 Wide",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416RR",
+		"description": "24 Height Upper, Red Light Right, Single Door Module, 16 Wide",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12416TL",
+		"description": "24 Height Upper Single Door Module, 16 Wide w/Task Lighting",
+		"weight": 49,
+		"price": 520
+	},
+	{
+		"partNum": "CS12420",
+		"description": "24” Height Upper Single Door Module, 20 Wide",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420BL",
+		"description": "24 Height Upper, Blue Light Left, Single Door Module, 20 Wide",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420BR",
+		"description": "24 Height Upper, Blue Light Right, Single Door Module, 20 Wide",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420D12",
+		"description": "24 Height Upper Door Module, 20 Wide, 12 Deep",
+		"weight": 57,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420RL",
+		"description": "24 Height Upper, Red Light Left, Single Door Module, 20 Wide",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420RR",
+		"description": "24 Height Upper, Red Light Right, Single Door Module, 20 Wide",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12420TL",
+		"description": "24 Height Upper Single Door Module, 20 Wide w/Task Lighting",
+		"weight": 56,
+		"price": 620
+	},
+	{
+		"partNum": "CS12424",
+		"description": "24” Height Upper Door Module, 24 Wide",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424B",
+		"description": "24 Height Upper, Blue Light, Door Module, 24 Wide",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424CG",
+		"description": "24” Height Upper Door Module w/Clock and Glove/Towel, 24 Wide",
+		"weight": 64,
+		"price": 1510
+	},
+	{
+		"partNum": "CS12424CM",
+		"description": "24 Height Upper Door Module, 24 Wide w/Clock Module",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424-CUB",
+		"description": "24” Height Upper Door Module, w/Holes For Cubbie, 24 Wide",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424D12",
+		"description": "24 Height Upper Door Module, 24 Wide, 12 Deep",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424GT",
+		"description": "24” Height Upper Door Module with Glove & Towel, 24 Wide",
+		"weight": 64,
+		"price": 1510
+	},
+	{
+		"partNum": "CS12424R",
+		"description": "24 Height Upper, Red Light, Door Module, 24 Wide",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12424TL",
+		"description": "24 Height Upper Door Module, 24 Wide w/Task Lighting",
+		"weight": 64,
+		"price": 760
+	},
+	{
+		"partNum": "CS12428",
+		"description": "24” Height Upper Door Module, 28 Wide",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428B",
+		"description": "24 Height Upper, Blue Light, Door Module, 28 Wide",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428CG",
+		"description": "24” Height Upper Door Module w/Clock and Glove/Towel, 28 Wide",
+		"weight": 71,
+		"price": 1640
+	},
+	{
+		"partNum": "CS12428CM",
+		"description": "24 Height Upper Door Module, 28 Wide w/Clock Module",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428-CUB",
+		"description": "24” Height Upper Door Module, w/Holes For Cubbie, 28 Wide",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428D12",
+		"description": "24 Height Upper Door Module, 28 Wide, 12 Deep",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428GT",
+		"description": "24” Height Upper Door Module with Glove & Towel, 28 Wide",
+		"weight": 71,
+		"price": 1640
+	},
+	{
+		"partNum": "CS12428R",
+		"description": "24 Height Upper, Red Light, Door Module, 28 Wide",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12428TL",
+		"description": "24 Height Upper Door Module, 28 Wide w/Task Lighting",
+		"weight": 71,
+		"price": 910
+	},
+	{
+		"partNum": "CS12432",
+		"description": "24” Height Upper Door Module, 32 Wide",
+		"weight": 78,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12432B",
+		"description": "24 Height Upper, Blue Light, Door Module, 32 Wide",
+		"weight": 78,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12432CG",
+		"description": "24” Height Upper Door Module w/Clock and Glove/Towel, 32 Wide",
+		"weight": 78,
+		"price": 1830
+	},
+	{
+		"partNum": "CS12432CM",
+		"description": "24 Height Upper Door Module, 32 Wide w/Clock Module",
+		"weight": 78,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12432D12",
+		"description": "24 Height Upper Door Module, 32 Wide, 12 Deep",
+		"weight": 79,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12432GT",
+		"description": "24” Height Upper Door Module with Glove & Towel, 32 Wide",
+		"weight": 78,
+		"price": 1830
+	},
+	{
+		"partNum": "CS12432R",
+		"description": "24 Height Upper, Red Light, Door Module, 32 Wide",
+		"weight": 78,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12432TL",
+		"description": "24 Height Upper Door Module, 32 Wide w/Task Lighting",
+		"weight": 78,
+		"price": 1100
+	},
+	{
+		"partNum": "CS12436",
+		"description": "24” Height Upper Door Module, 36 Wide",
+		"weight": 85,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12436B",
+		"description": "24 Height Upper, Blue Light, Door Module, 36 Wide",
+		"weight": 85,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12436CG",
+		"description": "24” Height Upper Door Module w/Clock and Glove/Towel, 36 Wide",
+		"weight": 85,
+		"price": 1970
+	},
+	{
+		"partNum": "CS12436CM",
+		"description": "24 Height Upper Door Module, 36 Wide w/Clock Module",
+		"weight": 85,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12436D12",
+		"description": "24 Height Upper Door Module, 36 Wide, 12 Deep",
+		"weight": 86,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12436GT",
+		"description": "24” Height Upper Door Module with Glove & Towel, 36 Wide",
+		"weight": 85,
+		"price": 1970
+	},
+	{
+		"partNum": "CS12436R",
+		"description": "24 Height Upper, Red Light, Door Module, 36 Wide",
+		"weight": 85,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12436TL",
+		"description": "24 Height Upper Door Module, 36 Wide w/Task Lighting",
+		"weight": 85,
+		"price": 1250
+	},
+	{
+		"partNum": "CS12440",
+		"description": "24” Height Upper Door Module, 40 Wide",
+		"weight": 92,
+		"price": 1420
+	},
+	{
+		"partNum": "CS12440B",
+		"description": "24 Height Upper, Blue Light, Door Module, 40 Wide",
+		"weight": 92,
+		"price": 1420
+	},
+	{
+		"partNum": "CS12440D12",
+		"description": "24 Height Upper Door Module, 40 Wide, 12 Deep",
+		"weight": 93,
+		"price": 1420
+	},
+	{
+		"partNum": "CS12440GT",
+		"description": "24” Height Upper Door Module with Glove & Towel, 40 Wide",
+		"weight": 92,
+		"price": 2160
+	},
+	{
+		"partNum": "CS12440R",
+		"description": "24 Height Upper, Red Light, Door Module, 40 Wide",
+		"weight": 92,
+		"price": 1420
+	},
+	{
+		"partNum": "CS12440TL",
+		"description": "24 Height Upper Door Module, 40 Wide w/Task Lighting",
+		"weight": 92,
+		"price": 1420
+	},
+	{
+		"partNum": "CS13010",
+		"description": "30 Height Upper Door Module, 10 Wide",
+		"weight": 50,
+		"price": 500
+	},
+	{
+		"partNum": "CS13010TL",
+		"description": "30 Height Upper Door Module, 10 Wide, Task Lighting",
+		"weight": 50,
+		"price": 500
+	},
+	{
+		"partNum": "CS13012",
+		"description": "30” Height Upper Door Module, 12 Wide",
+		"weight": 53,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012BL",
+		"description": "30 Height Upper, Blue Light Left, Single Door Module, 12 Wide",
+		"weight": 48,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012BR",
+		"description": "30 Height Upper, Blue Light Right, Single Door Module, 12 Wide",
+		"weight": 48,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012D12",
+		"description": "30 Height Upper Door Module, 12 Wide, 12 Deep",
+		"weight": 52,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012RL",
+		"description": "30 Height Upper, Red Light Left, Single Door Module, 12 Wide",
+		"weight": 48,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012RR",
+		"description": "30 Height Upper, Red Light Right, Single Door Module, 12 Wide",
+		"weight": 48,
+		"price": 520
+	},
+	{
+		"partNum": "CS13012TL",
+		"description": "30 Height Upper Door Module, 12 Wide w/Task Lighting",
+		"weight": 48,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016",
+		"description": "30” Height Upper Door Module, 16 Wide",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016BL",
+		"description": "30 Height Upper, Blue Light Left, Single Door Module, 16 Wide",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016BR",
+		"description": "30 Height Upper, Blue Light Right, Single Door Module, 16 Wide",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016D12",
+		"description": "30 Height Upper Door Module, 16 Wide, 12 Deep",
+		"weight": 56,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016HP",
+		"description": "30” Height Upper Door Module w/HP Cleaning Station, 16 Wide",
+		"weight": 51,
+		"price": 570
+	},
+	{
+		"partNum": "CS13016RL",
+		"description": "30 Height Upper, Red Light Left, Single Door Module, 16 Wide",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016RR",
+		"description": "30 Height Upper, Red Light Right, Single Door Module, 16 Wide",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13016TL",
+		"description": "30 Height Upper Door Module, 16 Wide w/Task Lighting",
+		"weight": 57,
+		"price": 520
+	},
+	{
+		"partNum": "CS13020",
+		"description": "30” Height Upper Door Module, 20 Wide",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020BL",
+		"description": "30 Height Upper, Blue Light Left, Single Door Module, 20 Wide",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020BR",
+		"description": "30 Height Upper, Blue Light Right, Single Door Module, 20 Wide",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020D12",
+		"description": "30 Height Upper Door Module, 20 Wide, 12 Deep",
+		"weight": 64,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020HP",
+		"description": "30” Height Upper Door Module w/HP Cleaning Station, 20 Wide",
+		"weight": 58,
+		"price": 670
+	},
+	{
+		"partNum": "CS13020RL",
+		"description": "30 Height Upper, Red Light Left, Single Door Module, 20 Wide",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020RR",
+		"description": "30 Height Upper, Red Light Right, Single Door Module, 20 Wide",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13020TL",
+		"description": "30 Height Upper Door Module, 20 Wide w/Task Lighting",
+		"weight": 66,
+		"price": 620
+	},
+	{
+		"partNum": "CS13024",
+		"description": "30” Height Upper Door Module, 24 Wide",
+		"weight": 75,
+		"price": 760
+	},
+	{
+		"partNum": "CS13024B",
+		"description": "30 Height Upper, Blue Light, Door Module, 24 Wide",
+		"weight": 75,
+		"price": 760
+	},
+	{
+		"partNum": "CS13024D12",
+		"description": "30 Height Upper Door Module, 24 Wide, 12 Deep",
+		"weight": 73,
+		"price": 760
+	},
+	{
+		"partNum": "CS13024GT",
+		"description": "30” Height Upper Door Module w/Glove and Towel, 24 Wide",
+		"weight": 75,
+		"price": 1510
+	},
+	{
+		"partNum": "CS13024HP",
+		"description": "30” Height Upper Door Module w/ HP Cleaning Station, 24 Wide",
+		"weight": 64,
+		"price": 810
+	},
+	{
+		"partNum": "CS13024R",
+		"description": "30 Height Upper, Red Light, Door Module, 24 Wide",
+		"weight": 75,
+		"price": 760
+	},
+	{
+		"partNum": "CS13024TL",
+		"description": "30 Height Upper Door Module, 24 Wide w/Task Lighting",
+		"weight": 75,
+		"price": 760
+	},
+	{
+		"partNum": "CS13028",
+		"description": "30” Height Upper Door Module, 28 Wide",
+		"weight": 84,
+		"price": 910
+	},
+	{
+		"partNum": "CS13028B",
+		"description": "30 Height Upper, Blue Light, Door Module, 28 Wide",
+		"weight": 84,
+		"price": 910
+	},
+	{
+		"partNum": "CS13028D12",
+		"description": "30 Height Upper Door Module, 28 Wide, 12 Deep",
+		"weight": 82,
+		"price": 910
+	},
+	{
+		"partNum": "CS13028GT",
+		"description": "30” Height Upper Door Module w/Glove and Towel, 28 Wide",
+		"weight": 84,
+		"price": 1640
+	},
+	{
+		"partNum": "CS13028HP",
+		"description": "30” Height Upper Door Module w/ HP Cleaning Station, 28 Wide",
+		"weight": 71,
+		"price": 960
+	},
+	{
+		"partNum": "CS13028R",
+		"description": "30 Height Upper, Red Light, Door Module, 28 Wide",
+		"weight": 84,
+		"price": 910
+	},
+	{
+		"partNum": "CS13028TL",
+		"description": "30 Height Upper Door Module, 28 Wide w/Task Lighting",
+		"weight": 84,
+		"price": 910
+	},
+	{
+		"partNum": "CS13032",
+		"description": "30” Height Upper Door Module, 32 Wide",
+		"weight": 94,
+		"price": 1100
+	},
+	{
+		"partNum": "CS13032B",
+		"description": "30 Height Upper, Blue Light, Door Module, 32 Wide",
+		"weight": 94,
+		"price": 1100
+	},
+	{
+		"partNum": "CS13032D12",
+		"description": "30 Height Upper Door Module, 32 Wide, 12 Deep",
+		"weight": 91,
+		"price": 1100
+	},
+	{
+		"partNum": "CS13032GT",
+		"description": "30” Height Upper Door Module w/Glove and Towel, 32 Wide",
+		"weight": 94,
+		"price": 1830
+	},
+	{
+		"partNum": "CS13032R",
+		"description": "30 Height Upper, Red Light, Door Module, 32 Wide",
+		"weight": 94,
+		"price": 1100
+	},
+	{
+		"partNum": "CS13032TL",
+		"description": "30 Height Upper Door Module, 32 Wide w/Task Lighting",
+		"weight": 94,
+		"price": 1100
+	},
+	{
+		"partNum": "CS13036",
+		"description": "30” Height Upper Door Module, 36 Wide",
+		"weight": 102,
+		"price": 1250
+	},
+	{
+		"partNum": "CS13036B",
+		"description": "30 Height Upper, Blue Light, Door Module, 36 Wide",
+		"weight": 102,
+		"price": 1250
+	},
+	{
+		"partNum": "CS13036D12",
+		"description": "30 Height Upper Door Module, 36 Wide, 12 Deep",
+		"weight": 99,
+		"price": 1250
+	},
+	{
+		"partNum": "CS13036GT",
+		"description": "30” Height Upper Door Module w/Glove and Towel, 36 Wide",
+		"weight": 102,
+		"price": 1970
+	},
+	{
+		"partNum": "CS13036R",
+		"description": "30 Height Upper, Red Light, Door Module, 36 Wide",
+		"weight": 102,
+		"price": 1250
+	},
+	{
+		"partNum": "CS13036TL",
+		"description": "30 Height Upper Door Module, 36 Wide w/Task Lighting",
+		"weight": 102,
+		"price": 1250
+	},
+	{
+		"partNum": "CS13040",
+		"description": "30” Height Upper Door Module, 40 Wide",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "CS13040B",
+		"description": "30 Height Upper, Blue Light, Door Module, 40 Wide",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "CS13040D12",
+		"description": "30 Height Upper Door Module, 40 Wide, 12 Deep",
+		"weight": 108,
+		"price": 1420
+	},
+	{
+		"partNum": "CS13040GT",
+		"description": "30” Height Upper Door Module w/Glove and Towel, 40 Wide",
+		"weight": 111,
+		"price": 2160
+	},
+	{
+		"partNum": "CS13040R",
+		"description": "30 Height Upper, Red Light, Door Module, 40 Wide",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "CS13040TL",
+		"description": "30 Height Upper Door Module, 40 Wide w/Task Lighting",
+		"weight": 111,
+		"price": 1420
+	},
+	{
+		"partNum": "CS1LIGHTGLOVE",
+		"description": "Wall Mount Light Cabinet w/Glove & Towel",
+		"weight": 26,
+		"price": 840
+	},
+	{ "partNum": "CS21116", "description": "1 Drawer, 1 Pullout Bin", "weight": 127, "price": 3450 },
+	{
+		"partNum": "CS21216",
+		"description": "1 False Front, 1 Pullout Bin",
+		"weight": 127,
+		"price": 3370
+	},
+	{
+		"partNum": "CS21316",
+		"description": "1 Drawer, 1 Auto Open Bin",
+		"weight": 127,
+		"price": 4580
+	},
+	{
+		"partNum": "CS21416",
+		"description": "1 False Front, 1 Auto Open Bin",
+		"weight": 127,
+		"price": 4520
+	},
+	{
+		"partNum": "CS22116",
+		"description": "Ultrasonic Recessed w/ Door, 16 Wide",
+		"weight": 106,
+		"price": 1790
+	},
+	{
+		"partNum": "CS22120",
+		"description": "Ultrasonic Recessed w/ Door, 20 Wide",
+		"weight": 124,
+		"price": 1850
+	},
+	{
+		"partNum": "CS22124",
+		"description": "Ultrasonic Recessed w/ Door, 24 Wide",
+		"weight": 141,
+		"price": 2010
+	},
+	{
+		"partNum": "CS22216",
+		"description": "Ultrasonic Drop Down w/ Door, 16 Wide",
+		"weight": 106,
+		"price": 2180
+	},
+	{
+		"partNum": "CS22220",
+		"description": "Ultrasonic Drop Down w/ Door, 20 Wide",
+		"weight": 124,
+		"price": 2260
+	},
+	{
+		"partNum": "CS22224",
+		"description": "Ultrasonic Drop Down w/ Door, 24 Wide",
+		"weight": 141,
+		"price": 2430
+	},
+	{
+		"partNum": "CS22416",
+		"description": "Ultrasonic Drop Down w/ Auto Open Trash, 16 Wide",
+		"weight": 141,
+		"price": 5330
+	},
+	{
+		"partNum": "CS22516",
+		"description": "Ultrasonic Recessed w/ Pull Out Trash, 16 Wide",
+		"weight": 141,
+		"price": 4180
+	},
+	{
+		"partNum": "CS22616",
+		"description": "Ultrasonic Recessed w/ Auto Open Trash, 16 Wide",
+		"weight": 141,
+		"price": 5330
+	},
+	{ "partNum": "CS23024", "description": "Sink Module, 24", "weight": 117, "price": 3130 },
+	{ "partNum": "CS23028", "description": "Sink Module, 28", "weight": 131, "price": 3270 },
+	{ "partNum": "CS23032", "description": "Sink Module, 32", "weight": 145, "price": 3590 },
+	{
+		"partNum": "CS23032A4",
+		"description": "ADA Sink Module, S4, 32",
+		"weight": 145,
+		"price": 4070
+	},
+	{
+		"partNum": "CS23032A5",
+		"description": "ADA Sink Module, S5, 32",
+		"weight": 145,
+		"price": 4070
+	},
+	{ "partNum": "CS23036", "description": "Sink Module, 36", "weight": 159, "price": 3990 },
+	{
+		"partNum": "CS23036A4",
+		"description": "ADA Sink Module, S4, 36",
+		"weight": 159,
+		"price": 4100
+	},
+	{
+		"partNum": "CS23036A5",
+		"description": "ADA Sink Module, S5, 36",
+		"weight": 159,
+		"price": 4100
+	},
+	{ "partNum": "CS24012", "description": "4 Drawer Module, 12", "weight": 115, "price": 1760 },
+	{ "partNum": "CS24016", "description": "4 Drawer Module, 16", "weight": 134, "price": 1890 },
+	{ "partNum": "CS24020", "description": "4 Drawer Module, 20", "weight": 154, "price": 1950 },
+	{ "partNum": "CS24024", "description": "4 Drawer Module, 24", "weight": 173, "price": 2010 },
+	{ "partNum": "CS24028", "description": "4 Drawer Module, 28", "weight": 192, "price": 2060 },
+	{ "partNum": "CS24112", "description": "5 Drawer Module, 12", "weight": 115, "price": 1800 },
+	{ "partNum": "CS24116", "description": "5 Drawer Module, 16", "weight": 134, "price": 1920 },
+	{ "partNum": "CS24120", "description": "5 Drawer Module, 20", "weight": 154, "price": 1990 },
+	{ "partNum": "CS24124", "description": "5 Drawer Module, 24", "weight": 173, "price": 2060 },
+	{ "partNum": "CS24128", "description": "5 Drawer Module, 28", "weight": 179, "price": 2110 },
+	{
+		"partNum": "CS24212",
+		"description": "Door Only Module - Single Door, 12",
+		"weight": 91,
+		"price": 1050
+	},
+	{
+		"partNum": "CS24212TWD",
+		"description": "Door Module, Top Waste Drop, 12 Wide, 36 Tall, Sterilization Center",
+		"weight": 91,
+		"price": 1260
+	},
+	{
+		"partNum": "CS24216",
+		"description": "Door Only Module - Single Door, 16",
+		"weight": 110,
+		"price": 1230
+	},
+	{
+		"partNum": "CS24216TWD",
+		"description": "Door Module, Top Waste Drop, 16 Wide, 36 Tall, Sterilization Center",
+		"weight": 110,
+		"price": 1450
+	},
+	{
+		"partNum": "CS24220",
+		"description": "Door Only Module - Single Door, 20",
+		"weight": 130,
+		"price": 1290
+	},
+	{
+		"partNum": "CS24220TWD",
+		"description": "Door Module, Top Waste Drop, 20 Wide, 36 Tall, Sterilization Center",
+		"weight": 130,
+		"price": 1510
+	},
+	{
+		"partNum": "CS24224",
+		"description": "Door Only Module - Double Doors, 24",
+		"weight": 149,
+		"price": 1580
+	},
+	{
+		"partNum": "CS24224DTWD",
+		"description": "Door Module, Double Top Waste Drop, 24 Wide, 36 Tall, Sterilization Center",
+		"weight": 149,
+		"price": 2000
+	},
+	{
+		"partNum": "CS24224TWD",
+		"description": "Door Module, Top Waste Drop, 24 Wide, 36 Tall, Sterilization Center",
+		"weight": 149,
+		"price": 1800
+	},
+	{
+		"partNum": "CS24228",
+		"description": "Door Only Module - Double Doors, 28",
+		"weight": 167,
+		"price": 1770
+	},
+	{
+		"partNum": "CS24232",
+		"description": "Door Only Module - Double Doors, 32",
+		"weight": 187,
+		"price": 1970
+	},
+	{
+		"partNum": "CS24236",
+		"description": "Door Only Module - Double Doors, 36",
+		"weight": 206,
+		"price": 2160
+	},
+	{
+		"partNum": "CS24312",
+		"description": "Small Drawer, Single Door Module, 12",
+		"weight": 100,
+		"price": 1190
+	},
+	{
+		"partNum": "CS24316",
+		"description": "Small Drawer, Single Door Module, 16",
+		"weight": 118,
+		"price": 1240
+	},
+	{
+		"partNum": "CS24320",
+		"description": "Small Drawer, Single Door Module, 20",
+		"weight": 137,
+		"price": 1260
+	},
+	{
+		"partNum": "CS24324",
+		"description": "Small Drawer, Double Door Module, 24",
+		"weight": 155,
+		"price": 1360
+	},
+	{
+		"partNum": "CS24328",
+		"description": "Small Drawer, Double Door Module, 28",
+		"weight": 174,
+		"price": 1410
+	},
+	{
+		"partNum": "CS24412",
+		"description": "Large Drawer, Single Door Module, 12",
+		"weight": 100,
+		"price": 1180
+	},
+	{
+		"partNum": "CS24416",
+		"description": "Large Drawer, Single Door Module, 16",
+		"weight": 118,
+		"price": 1200
+	},
+	{
+		"partNum": "CS24420",
+		"description": "Large Drawer, Single Door Module, 20",
+		"weight": 137,
+		"price": 1240
+	},
+	{
+		"partNum": "CS24424",
+		"description": "Large Drawer, Double Door Module, 24",
+		"weight": 155,
+		"price": 1310
+	},
+	{
+		"partNum": "CS24428",
+		"description": "Large Drawer, Double Door Module, 28",
+		"weight": 174,
+		"price": 1360
+	},
+	{
+		"partNum": "CS24512",
+		"description": "Dual Drawer, Single Door Module, 12",
+		"weight": 100,
+		"price": 1310
+	},
+	{
+		"partNum": "CS24516",
+		"description": "Dual Drawer, Single Door Module, 16",
+		"weight": 118,
+		"price": 1340
+	},
+	{
+		"partNum": "CS24520",
+		"description": "Dual Drawer, Single Door Module, 20",
+		"weight": 137,
+		"price": 1390
+	},
+	{
+		"partNum": "CS24524",
+		"description": "Dual Drawer, Double Door Module, 24",
+		"weight": 155,
+		"price": 1450
+	},
+	{
+		"partNum": "CS24528",
+		"description": "Dual Drawer, Double Door Module, 28",
+		"weight": 174,
+		"price": 1500
+	},
+	{ "partNum": "CS24601", "description": "Large Washer, 24 Wide", "weight": 33, "price": 480 },
+	{
+		"partNum": "CS24603",
+		"description": "Single Small Washer, w/Drawer Below, 24 Wide",
+		"weight": 104,
+		"price": 1190
+	},
+	{
+		"partNum": "CS24604",
+		"description": "Double Small Washer, 28 Wide",
+		"weight": 122,
+		"price": 1370
+	},
+	{
+		"partNum": "CS24816",
+		"description": "Open Module, Fixed Delivery On Slides, 16 Wide, 36 Tall, Sterilization Center",
+		"weight": 83,
+		"price": 1400
+	},
+	{
+		"partNum": "CS30024",
+		"description": "Wrapping Station Module w/ Upper Cabinet, 24 Wide",
+		"weight": 262,
+		"price": 2990
+	},
+	{
+		"partNum": "CS30024L",
+		"description": "Wrapping Station Module, 24 Wide, Lower Only",
+		"weight": 180,
+		"price": 2060
+	},
+	{
+		"partNum": "CS30024TL",
+		"description": "Wrapping Station Module w/Upper Cabinet, 24 Wide w/Task Lighting",
+		"weight": 262,
+		"price": 2990
+	},
+	{
+		"partNum": "CS30028",
+		"description": "Wrapping Station Module w/ Upper Cabinet, 28 Wide",
+		"weight": 296,
+		"price": 3370
+	},
+	{
+		"partNum": "CS30028L",
+		"description": "Wrapping Station Module, 28 Wide, Lower Only",
+		"weight": 201,
+		"price": 2130
+	},
+	{
+		"partNum": "CS30028TL",
+		"description": "Wrapping Station Module w/Upper Cabinet, 28 Wide w/Task Lighting",
+		"weight": 296,
+		"price": 3370
+	},
+	{
+		"partNum": "CS33024",
+		"description": "Sink Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 108,
+		"price": 3010
+	},
+	{
+		"partNum": "CS33028",
+		"description": "Sink Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 120,
+		"price": 3150
+	},
+	{
+		"partNum": "CS33032",
+		"description": "Sink Module, 32 Wide, 32 Tall, Steri Depth",
+		"weight": 132,
+		"price": 3480
+	},
+	{
+		"partNum": "CS33036",
+		"description": "Sink Module, 36 Wide, 32 Tall, Steri Depth",
+		"weight": 145,
+		"price": 3870
+	},
+	{
+		"partNum": "CS34012",
+		"description": "4 Drawer Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 103,
+		"price": 1640
+	},
+	{
+		"partNum": "CS34016",
+		"description": "4 Drawer Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 118,
+		"price": 1770
+	},
+	{
+		"partNum": "CS34020",
+		"description": "4 Drawer Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 134,
+		"price": 1840
+	},
+	{
+		"partNum": "CS34024",
+		"description": "4 Drawer Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 149,
+		"price": 1910
+	},
+	{
+		"partNum": "CS34028",
+		"description": "4 Drawer Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 165,
+		"price": 2010
+	},
+	{
+		"partNum": "CS34112",
+		"description": "3 Drawer Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 103,
+		"price": 1670
+	},
+	{
+		"partNum": "CS34116",
+		"description": "3 Drawer Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 118,
+		"price": 1810
+	},
+	{
+		"partNum": "CS34120",
+		"description": "3 Drawer Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 134,
+		"price": 1890
+	},
+	{
+		"partNum": "CS34124",
+		"description": "3 Drawer Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 149,
+		"price": 1950
+	},
+	{
+		"partNum": "CS34128",
+		"description": "3 Drawer Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 165,
+		"price": 2060
+	},
+	{
+		"partNum": "CS34212",
+		"description": "Door Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 80,
+		"price": 930
+	},
+	{
+		"partNum": "CS34216",
+		"description": "Door Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 82,
+		"price": 1120
+	},
+	{
+		"partNum": "CS34220",
+		"description": "Door Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 94,
+		"price": 1190
+	},
+	{
+		"partNum": "CS34224",
+		"description": "Door Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 106,
+		"price": 1480
+	},
+	{
+		"partNum": "CS34228",
+		"description": "Door Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 118,
+		"price": 1650
+	},
+	{
+		"partNum": "CS34232",
+		"description": "Door Module, 32 Wide, 32 Tall, Steri Depth",
+		"weight": 130,
+		"price": 1860
+	},
+	{
+		"partNum": "CS34236",
+		"description": "Door Module, 36 Wide, 32 Tall, Steri Depth",
+		"weight": 142,
+		"price": 2040
+	},
+	{
+		"partNum": "CS34312",
+		"description": "Small Drawer, Single Door Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 95,
+		"price": 1070
+	},
+	{
+		"partNum": "CS34316",
+		"description": "Small Drawer, Single Door Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 112,
+		"price": 1130
+	},
+	{
+		"partNum": "CS34320",
+		"description": "Small Drawer, Single Door Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 129,
+		"price": 1150
+	},
+	{
+		"partNum": "CS34324",
+		"description": "Small Drawer, Dual Door Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 146,
+		"price": 1250
+	},
+	{
+		"partNum": "CS34328",
+		"description": "Small Drawer, Dual Door Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 163,
+		"price": 1360
+	},
+	{
+		"partNum": "CS34412",
+		"description": "Large Drawer, Single Door Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 95,
+		"price": 1060
+	},
+	{
+		"partNum": "CS34416",
+		"description": "Large Drawer, Single Door Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 112,
+		"price": 1090
+	},
+	{
+		"partNum": "CS34420",
+		"description": "Large Drawer, Single Door Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 129,
+		"price": 1130
+	},
+	{
+		"partNum": "CS34424",
+		"description": "Large Drawer, Dual Door Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 146,
+		"price": 1200
+	},
+	{
+		"partNum": "CS34428",
+		"description": "Large Drawer, Dual Door Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 163,
+		"price": 1310
+	},
+	{
+		"partNum": "CS34512",
+		"description": "Dual Drawer, Single Door Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 95,
+		"price": 1200
+	},
+	{
+		"partNum": "CS34516",
+		"description": "Dual Drawer, Single Door Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 112,
+		"price": 1230
+	},
+	{
+		"partNum": "CS34520",
+		"description": "Dual Drawer, Single Door Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 129,
+		"price": 1270
+	},
+	{
+		"partNum": "CS34524",
+		"description": "Dual Drawer, Dual Door Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 146,
+		"price": 1330
+	},
+	{
+		"partNum": "CS34528",
+		"description": "Dual Drawer, Dual Door Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 163,
+		"price": 1450
+	},
+	{
+		"partNum": "CS34712",
+		"description": "Flip Down Module, 12 Wide, 32 Tall, Steri Depth",
+		"weight": 106,
+		"price": 1440
+	},
+	{
+		"partNum": "CS34716",
+		"description": "Flip Down Module, 16 Wide, 32 Tall, Steri Depth",
+		"weight": 123,
+		"price": 1560
+	},
+	{
+		"partNum": "CS34720",
+		"description": "Flip Down Module, 20 Wide, 32 Tall, Steri Depth",
+		"weight": 140,
+		"price": 1670
+	},
+	{
+		"partNum": "CS34724",
+		"description": "Flip Down Module, 24 Wide, 32 Tall, Steri Depth",
+		"weight": 156,
+		"price": 1800
+	},
+	{
+		"partNum": "CS34728",
+		"description": "Flip Down Module, 28 Wide, 32 Tall, Steri Depth",
+		"weight": 173,
+		"price": 1910
+	},
+	{
+		"partNum": "CS34816",
+		"description": "Open Module, Fixed Delivery On Slides, 16 Wide, 32 Tall, Sterilization Center",
+		"weight": 79,
+		"price": 1280
+	},
+	{ "partNum": "CS4", "description": "Series 4 Sterilization Center ", "weight": 0, "price": 0 },
+	{
+		"partNum": "CS4-10",
+		"description": "Series 4 10 Standard Sterilization Center",
+		"weight": 1197,
+		"price": 22480
+	},
+	{
+		"partNum": "CS4-12",
+		"description": "Series 4 12 Standard Sterilization Center",
+		"weight": 1394,
+		"price": 24080
+	},
+	{
+		"partNum": "CS4-14",
+		"description": "Series 4 14 Standard Sterilization Center",
+		"weight": 1478,
+		"price": 26580
+	},
+	{ "partNum": "CS5", "description": "Series 5 Sterilization Center", "weight": 0, "price": 0 },
+	{
+		"partNum": "CS5-10",
+		"description": "Series 5 10 Standard Sterilization Center",
+		"weight": 1355,
+		"price": 26060
+	},
+	{
+		"partNum": "CS5-12",
+		"description": "Series 5 12 Standard Sterilization Center",
+		"weight": 1564,
+		"price": 27660
+	},
+	{
+		"partNum": "CS5-14",
+		"description": "Series 5 14 Standard Sterilization Center",
+		"weight": 1648,
+		"price": 26920
+	},
+	{
+		"partNum": "CS52400",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Large - 1 Cassette",
+		"weight": 277,
+		"price": 5230
+	},
+	{
+		"partNum": "CS52400L",
+		"description": "24 Steri, Lower Only, 1 Cassette",
+		"weight": 83,
+		"price": 3200
+	},
+	{
+		"partNum": "CS52401",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Cassette",
+		"weight": 294,
+		"price": 4750
+	},
+	{
+		"partNum": "CS52402",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Cassette - 1 Large",
+		"weight": 277,
+		"price": 5230
+	},
+	{
+		"partNum": "CS52403",
+		"description": "24 Tower for Sterilizers, 2 Large",
+		"weight": 268,
+		"price": 4750
+	},
+	{
+		"partNum": "CS52407",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Cassette, 4 Drawer Lower",
+		"weight": 342,
+		"price": 5440
+	},
+	{
+		"partNum": "CS52408",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Cassette, 1 Drawer - 2 Door Lower",
+		"weight": 310,
+		"price": 4920
+	},
+	{
+		"partNum": "CS52409",
+		"description": "24 Tower for Sterilizers, 1 Large - 1 Cassette, 2 Drawer - 2 Door Lower",
+		"weight": 315,
+		"price": 5100
+	},
+	{
+		"partNum": "CS52410",
+		"description": "24 Tower for Sterilizers, 2 Large, 4 Drawer Lower",
+		"weight": 282,
+		"price": 5440
+	},
+	{
+		"partNum": "CS52411",
+		"description": "24 Tower for Sterilizers, 2 Large, 1 Drawer - 2 Door Lower",
+		"weight": 285,
+		"price": 4920
+	},
+	{
+		"partNum": "CS52412",
+		"description": "24 Tower for Sterilizers, 2 Large, 2 Drawer - 2 Door Lower",
+		"weight": 290,
+		"price": 5100
+	},
+	{
+		"partNum": "CS61200",
+		"description": "Pull Out Sterile Storage Tower, 12 Wide",
+		"weight": 206,
+		"price": 5920
+	},
+	{
+		"partNum": "CS61200B",
+		"description": "Pull Out Sterile Storage Tower, 12 Wide w/Blue Light",
+		"weight": 206,
+		"price": 5920
+	},
+	{
+		"partNum": "CS61201",
+		"description": "Make Ready Tower - Includes 30” Height Upper Storage and 5 Drawer Module Lower, 12 Wide",
+		"weight": 159,
+		"price": 2300
+	},
+	{
+		"partNum": "CS61201BL",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Left and 5 Drawer Module Lower, 12 Wide",
+		"weight": 159,
+		"price": 2300
+	},
+	{
+		"partNum": "CS61201BR",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Right and 5 Drawer Module Lower, 12 Wide",
+		"weight": 159,
+		"price": 2300
+	},
+	{
+		"partNum": "CS61201TL",
+		"description": "Make Ready Tower - 30 Height Upper Storage w/Task Lighting and 5 Drawer Module Lower, 12 Wide",
+		"weight": 159,
+		"price": 2300
+	},
+	{
+		"partNum": "CS61202",
+		"description": "Hinged Sterile Storage Tower, 12 Wide",
+		"weight": 159,
+		"price": 2670
+	},
+	{
+		"partNum": "CS61202B",
+		"description": "Hinged Sterile Storage Tower, 12 Wide w/Blue Light",
+		"weight": 244,
+		"price": 2670
+	},
+	{
+		"partNum": "CS61600",
+		"description": "Pull Out Sterile Storage Tower, 16 Wide",
+		"weight": 223,
+		"price": 5920
+	},
+	{
+		"partNum": "CS61600B",
+		"description": "Pull Out Sterile Storage Tower, 16 Wide w/Blue Light",
+		"weight": 223,
+		"price": 5920
+	},
+	{
+		"partNum": "CS61601",
+		"description": "Make Ready Tower - Includes 30” Height Upper Storage and 5 Drawer Module Lower, 16 Wide",
+		"weight": 189,
+		"price": 2430
+	},
+	{
+		"partNum": "CS61601BL",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Left and 5 Drawer Module Lower, 16 Wide",
+		"weight": 189,
+		"price": 2430
+	},
+	{
+		"partNum": "CS61601BR",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Right and 5 Drawer Module Lower, 16 Wide",
+		"weight": 189,
+		"price": 2430
+	},
+	{
+		"partNum": "CS61601TL",
+		"description": "Make Ready Tower - 30 Height Upper Storage w/Task Lighting and 5 Drawer Module Lower, 16 Wide",
+		"weight": 189,
+		"price": 2430
+	},
+	{
+		"partNum": "CS61602",
+		"description": "Hinged Sterile Storage Tower, 16 Wide",
+		"weight": 187,
+		"price": 2670
+	},
+	{
+		"partNum": "CS61602B",
+		"description": "Hinged Sterile Storage Tower, 16 Wide w/Blue Light",
+		"weight": 307,
+		"price": 2670
+	},
+	{
+		"partNum": "CS62001",
+		"description": "Make Ready Tower - Includes 30” Height Upper Storage and 5 Drawer Module Lower, 20 Wide",
+		"weight": 219,
+		"price": 2610
+	},
+	{
+		"partNum": "CS62001BL",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Left and 5 Drawer Module Lower, 20 Wide",
+		"weight": 219,
+		"price": 2610
+	},
+	{
+		"partNum": "CS62001BR",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light Right and 5 Drawer Module Lower, 20 Wide",
+		"weight": 219,
+		"price": 2610
+	},
+	{
+		"partNum": "CS62001TL",
+		"description": "Make Ready Tower - 30 Height Upper Storage w/Task Lighting and 5 Drawer Module Lower, 20 Wide",
+		"weight": 219,
+		"price": 2610
+	},
+	{
+		"partNum": "CS62401",
+		"description": "Make Ready Tower - Includes 30” Height Upper Storage and 5 Drawer Module Lower, 24 Wide",
+		"weight": 250,
+		"price": 2670
+	},
+	{
+		"partNum": "CS62401B",
+		"description": "Make Ready Tower - 30 Height Upper Storage, Blue Light and 5 Drawer Module Lower, 24 Wide",
+		"weight": 250,
+		"price": 2670
+	},
+	{
+		"partNum": "CS62401TL",
+		"description": "Make Ready Tower - 30 Height Upper Storage w/Task Lighting and 5 Drawer Module Lower, 24 Wide",
+		"weight": 250,
+		"price": 2670
+	},
+	{ "partNum": "CS70000", "description": "Infinity Edge Counter Tops", "weight": 0, "price": 320 },
+	{
+		"partNum": "CS70002",
+		"description": "Tapmaster Hands Free Faucet Control, Sterilization Center",
+		"weight": 2.5,
+		"price": 760
+	},
+	{
+		"partNum": "CS70003",
+		"description": "Corner Electric Outlets & Air Quick Connect",
+		"weight": 5,
+		"price": 700
+	},
+	{ "partNum": "CS70004", "description": "Task Lighting", "weight": 5, "price": 1750 },
+	{
+		"partNum": "CS70005",
+		"description": "Glass Cutout on Upper Doors (Includes 1 Door), Specify Step and Section",
+		"weight": 0,
+		"price": 290
+	},
+	{
+		"partNum": "CS70006",
+		"description": "Glass Cutouts for Clean Storage Door (2 Glass Panels)",
+		"weight": 0,
+		"price": 580
+	},
+	{
+		"partNum": "CS70007",
+		"description": "Vacuum QD Valve, Sink Mounted",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "CS70008",
+		"description": "Vacuum QD Valve, Steri Tower",
+		"weight": 0,
+		"price": 220
+	},
+	{
+		"partNum": "CS70009",
+		"description": "Additional No-Spill Collection Tray in Steri Tower",
+		"weight": 0,
+		"price": 210
+	},
+	{
+		"partNum": "CS70010",
+		"description": "Accessory Shelf for Wrap Station",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "CS70015",
+		"description": "Back Panel by the Foot - Up to 28, Specify # of Feet",
+		"weight": 19,
+		"price": 210
+	},
+	{
+		"partNum": "CS70017",
+		"description": "Large Material Storage Bins & Mounting",
+		"weight": 0,
+		"price": 220
+	},
+	{
+		"partNum": "CS70018",
+		"description": "Small Material Storage Bins & Mounting",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "CS70019",
+		"description": "Motion Activated Soap Dispenser",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "CS70020",
+		"description": "VistaPure Water Filtration System",
+		"weight": 43,
+		"price": 4680
+	},
+	{
+		"partNum": "CS70021",
+		"description": "VistaPure 9.5 Gal Storage Tank",
+		"weight": 21,
+		"price": 800
+	},
+	{
+		"partNum": "CS70022",
+		"description": "VistaPure 4.25 Gal Storage Tank",
+		"weight": 8.9,
+		"price": 480
+	},
+	{
+		"partNum": "CS70023",
+		"description": "VistaCool Single Autoclave",
+		"weight": 6.63,
+		"price": 1390
+	},
+	{
+		"partNum": "CS70024",
+		"description": "VistaCool Single Adjustable Stand",
+		"weight": 2.75,
+		"price": 220
+	},
+	{
+		"partNum": "CS70025",
+		"description": "VistaCool Double Autoclave",
+		"weight": 9.32,
+		"price": 1760
+	},
+	{
+		"partNum": "CS70026",
+		"description": "VistaCool Double Adjustable Stand",
+		"weight": 3.15,
+		"price": 220
+	},
+	{ "partNum": "CS70027", "description": "DrainHub 8-Port Adapter", "weight": 0.62, "price": 110 },
+	{
+		"partNum": "CS70028",
+		"description": "DrainHub Fittings Accessory Kit (Qty. 20)",
+		"weight": 0.31,
+		"price": 130
+	},
+	{
+		"partNum": "CS70029",
+		"description": "DrainHub 8-Port w/Fitting Kit",
+		"weight": 1.16,
+		"price": 210
+	},
+	{
+		"partNum": "CS70030",
+		"description": "Additional Electrical Outlet",
+		"weight": 5,
+		"price": 760
+	},
+	{ "partNum": "CS70031", "description": "Dress Panel Full", "weight": 37, "price": 540 },
+	{
+		"partNum": "CS70032",
+		"description": "Dress Panel 24 Tall Upper Only",
+		"weight": 7,
+		"price": 250
+	},
+	{
+		"partNum": "CS70033",
+		"description": "Dress Panel 30 Tall Upper Only",
+		"weight": 9,
+		"price": 250
+	},
+	{
+		"partNum": "CS70034",
+		"description": "Dress Panel, 20 Tall, Upper Only",
+		"weight": 5.9,
+		"price": 250
+	},
+	{ "partNum": "CS70035", "description": "Dress Panel Lower Only", "weight": 15, "price": 250 },
+	{
+		"partNum": "CS70036",
+		"description": "Solid Surface S4 Countertop, By The Inch, Sterilization Center",
+		"weight": 1.2,
+		"price": 32
+	},
+	{
+		"partNum": "CS70037",
+		"description": "Solid Surface S5 Countertop, By The Inch, Sterilization Center",
+		"weight": 1.2,
+		"price": 32
+	},
+	{
+		"partNum": "CS70038",
+		"description": "Dress Panel, 24 Tall, 12 Deep, Upper Only",
+		"weight": 6,
+		"price": 250
+	},
+	{
+		"partNum": "CS70039",
+		"description": "Dress Panel, 30 Tall, 12 Deep, Upper Only",
+		"weight": 7,
+		"price": 250
+	},
+	{
+		"partNum": "CS70040",
+		"description": "Standard Single Sink Basin, 17 x 19 x 9",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "CS70041",
+		"description": "Single Sink Basin, 21.5” x 16” x 9",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "CS70042",
+		"description": "Double Sink Basin, 13” x 16.5” x 7 Each",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "CS70045L",
+		"description": "Leg Assy, Left, 36 Tall, Sterilization Center",
+		"weight": 22,
+		"price": 440
+	},
+	{
+		"partNum": "CS70045R",
+		"description": "Leg Assy, Right, 36 Tall, Sterilization Center",
+		"weight": 22,
+		"price": 440
+	},
+	{
+		"partNum": "CS70046L",
+		"description": "Leg Assy, Left, 32 Tall, Sterilization Center",
+		"weight": 21,
+		"price": 310
+	},
+	{
+		"partNum": "CS70046R",
+		"description": "Leg Assy, Right, 32 Tall, Sterilization Center",
+		"weight": 21,
+		"price": 310
+	},
+	{
+		"partNum": "CS70047",
+		"description": "Dress Panel, 3.85 Tall, Sterilization Center",
+		"weight": 4,
+		"price": 80
+	},
+	{
+		"partNum": "CS70048",
+		"description": "Dress Panel, Lower Only, 32 Tall, Sterilization Center",
+		"weight": 14,
+		"price": 230
+	},
+	{
+		"partNum": "CS70049",
+		"description": "Dress Panel, 84 Tall, Sterilization Center",
+		"weight": 38,
+		"price": 540
+	},
+	{
+		"partNum": "CS70800",
+		"description": "8 Filler Panel Lower & Hardware",
+		"weight": 8,
+		"price": 250
+	},
+	{
+		"partNum": "CS70824",
+		"description": "8 Filler Panel 24 Upper & Hardware",
+		"weight": 7,
+		"price": 250
+	},
+	{
+		"partNum": "CS70830",
+		"description": "8 Filler Panel 30 Upper & Hardware",
+		"weight": 8,
+		"price": 250
+	},
+	{
+		"partNum": "CS70878",
+		"description": "78 Filler Panel, Sterilization Center",
+		"weight": 23,
+		"price": 670
+	},
+	{
+		"partNum": "CS70884",
+		"description": "84 Filler Panel, Sterilization Center",
+		"weight": 23,
+		"price": 700
+	},
+	{
+		"partNum": "CS80014",
+		"description": "Lower Blind Corner Module, 40 Lower, Sterilization Center",
+		"weight": 138,
+		"price": 1490
+	},
+	{
+		"partNum": "CS82414",
+		"description": "24 Height Upper Blind Corner Module, 12 Door",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS82414-14",
+		"description": "24 Height Upper Blind Corner Module, 14 Door",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS82414-16",
+		"description": "24 Height Upper Blind Corner Module, 16 Door",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS82414-18",
+		"description": "24 Height Upper Blind Corner Module, 18 Door",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS82414-20",
+		"description": "24 Height Upper Blind Corner Module, 20 Door",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS82414TL",
+		"description": "24 Height Upper Blind Corner Module w/Task Lighting",
+		"weight": 89,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014",
+		"description": "30 Height Upper Blind Corner Module, 12 Door",
+		"weight": 113,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014-14",
+		"description": "30 Height Upper Blind Corner Module, 14 Door",
+		"weight": 113,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014-16",
+		"description": "30 Height Upper Blind Corner Module, 16 Door",
+		"weight": 113,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014-18",
+		"description": "30 Height Upper Blind Corner Module, 18 Door",
+		"weight": 113,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014-20",
+		"description": "30 Height Upper Blind Corner Module, 20 Door",
+		"weight": 113,
+		"price": 760
+	},
+	{
+		"partNum": "CS83014TL",
+		"description": "30 Height Upper Blind Corner Module w/Task Lighting",
+		"weight": 113,
+		"price": 760
+	},
+	{ "partNum": "CU4", "description": "Wall Mounted Uppers", "weight": 0, "price": 0 },
+	{ "partNum": "CX48", "description": "X-Ray Pass Through", "weight": 179, "price": 3210 },
+	{
+		"partNum": "CZ1450",
+		"description": "Free-Standing Ortho Cabinet, Slide Out Unit, Left Handed",
+		"weight": 225,
+		"price": 5740
+	},
+	{
+		"partNum": "CZ1451",
+		"description": "Free-Standing Ortho Cabinet, Slide Out Unit, Right Handed",
+		"weight": 225,
+		"price": 5740
+	},
+	{
+		"partNum": "CZ1550",
+		"description": "Free-Standing Narrow Ortho Cabinet, Slide Out Unit, Left Handed",
+		"weight": 225,
+		"price": 5310
+	},
+	{
+		"partNum": "CZ1551",
+		"description": "Free-Standing Narrow Ortho Cabinet, Slide Out Unit, Right Handed",
+		"weight": 225,
+		"price": 5310
+	},
+	{
+		"partNum": "CZ1650",
+		"description": "Mobile Ortho Cabinet, Slide Out Unit, Left Handed",
+		"weight": 225,
+		"price": 5740
+	},
+	{
+		"partNum": "CZ1651",
+		"description": "Mobile Ortho Cabinet, Slide Out Unit, Right Handed",
+		"weight": 225,
+		"price": 5740
+	},
+	{
+		"partNum": "CZ1750",
+		"description": "Narrow Mobile Ortho Cabinet, Slide Out Unit, Left Handed",
+		"weight": 225,
+		"price": 5310
+	},
+	{
+		"partNum": "CZ1751",
+		"description": "Narrow Mobile Ortho Cabinet, Slide Out Unit, Right Handed",
+		"weight": 225,
+		"price": 5310
+	},
+	{
+		"partNum": "TW4010",
+		"description": "T-Wall, Series 4, 32 Tall, 17 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 197,
+		"price": 3710
+	},
+	{
+		"partNum": "TW4011",
+		"description": "T-Wall, Series 4, 32 Tall, 17 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 197,
+		"price": 3710
+	},
+	{
+		"partNum": "TW4012",
+		"description": "T-Wall, Series 4, 32 Tall, 17 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 159,
+		"price": 3420
+	},
+	{
+		"partNum": "TW4110",
+		"description": "T-Wall, Series 4, 36 Tall, 17 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 197,
+		"price": 3820
+	},
+	{
+		"partNum": "TW4111",
+		"description": "T-Wall, Series 4, 36 Tall, 17 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 197,
+		"price": 3820
+	},
+	{
+		"partNum": "TW4112",
+		"description": "T-Wall, Series 4, 36 Tall, 17 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 166,
+		"price": 3530
+	},
+	{
+		"partNum": "TW4210",
+		"description": "T-Wall, Series 4, 32 Tall, 15 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 181,
+		"price": 3670
+	},
+	{
+		"partNum": "TW4211",
+		"description": "T-Wall, Series 4, 32 Tall, 15 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 181,
+		"price": 3670
+	},
+	{
+		"partNum": "TW4212",
+		"description": "T-Wall, Series 4, 32 Tall, 15 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 151,
+		"price": 3380
+	},
+	{
+		"partNum": "TW4310",
+		"description": "T-Wall, Series 4, 36 Tall, 15 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 188,
+		"price": 3760
+	},
+	{
+		"partNum": "TW4311",
+		"description": "T-Wall, Series 4, 36 Tall, 15 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 188,
+		"price": 3760
+	},
+	{
+		"partNum": "TW4312",
+		"description": "T-Wall, Series 4, 36 Tall, 15 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 158,
+		"price": 3480
+	},
+	{
+		"partNum": "TW5010",
+		"description": "T-Wall, Series 5, 32 Tall, 17 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 192,
+		"price": 4540
+	},
+	{
+		"partNum": "TW5011",
+		"description": "T-Wall, Series 5, 32 Tall, 17 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 192,
+		"price": 4540
+	},
+	{
+		"partNum": "TW5012",
+		"description": "T-Wall, Series 5, 32 Tall, 17 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 161,
+		"price": 4120
+	},
+	{
+		"partNum": "TW5110",
+		"description": "T-Wall, Series 5, 36 Tall, 17 Deep, 30.5 Wide, Waste Drop Left",
+		"weight": 200,
+		"price": 4620
+	},
+	{
+		"partNum": "TW5111",
+		"description": "T-Wall, Series 5, 36 Tall, 17 Deep, 30.5 Wide, Waste Drop Right",
+		"weight": 200,
+		"price": 4620
+	},
+	{
+		"partNum": "TW5112",
+		"description": "T-Wall, Series 5, 36 Tall, 17 Deep, 22.75 Wide, Front Waste, Hinge Right",
+		"weight": 173,
+		"price": 4220
+	},
+
+	{ "partNum": "12", "description": "68184", "weight": 0, "price": 0 },
+	{ "partNum": "16", "description": "68185", "weight": 0, "price": 0 },
+	{ "partNum": "20", "description": "68186", "weight": 0, "price": 0 },
+	{ "partNum": "24", "description": "68187", "weight": 0, "price": 0 },
+	{ "partNum": "28", "description": "68188", "weight": 0, "price": 0 },
+	{ "partNum": "32", "description": "68189", "weight": 0, "price": 0 },
+	{ "partNum": "36", "description": "68190", "weight": 0, "price": 0 },
+	{ "partNum": "40", "description": "68191", "weight": 0, "price": 0 },
+	{ "partNum": "44", "description": "68192", "weight": 0, "price": 0 },
+	{ "partNum": "48", "description": "68193", "weight": 0, "price": 0 },
+	{ "partNum": "52", "description": "68194", "weight": 0, "price": 0 },
+	{ "partNum": "56", "description": "68195", "weight": 0, "price": 0 },
+	{ "partNum": "60", "description": "68196", "weight": 0, "price": 0 },
+	{ "partNum": "paneltap", "description": "68910", "weight": 0, "price": 0 },
+
+	{ "partNum": "dressend", "description": "Already in Dress Panel BOM", "weight": 0, "price": 0 },
+	{ "partNum": "accessend", "description": "67451-Access", "weight": 0, "price": 0 },
+	{ "partNum": "closedend", "description": "67451-Closed", "weight": 0, "price": 0 },
+	{ "partNum": "dressend15", "description": "67453-Dress", "weight": 0, "price": 0 },
+	{ "partNum": "accessend15", "description": "67453-Access", "weight": 0, "price": 0 },
+	{ "partNum": "closedend15", "description": "67453-Closed", "weight": 0, "price": 0 },
+	{ "partNum": "dressend17", "description": "67452-Dress", "weight": 0, "price": 0 },
+	{ "partNum": "accessend17", "description": "67452-Access", "weight": 0, "price": 0 },
+	{ "partNum": "closedend17", "description": "67452-Closed", "weight": 0, "price": 0 },
+	{ "partNum": "12W-Steri", "description": "67056-12", "weight": 0, "price": 0 },
+	{ "partNum": "16W-Steri", "description": "67056-16", "weight": 0, "price": 0 },
+	{ "partNum": "20W-Steri", "description": "67056-20", "weight": 0, "price": 0 },
+	{ "partNum": "24W-Steri", "description": "67056-24", "weight": 0, "price": 0 },
+	{ "partNum": "28W-Steri", "description": "67056-28", "weight": 0, "price": 0 },
+	{ "partNum": "32W-Steri", "description": "67056-32", "weight": 0, "price": 0 },
+	{ "partNum": "36W-Steri", "description": "67056-36", "weight": 0, "price": 0 },
+	{ "partNum": "40W-Steri", "description": "67056-40", "weight": 0, "price": 0 },
+	{ "partNum": "44W-Steri", "description": "67056-44", "weight": 0, "price": 0 },
+	{ "partNum": "48W-Steri", "description": "67056-48", "weight": 0, "price": 0 },
+	{ "partNum": "52W-Steri", "description": "67056-52", "weight": 0, "price": 0 },
+	{ "partNum": "56W-Steri", "description": "67056-56", "weight": 0, "price": 0 },
+	{ "partNum": "60W-Steri", "description": "67056-60", "weight": 0, "price": 0 },
+
+	{ "partNum": "12W-Side", "description": "67057-12", "weight": 0, "price": 0 },
+	{ "partNum": "16W-Side", "description": "67057-16", "weight": 0, "price": 0 },
+	{ "partNum": "20W-Side", "description": "67057-20", "weight": 0, "price": 0 },
+	{ "partNum": "24W-Side", "description": "67057-24", "weight": 0, "price": 0 },
+	{ "partNum": "28W-Side", "description": "67057-28", "weight": 0, "price": 0 },
+	{ "partNum": "32W-Side", "description": "67057-32", "weight": 0, "price": 0 },
+	{ "partNum": "36W-Side", "description": "67057-36", "weight": 0, "price": 0 },
+	{ "partNum": "40W-Side", "description": "67057-40", "weight": 0, "price": 0 },
+	{ "partNum": "44W-Side", "description": "67057-44", "weight": 0, "price": 0 },
+	{ "partNum": "48W-Side", "description": "67057-48", "weight": 0, "price": 0 },
+	{ "partNum": "52W-Side", "description": "67057-52", "weight": 0, "price": 0 },
+	{ "partNum": "56W-Side", "description": "67057-56", "weight": 0, "price": 0 },
+	{ "partNum": "60W-Side", "description": "67057-60", "weight": 0, "price": 0 },
+
+	{ "partNum": "12W-Side15", "description": "67430-12", "weight": 0, "price": 0 },
+	{ "partNum": "16W-Side15", "description": "67430-16", "weight": 0, "price": 0 },
+	{ "partNum": "20W-Side15", "description": "67430-20", "weight": 0, "price": 0 },
+	{ "partNum": "24W-Side15", "description": "67430-24", "weight": 0, "price": 0 },
+	{ "partNum": "28W-Side15", "description": "67430-28", "weight": 0, "price": 0 },
+	{ "partNum": "32W-Side15", "description": "67430-32", "weight": 0, "price": 0 },
+	{ "partNum": "36W-Side15", "description": "67430-36", "weight": 0, "price": 0 },
+	{ "partNum": "40W-Side15", "description": "67430-40", "weight": 0, "price": 0 },
+	{ "partNum": "44W-Side15", "description": "67430-44", "weight": 0, "price": 0 },
+	{ "partNum": "48W-Side15", "description": "67430-48", "weight": 0, "price": 0 },
+	{ "partNum": "52W-Side15", "description": "67430-52", "weight": 0, "price": 0 },
+	{ "partNum": "56W-Side15", "description": "67430-56", "weight": 0, "price": 0 },
+	{ "partNum": "60W-Side15", "description": "67430-60", "weight": 0, "price": 0 },
+
+	{ "partNum": "singlechase", "description": "69381", "weight": 0, "price": 0 },
+	{ "partNum": "doublechase", "description": "69383", "weight": 0, "price": 0 },
+
+	{ "partNum": "BP dressleft", "description": "69444L", "weight": 0, "price": 0 },
+	{ "partNum": "BP dressright", "description": "69444R", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend12", "description": "69445-12", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend16", "description": "69445-16", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend20", "description": "69445-20", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend24", "description": "69445-24", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend28", "description": "69445-28", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend32", "description": "69445-32", "weight": 0, "price": 0 },
+	{ "partNum": "BP backend36", "description": "69445-36", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter12", "description": "69446-12", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter16", "description": "69446-16", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter20", "description": "69446-20", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter24", "description": "69446-24", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter28", "description": "69446-28", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter32", "description": "69446-32", "weight": 0, "price": 0 },
+	{ "partNum": "BP backcenter36", "description": "69446-36", "weight": 0, "price": 0 },
+	{ "partNum": "BP tower", "description": "69447", "weight": 0, "price": 0 },
+	{ "partNum": "BP towerendleft", "description": "69447L", "weight": 0, "price": 0 },
+	{ "partNum": "BP towerendright", "description": "69447R", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink12", "description": "69448-12", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink16", "description": "69448-16", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink20", "description": "69448-20", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink24", "description": "69448-24", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink28", "description": "69448-28", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink32", "description": "69448-32", "weight": 0, "price": 0 },
+	{ "partNum": "BP sink36", "description": "69448-36", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft12", "description": "69448L-12", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft16", "description": "69448L-16", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft20", "description": "69448L-20", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft24", "description": "69448L-24", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft28", "description": "69448L-28", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft32", "description": "69448L-32", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendleft36", "description": "69448L-36", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright12", "description": "69448R-12", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright16", "description": "69448R-16", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright20", "description": "69448R-20", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright24", "description": "69448R-24", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright28", "description": "69448R-28", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright32", "description": "69448R-32", "weight": 0, "price": 0 },
+	{ "partNum": "BP sinkendright36", "description": "69448R-36", "weight": 0, "price": 0 }
+]
