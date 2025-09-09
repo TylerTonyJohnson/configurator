@@ -1,0 +1,89 @@
+[
+	{
+		"partNum": "4812E",
+		"description": "Add Mouse Tray (Attached to Keyboard Tray)",
+		"weight": 0,
+		"price": 170
+	},
+	{ "partNum": "4825E", "description": "Add Keyboard Tray", "weight": 0, "price": 360 },
+	{
+		"partNum": "6559E",
+		"description": "Add Air/Water Quick Disconnect Panel",
+		"weight": 0,
+		"price": 200
+	},
+	{
+		"partNum": "68031",
+		"description": "Computer Pkg Upgrade, Narrow Cart (includes CPU Storage w/Fan, Monitor Mount)",
+		"weight": 0,
+		"price": 650
+	},
+	{ "partNum": "68032", "description": "Delete Control Head", "weight": 0, "price": -630 },
+	{
+		"partNum": "68465",
+		"description": "2 Small Drawers, 1 Medium Drawer, 1 Deep Drawer (on standard cabinet)",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68466",
+		"description": "4 Small Drawers, 1 Deep Drawer (on standard cabinet)",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68467",
+		"description": "2 Small Drawers, 1 Medium Drawer, 1 Deep Drawer Module Option",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68468",
+		"description": "4 Small Drawers, 1 Deep Drawer Module Option",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "68469",
+		"description": "Computer Pkg Upgrade (includes CPU Storage w/Fan, Monitor Mount)",
+		"weight": 0,
+		"price": 650
+	},
+	{ "partNum": "68470", "description": "Add Dual Glove Dispenser", "weight": 0, "price": 330 },
+	{
+		"partNum": "68471",
+		"description": "Add Waste Chute & Waste Cutout",
+		"weight": 0,
+		"price": 260
+	},
+	{
+		"partNum": "68635",
+		"description": "Delete Air/Water Quick Disconnect Door & Grommet",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69507",
+		"description": "1 Keyboard Shelf, 3 Small Drawers, 1 Deep, Standard",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69508",
+		"description": "1 Keyboard Shelf, 1 Small Drawer, 1 Medium Drawer, 1 Deep Drawer, Standard",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69509",
+		"description": "1 Keyboard Shelf, 3 Small Drawers, 1 Deep, Narrow",
+		"weight": 0,
+		"price": 0
+	},
+	{
+		"partNum": "69510",
+		"description": "1 Keyboard Shelf, 1 Small Drawer, 1 Medium Drawer, 1 Deep Drawer, Narrow",
+		"weight": 0,
+		"price": 0
+	}
+]
