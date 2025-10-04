@@ -1,10 +1,10 @@
 <script>
 	import DragDropList, { VerticalDropZone, HorizontalDropZone, reorder } from 'svelte-dnd-list';
 
-	import imageDoor from '$lib/images/door.jpg';
-	import imageDrawer from '$lib/images/drawer.jpg';
-	import imageDesk from '$lib/images/desk.jpg';
-	import imageSink from '$lib/images/sink.jpg';
+	import imageDoor from '/images/door.jpg';
+	import imageDrawer from '/images/drawer.jpg';
+	import imageDesk from '/images/desk.jpg';
+	import imageSink from '/images/sink.jpg';
 
 	let images = [imageDoor, imageDrawer, imageDesk, imageSink];
 

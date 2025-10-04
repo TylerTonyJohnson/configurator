@@ -1,101 +1,56 @@
 <script>
-	import { T, useTask } from '@threlte/core';
-	import { interactivity, OrbitControls } from '@threlte/extras';
+	import { T, useThrelte, useTask } from '@threlte/core';
+	import { ContactShadows, Environment, interactivity, OrbitControls } from '@threlte/extras';
 	import { Spring } from 'svelte/motion';
 	import Drawer from './parts/Drawer.svelte';
+	import { onMount } from 'svelte';
 
-	interactivity();
+	let { scene } = useThrelte();
 
-	const scale = new Spring(1);
+	let skybox = $state.raw();
 
-	let rotation = $state(0);
-	useTask((delta) => {
-		rotation += delta;
+	const ground = { height: 15, radius: 100 };
+
+	const radius = 0.5;
+
+	const y = ground.height - radius - 0.1;
+
+	$effect(() => {
+		skybox?.position.setY(y);
 	});
 
-	const group = $state({
-		position: [0, 0.1, 0],
-		width: 0.5,
-		height: 0.3,
-		depth: 0.4,
-		panels: [
-			{ width: 0.01, height: 0.05, depth: 0.04, position: [0, 0.15, 0], rotation: [0, 0, 0] }, // Top panel
-			{ width: 0.01, height: 0.05, depth: 0.04, position: [0, -0.15, 0], rotation: [0, 0, 0] }, // Bottom panel
-			{
-				width: 0.01,
-				height: 0.05,
-				depth: 0.04,
-				position: [-0.25, 0, 0],
-				rotation: [0, Math.PI / 2, 0]
-			}, // Left panel
-			{
-				width: 0.01,
-				height: 0.05,
-				depth: 0.04,
-				position: [0.25, 0, 0],
-				rotation: [0, Math.PI / 2, 0]
-			}, // Right panel
-			{
-				width: 0.01,
-				height: 0.05,
-				depth: 0.04,
-				position: [0, 0, -0.2],
-				rotation: [Math.PI / 2, 0, 0]
-			}, // Back panel
-			{
-				width: 0.01,
-				height: 0.05,
-				depth: 0.04,
-				position: [0, 0, 0.2],
-				rotation: [Math.PI / 2, 0, 0]
-			} // Front panel
-		]
-	});
+	const envOffset = 0.671951839;
+
+	scene.environmentRotation.y = envOffset;
+	scene.backgroundRotation.y = envOffset;
 </script>
+
+<!-- ENVIRONMENT -->
+
+<Environment isBackground={true} url={'/images/hdrs/room.hdr'} backgroundIntensity={1} />
+<!-- bind:skybox -->
+<!-- {ground} -->
+
+<!-- LIGHTS -->
+<T.DirectionalLight intensity={10} position={[0, 5, 0]} castShadow />
+
+<!-- CAMERA -->
 
 <T.PerspectiveCamera
 	makeDefault
-	position={[1, 1, 1]}
+	position={[-0.5, 0.5, 0]}
 	oncreate={(ref) => {
 		ref.lookAt(0, 0, 0);
 	}}
+	near={0.001}
 >
-	<OrbitControls />
+	<OrbitControls enableDamping={true} dampingFactor={0.05} />
 </T.PerspectiveCamera>
 
-<T.AmbientLight intensity={0.5} />
+<!-- SHADOWS -->
 
-<T.DirectionalLight position={[0, 10, 10]} castShadow />
+<!-- <ContactShadows opacity={1} scale={10} blur={1} far={10} resolution={256} color="#000000" /> -->
 
-<T.PointLight position={[1, 1, 1]} intensity={5} />
-
-<!-- <T.Mesh
-	rotation.y={rotation}
-	position.y={1}
-	scale={scale.current}
-	onpointerenter={() => {
-		scale.target = 1.5;
-	}}
-	onpointerleave={() => {
-		scale.target = 1;
-	}}
-	castShadow
->
-	<T.BoxGeometry args={[1, 2, 1]} />
-	<T.MeshStandardMaterial color="hotpink" />
-</T.Mesh> -->
-<!-- <T.Group position={group.position}>
-	{#each group.panels as panel}
-		<T.Mesh position={panel.position} rotation={panel.rotation} castShadow>
-			<T.BoxGeometry args={[panel.width, panel.height, group.depth]} />
-			<T.MeshStandardMaterial color="tan" />
-		</T.Mesh>
-	{/each}
-</T.Group> -->
+<!-- MODELS -->
 
 <Drawer />
-
-<!-- <T.Mesh rotation.x={-Math.PI / 2} receiveShadow>
-	<T.CircleGeometry args={[4, 40]} />
-	<T.MeshStandardMaterial color="white" />
-</T.Mesh> -->

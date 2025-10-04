@@ -1,52 +1,52 @@
 <script>
-	import DecisionPath from '$lib/components/DecisionPath.svelte';
-	import TextTreeFull from '$lib/components/TextTreeFull.svelte';
-	import TextTreePruned from '$lib/components/TextTreePruned.svelte';
-	import TextTreeBom from '$lib/components/TextTreeBom.svelte';
+	// import DecisionPath from '$lib/components/DecisionPath.svelte';
+	// import TextTreeFull from '$lib/components/TextTreeFull.svelte';
+	// import TextTreePruned from '$lib/components/TextTreePruned.svelte';
+	// import TextTreeBom from '$lib/components/TextTreeBom.svelte';
 
-	import orthoGhost from '$lib/data/orthoGhost.json';
-	import orthoBOM from '$lib/data/orthoBOM.json';
-	import OrderedList from '$lib/components/OrderedList.svelte';
+	// import orthoGhost from '$lib/data/orthoGhost.json';
+	// import orthoBOM from '$lib/data/orthoBOM.json';
+	// import OrderedList from '$lib/components/OrderedList.svelte';
 	import Threlte from '$lib/components/Threlte.svelte';
 
-	let bomData = $state();
-	bomData = orthoBOM;
+	// let bomData = $state();
+	// bomData = orthoBOM;
 
-	let data = $state();
-	$inspect(data);
+	// let data = $state();
+	// $inspect(data);
+	//
+	// data = hydrateTree(orthoGhost);
 
-	data = hydrateTree(orthoGhost);
+	// function hydrateTree(tree) {
+	// 	traverse(tree);
 
-	function hydrateTree(tree) {
-		traverse(tree);
+	// 	function traverse(node, parent = null, path = '1') {
+	// 		// Generate ID
+	// 		node.id = node.label + ' ' + path;
 
-		function traverse(node, parent = null, path = '1') {
-			// Generate ID
-			node.id = node.label + ' ' + path;
+	// 		if (node.type === 'root') {
+	// 			node.expanded = true;
+	// 		} else {
+	// 			node.expanded = false;
+	// 		}
 
-			if (node.type === 'root') {
-				node.expanded = true;
-			} else {
-				node.expanded = false;
-			}
+	// 		// Generate parent
+	// 		node.parent = parent?.id;
 
-			// Generate parent
-			node.parent = parent?.id;
+	// 		// Generate selection variable
+	// 		if (node.action === 'Choose 1') node.selection = null;
+	// 		if (node.action === 'Boolean') node.selection = false;
 
-			// Generate selection variable
-			if (node.action === 'Choose 1') node.selection = null;
-			if (node.action === 'Boolean') node.selection = false;
-
-			// Traversal
-			if (node.children && node.children.length > 0) {
-				node.children.forEach((child, i) => {
-					traverse(child, node, `${path}.${i + 1}`);
-				});
-			}
-		}
-		console.log(tree);
-		return tree;
-	}
+	// 		// Traversal
+	// 		if (node.children && node.children.length > 0) {
+	// 			node.children.forEach((child, i) => {
+	// 				traverse(child, node, `${path}.${i + 1}`);
+	// 			});
+	// 		}
+	// 	}
+	// 	console.log(tree);
+	// 	return tree;
+	// }
 </script>
 
 <div class="frame">
