@@ -11,6 +11,7 @@
 	// Constants
 
 	// const displacementScale = 0.01;
+	
 	const textureScale = 10;
 
 	// Load Textures
