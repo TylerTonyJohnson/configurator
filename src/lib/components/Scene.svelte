@@ -4,10 +4,13 @@
 	import { Spring } from 'svelte/motion';
 	import Drawer from './parts/Drawer.svelte';
 	import { onMount } from 'svelte';
+	import Module from './parts/Module.svelte';
 
 	let { scene } = useThrelte();
 
 	let skybox = $state.raw();
+
+	interactivity();
 
 	const ground = { height: 15, radius: 100 };
 
@@ -53,4 +56,5 @@
 
 <!-- MODELS -->
 
-<Drawer />
+<!-- <Drawer /> -->
+ <Module />
