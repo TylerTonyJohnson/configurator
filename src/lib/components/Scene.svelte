@@ -86,7 +86,7 @@
 <!-- MODELS -->
 
 <!-- ARCHITECTURE -->
-<Architecture />
+<Architecture /> 
 
 <!-- <Drawer /> -->
 <!-- <Module /> -->
