@@ -11,7 +11,7 @@
 	// Constants
 
 	// const displacementScale = 0.01;
-	
+
 	const textureScale = 10;
 
 	// Load Textures
@@ -24,14 +24,13 @@
 			// displacementMap: '/images/textures/gravel/displacement.png',
 		},
 		{
-			transform: (texture, key) => {
+			transform: (texture) => {
 				// Set texture wrapping
 				texture.wrapS = texture.wrapT = RepeatWrapping;
 				texture.repeat.set(textureScale, textureScale);
 
 				// Set color space
-				if (key === 'map') texture.colorSpace = SRGBColorSpace;
-				else texture.colorSpace = NoColorSpace;
+				texture.colorSpace = texture.image.src.includes('diffuse') ? SRGBColorSpace : NoColorSpace;
 				return texture;
 			}
 		}
@@ -39,12 +38,7 @@
 </script>
 
 {#await textures then { map, normalMap, displacementMap, ormMap }}
-	<T.Mesh
-		position={position.map((v) => v / 1000)}
-		castShadow
-		receiveShadow
-		oncreate={(ref) => console.log(ref)}
-	>
+	<T.Mesh position={position.map((v) => v / 1000)} castShadow receiveShadow>
 		<!-- material={createScaledMaterials(textureReady)} -->
 		<RoundedBoxGeometry
 			args={[length / 1000, thickness / 1000, width / 1000]}
@@ -61,14 +55,13 @@
 		<T.MeshStandardMaterial
 			{map}
 			{normalMap}
-			normalScale={[.1, .1]}
+			normalScale={[0.1, 0.1]}
 			{displacementMap}
 			aoMap={ormMap}
 			aoMapIntensity={1}
 			roughnessMap={ormMap}
 			roughness={0.2}
 			metalnessMap={ormMap}
-			oncreate={(ref) => console.log(ref)}
 		/>
 		<!-- {displacementScale} -->
 		<!-- displacementBias={(displacementScale / 2) * -1} -->

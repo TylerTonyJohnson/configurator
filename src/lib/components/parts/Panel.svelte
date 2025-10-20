@@ -6,7 +6,13 @@
 
 	// Props
 
-	let { length = 500, width = 300, thickness = 19, position = [0, 0, 0] } = $props();
+	let {
+		length = 500,
+		width = 300,
+		thickness = 19,
+		position = [0, 0, 0],
+		rotation = [0, 0, 0]
+	} = $props();
 
 	// Constants
 
@@ -20,17 +26,15 @@
 			map: '/images/textures/plywood/diffuse.png',
 			normalMap: '/images/textures/plywood/normal.png',
 			ormMap: '/images/textures/plywood/orm.png'
-			// displacementMap: '/images/textures/plywood/displacement.png',
 		},
 		{
-			transform: (texture, key) => {
+			transform: (texture) => {
 				// Set texture wrapping
 				texture.wrapS = texture.wrapT = RepeatWrapping;
 				texture.repeat.set(textureScale, textureScale);
 
 				// Set color space
-				if (key === 'map') texture.colorSpace = SRGBColorSpace;
-				else texture.colorSpace = NoColorSpace;
+				texture.colorSpace = texture.image.src.includes('diffuse') ? SRGBColorSpace : NoColorSpace;
 				return texture;
 			}
 		}
@@ -38,7 +42,7 @@
 </script>
 
 {#await textures then { map, normalMap, displacementMap, ormMap }}
-	<T.Mesh position={position.map((v) => v / 1000)} castShadow receiveShadow>
+	<T.Mesh position={position.map((v) => v / 1000)} {rotation} castShadow receiveShadow>
 		<!-- material={createScaledMaterials(textureReady)} -->
 		<T.BoxGeometry
 			args={[length / 1000, thickness / 1000, width / 1000, 1, 1, 1]}
@@ -60,7 +64,6 @@
 			roughnessMap={ormMap}
 			roughness={0.2}
 			metalnessMap={ormMap}
-			oncreate={(ref) => console.log(ref)}
 		/>
 		<!-- {displacementScale} -->
 		<!-- displacementBias={(displacementScale / 2) * -1} -->

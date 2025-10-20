@@ -17,7 +17,7 @@
 	const cornerAttach = $derived(getCornerAttach(config));
 
 	const faces = $derived(getFaces(config));
-	$inspect(faces);
+	// $inspect(faces);
 
 	function getAxisAttach(config) {
 		return [
@@ -97,18 +97,19 @@
 	};
 </script>
 
-<Panel width={200} length={600} position={[0, 0, 0]} />
-<Panel width={200} length={600} position={[100, 100, 100]} />
-<Countertop width={210} length={610} position={[0, 19, 0]} />
+<Panel width={200} length={600} position={[-290, 300, 100]} rotation={[0, 0, Math.PI / 2]} />
+<Panel width={200} length={600} position={[290, 300, 100]} rotation={[0, 0, Math.PI / 2]} />
+<Countertop width={210} length={610} position={[0, 600, 100]} rotation={[0, 0, 0]} />
+<T.Group position={[0, config.height / 2 / 1000, 0]}>
+	<!-- {#each axisAttach as attach}
+		<Attach position={[attach.x, attach.y, attach.z]} color={'red'} />
+	{/each}
 
-<!-- {#each axisAttach as attach}
-	<Attach position={[attach.x, attach.y, attach.z]} color={'red'} />
-{/each}
+	{#each cornerAttach as attach}
+		<Attach position={[attach.x, attach.y, attach.z]} color={'green'} />
+	{/each}
 
-{#each cornerAttach as attach}
-	<Attach position={[attach.x, attach.y, attach.z]} color={'green'} />
-{/each}
-
-{#each faces as face}
-	<GhostPlane position={face.position} size={face.size} rotation={face.rotation} color={'teal'} />
-{/each} -->
+	{#each faces as face}
+		<GhostPlane position={face.position} size={face.size} rotation={face.rotation} color={'teal'} />
+	{/each} -->
+</T.Group>
