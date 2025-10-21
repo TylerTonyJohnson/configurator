@@ -22,7 +22,7 @@
 	// Props
 
 	let { block } = $props();
-	$inspect(block);
+	// $inspect(block);
 
 	// Constants
 
@@ -125,6 +125,7 @@
 					}
 				}}
 			/>
+			<!-- <T.MeshStandardMaterial color="tan" /> -->
 			<T.MeshStandardMaterial
 				bind:ref={material}
 				{map}

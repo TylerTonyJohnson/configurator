@@ -63,7 +63,7 @@ export default class Block {
 	 * @param init - Partial Block properties to initialize
 	 */
 	constructor(init?: Partial<Block>) {
-		console.log('Block created', this);
+		// console.log('Block created', this);
 		Object.assign(this, init);
 	}
 }

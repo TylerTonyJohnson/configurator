@@ -27,7 +27,7 @@ export default class Room {
 	 */
 	constructor(init?: Partial<Room>) {
 		if (init) Object.assign(this, init);
-		console.log('Room created', this);
+		// console.log('Room created', this);
 		// $inspect(this.cabinets, 'Room Cabinets');
 	}
 
