@@ -1,5 +1,5 @@
-<script>
-	// import DecisionPath from '$lib/components/DecisionPath.svelte';
+<script lang="ts">
+	import DecisionPath from '$lib/components/DecisionPath.svelte';
 	// import TextTreeFull from '$lib/components/TextTreeFull.svelte';
 	// import TextTreePruned from '$lib/components/TextTreePruned.svelte';
 	// import TextTreeBom from '$lib/components/TextTreeBom.svelte';
@@ -47,9 +47,33 @@
 	// 	console.log(tree);
 	// 	return tree;
 	// }
+
+	let isResizable = $state(false);
+
+	let frame = $state<HTMLDivElement>();
+	let isDragging = $state(false);
+	let leftPaneWidth = $state(50); // in percentage
+
+	function handlePointerMove(e: PointerEvent) {
+		if (frame && isDragging && isResizable) {
+			e.preventDefault();
+
+			const frameWidth = frame.offsetWidth;
+			const newWidth = e.clientX - frame.offsetLeft;
+			const newPercentage = (newWidth / frameWidth) * 100;
+
+			leftPaneWidth = Math.min(Math.max(newPercentage, 10), 90); // constrain between 10% and 90%
+		}
+	}
 </script>
 
-<div class="frame">
+<svelte:window onpointermove={handlePointerMove} onpointerup={() => (isDragging = false)} />
+
+<div
+	class="frame"
+	bind:this={frame}
+	style="grid-template-columns: {leftPaneWidth}% {100 - leftPaneWidth}%;"
+>
 	<!-- <h1>Ortho Configuration</h1> -->
 	<!-- <div class="pane-container">
 		<div class="pane">
@@ -67,13 +91,32 @@
 	</div> -->
 
 	<!-- <OrderedList /> -->
-	<Threlte />
+	<div class="pane full left">
+		<Threlte />
+	</div>
+	{#if isResizable}
+		<div
+			class="pane-divider"
+			style="left: {leftPaneWidth}%;"
+			onpointerdown={() => (isDragging = true)}
+		></div>
+	{/if}
+	<div class="pane full right">
+		Door Module
+	</div>
 </div>
 
 <style>
 	.frame {
+		/* max-width: 100%; */
 		height: 100%;
 		width: 100%;
+		display: grid;
+		grid-template-columns: 50% 50%;
+		grid-template-areas: 'left right';
+		gap: 0;
+
+		/* border: solid red 2px; */
 	}
 
 	h1 {
@@ -88,9 +131,26 @@
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
 		grid-template-rows: repeat(2, minmax(0, 1fr));
+		place-content: center;
+		place-items: center;
+	}
+
+	.pane-divider {
+		position: absolute;
+		top: 0;
+		translate: -50% 0;
+		width: 20px;
+		height: 100%;
+		/* background-color: red; */
+		z-index: 1;
+		&:hover {
+			cursor: col-resize;
+			background-color: blue;
+		}
 	}
 
 	.pane {
+		position: relative;
 		border: solid pink 1px;
 		padding: 1rem;
 		overflow: auto;
@@ -98,7 +158,21 @@
 		min-height: 0;
 
 		border: 1px solid #ddd;
-		padding: 0.75rem;
 		box-sizing: border-box;
+
+		/* border: solid teal 2px; */
+
+		&.full {
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+		&.left {
+			grid-area: left;
+		}
+		&.right {
+			grid-area: right;
+		}
 	}
 </style>
