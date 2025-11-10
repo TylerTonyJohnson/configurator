@@ -1,0 +1,15 @@
+DOOR MODULE
+
+DECISION
+    Width: 24
+    Height: 36
+    Depth: 12
+    DoorSplit: Double
+    Laminate: Oak
+    Doors: {}
+
+Door Module MEANS
+    Full Panel Back
+    Full Door Panel Front
+    Half Sandwich Sides
+    Full Sandwich Top and Bottom

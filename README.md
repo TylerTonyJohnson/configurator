@@ -1,38 +1,37 @@
-# sv
+# Configurator App Structure
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This application uses a hierarchical structure to organize components:
 
-## Creating a project
+## Hierarchy
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+```
+Room
+ └── Cabinets
+    └── Modules
 ```
 
-## Developing
+## Components
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Room
 
-```sh
-npm run dev
+The top-level container that represents a physical space.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### Cabinets
 
-## Building
+Individual storage units placed within the room. Each room can contain multiple cabinets.
 
-To create a production version of your app:
+### Modules
 
-```sh
-npm run build
-```
+Individual components or compartments inside each cabinet. Each cabinet can contain multiple modules.
 
-You can preview the production build with `npm run preview`.
+## Example
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+A typical configuration might look like:
+
+- **Kitchen Room**
+  - Cabinet 1 (Base Cabinet)
+    - Module: Drawer
+    - Module: Shelf
+  - Cabinet 2 (Wall Cabinet)
+    - Module: Shelf
+    - Module: Shelf
