@@ -6,7 +6,7 @@
 -->
 
 <script lang="ts">
-	import { debug } from '../../../stores/Debug.svelte';
+	import { debug } from '../../stores/Debug.svelte';
 
 	import { T, useThrelte } from '@threlte/core';
 	import { TransformControls, useTexture } from '@threlte/extras';

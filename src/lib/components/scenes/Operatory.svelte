@@ -1,11 +1,12 @@
 <script lang="ts">
+	import { onDestroy } from 'svelte';
 	import { T } from '@threlte/core';
 	import { Environment, TransformControls } from '@threlte/extras';
 	import Wall from '$lib/components/architecture/Wall.svelte';
 	import Floor from '$lib/components/architecture/Floor.svelte';
 	import { Color } from 'three';
 
-	import { debug } from '../../../stores/Debug.svelte';
+	import { debug } from '../../stores/Debug.svelte';
 
 	let { scene } = $props();
 
@@ -45,10 +46,23 @@
 
 	const envOffset = 0.671951839;
 
-	scene.background = new Color('#000000');
+	const originalBackground = scene.background;
+	const originalEnvRotation = scene.environmentRotation?.y;
+	const originalEnvIntensity = scene.environmentIntensity;
+	const originalBgRotation = scene.backgroundRotation?.y;
+
+	scene.background = new Color('#FFFFFF');
 	scene.environmentRotation.y = envOffset;
 	scene.environmentIntensity = 0.4;
 	scene.backgroundRotation.y = envOffset;
+
+	onDestroy(() => {
+		console.log('Destroying Void');
+		scene.background = originalBackground;
+		if (originalEnvRotation !== undefined) scene.environmentRotation.y = originalEnvRotation;
+		if (originalEnvIntensity !== undefined) scene.environmentIntensity = originalEnvIntensity;
+		if (originalBgRotation !== undefined) scene.backgroundRotation.y = originalBgRotation;
+	});
 </script>
 
 <Environment isBackground={true} url={'/images/hdrs/room.hdr'} />

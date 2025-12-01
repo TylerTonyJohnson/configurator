@@ -2,7 +2,7 @@
 	import favicon from '$lib/assets/favicon.svg';
 
 	import '../style.css/';
-	// import '@picocss/pico/css/pico.slate.css';
+	import '@picocss/pico/css/pico.slate.css';
 
 	let { children } = $props();
 </script>
